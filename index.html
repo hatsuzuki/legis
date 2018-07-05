@@ -376,7 +376,44 @@
     <!-- Custom page styles, if any -->
     <style type="text/css">
         
-        
+        @media only screen and (max-width: 350px)
+        {
+            body
+            {
+                /* font-size: 100%; */
+            }
+
+            .typeahead
+            {
+                height: 40px;
+                font-size: 1.2em;
+            }
+
+            #result
+            {
+                line-height: 1.1em !important;
+            }
+
+            #chapter, #category, #subtitle
+            {
+                font-size: 0.7em;
+            }
+
+            #section, #offence
+            {
+                font-size: 0.7em;
+            }
+
+            #agclink a
+            {
+                font-size: 0.7em;
+            }
+
+            #arrestable, #bailable, #punishment
+            {
+                font-size: 0.8em;
+            }
+        }
         
     </style>
 
@@ -390,9 +427,9 @@
         <!-- Header (page title) -->
         <div class="row">
             <h2 class="text-center header">
-                Penal Code Quick Reference
+                Legislation Quick Reference
                 <br />
-                <small style="display:block; margin-top: 0.5em;">NOTE: Proof-of-concept only. Not for operational use.</small>
+                <small style="display:block; margin-top: 0.5em;">NOTE: Development in progress. Proof-of-concept only. Not for operational use.</small>
             </h2>
         </div>
         <!-- End header -->
@@ -420,10 +457,10 @@
                 </div>
             
                 <div>
-                    <h2>
+                    <h3>
                         <span id="section"></span>
                         <span id="offence"></span>
-                    </h2>                    
+                    </h3>                    
                 </div>
                 
                 <div class="suppinfo">
@@ -458,17 +495,15 @@
                 available on the <a href="http://sso.agc.gov.sg" target="_blank">Attorney-General's Chambers website</a>.
                 <br />
                 Legislation was last amended on 2016-06-01.
+                <br /><br />
+                Currently, only <strong>Penal Code (Cap 224) offences</strong> are searchable. Stay tuned for offences from other acts!
             </div>
         </div>
         
-        <div class="row text-center" style="margin-top: 2em; font-size: 120%">
+        <div class="row text-center" style="margin-top: 2em; font-size: 14px">
             <small><a id="disclaimer_link" href="#">Show disclaimer</a></small>
             <div id="disclaimer" class="text-muted footer alert alert-warning alert-dismissible text-justify" role="alert">
                 <strong><big>DISCLAIMER</big></strong>
-                
-                <br /><br />
-                
-                All information contained in or accessible through this webpage (the "Site Information") is provided for general informational purposes only, and should not be construed as legal advice or used as a substitute for legal counsel. Users shall not act or refrain from acting on the basis of the Site Information, without seeking proper legal or other professional advice.
                 
                 <br /><br />
                 
@@ -476,19 +511,15 @@
                 
                 <br /><br />
                 
-                Users access and utilise the Site Information solely at their own risk. While every effort has been made to ensure the accuracy of the Site Information, neither this webpage's creator(s) nor the sources of the Site Information shall be responsible or liable for any loss, damage, injury, death, or any other consequences that may directly or indirectly result in any action or inaction taken in relation to, or as a result of, the Site Information.
-                
-                <br /><br />
-                
-                No part of this webpage, its source code, or the Site Information shall be reproduced without the express prior written permission of this webpage's creator(s).
-                
+                While every effort has been made to ensure the accuracy of the information contained within this site (the "Site Information"), users access and utilise the Site Information solely at their own risk. This webpage's creator(s) shall not be responsible or liable for any loss, damage, injury, death, or any other consequences that may directly or indirectly result in any action or inaction taken in relation to, or as a result of, the Site Information.
+
                 <br /><br />
                 
                 This webpage and its creator(s) are not affiliated with, nor claim any affiliation with, the Attorney-General's Chambers of the Republic of Singapore.
                 
                 <br /><br />
                 
-                <div class="text-center center-block" style="width: 20%"><a class="btn btn-success btn-lg btn-block" id="disclaimer_btn">OK</a></div>          
+                <div class="text-center center-block" style="width: 30%"><a class="btn btn-success btn-block" id="disclaimer_btn">OK</a></div>          
             </div>
         </div>
         <!-- End footer -->
