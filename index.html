@@ -1,10 +1,503 @@
-<html>
-	<head>
-		<title></title>
-	</head>
-	<body>
-		<div style="margin:auto; display:block; text-align: center; margin-top: 10%">
-		    <img src="img.jpg" width="300"/>
-	    </div>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>Penal Code Quick Reference</title>
+
+    <!-- Bootstrap -->
+    <link href="static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="static/misc/html5shiv.min.js"></script>
+        <script src="static/misc/respond.min.js"></script>
+    <![endif]-->
+    
+    
+    <!-- Dependent scripts -->
+    <script src="static/jquery/jquery-3.2.1.min.js"></script>
+    <script src="static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="static/misc/handlebars-v4.0.10.js"></script>
+    <script src="static/typeahead/typeahead.bundle.js"></script>
+    
+    
+    <!-- Main logic -->
+    <script type="text/javascript">
+        
+    // All main logic must be placed inside $(document).ready()
+    // otherwise nothing will work since the page elements have not loaded yet
+    
+    // NOTE: For reference, Twitter has ceased maintenance of the Typeahead/Bloodhound library
+    // For future code maintenance, use instad /js.org/'s fork located at /typeahead.js.org/
+    
+    $(document).ready(function()
+    {    
+        // Deletes all local storage on initialisation to fix some bugs where the search results would not load
+        localStorage.clear();
+        
+        // For mobile devices; makes it so that Autofill suggestions will not appear for the search box
+        $(".tt-input").attr("autocomplete", "off");
+        
+        
+        // Initialises first data source (searching by offence name)
+        var pc_offence = new Bloodhound(
+        {
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace("offence"),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            prefetch: "./cpc.json"
+        });              
+        
+        // Initialises second data source (searching by section number)
+        var pc_section = new Bloodhound(
+        {
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace("section"),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            prefetch: "./cpc.json"
+        });
+        
+        
+        // Just a placeholder variable to make the template options neater
+        /*
+         * Styles the results of each suggestion to include section number, offence name, and a colour-coded box that indicates the arrestability of the offence:
+         *     Green box with "A" : Arrestable offence
+         *     Red box with "N"   : Non-arrestable offence
+         *     Yellow box with "D": Depends (i.e. arrestability depends on predicate offence for e.g. criminal conspiracy)
+         */
+        // Style logic is done using a Handlebar hack (see Handlebars.registerHelper() at the bottom of the script)
+        var suggestion_template = '<div class="row"><div class="col-xs-2 col-sm-1 vc section_number">{{section}}</div><div class="col-xs-8 col-sm-10 vc">{{offence}}</div><div class="col-xs-2 col-sm-1 vc">{{#iff arrestable "==" "Yes"}}<span class="label label-success pull-right">A</span>{{else}}{{#iff arrestable "==" "No"}}<span class="label label-danger pull-right">N</span>{{else}}<span class="label label-warning pull-right">?</span>{{/iff}}{{/iff}}</span></div></div>';
+        
+        
+        // Initialises the search engine itself using the two data sources and suggestion template above
+        $("#bloodhound .typeahead").typeahead(
+        {
+            // Options
+            hint: true,         // Autocompletion of suggested result in the search bar
+            highlight: true,    // Highlights matching phrases in the suggestions menu
+            minLength: 1,       // Minimum number of characters that must be typed in the search bar before suggestions will appear
+        },
+        {
+            // First data source (search by offence)
+            name: "pc_offence",
+            display: "offence",
+            source: pc_offence.ttAdapter(),
+            limit: 100,         // Maximum number of suggestions returned
+            templates:
+            {
+                suggestion: Handlebars.compile(suggestion_template)
+            }
+        },
+        {
+            // Second data source (search by section)
+            name: "pc_section",
+            display: "offence",
+            source: pc_section.ttAdapter(),
+            limit: 100,         // Maximum number of suggestions returned
+            templates:
+            {
+                suggestion: Handlebars.compile(suggestion_template)
+            }
+        });
+        
+        
+        // Flag to determine when we should open / close the suggestion menu manually
+        var flag = 0;
+        
+        // Sets the flag accordingly when the suggestions menu is opened
+        $(".typeahead").bind("typeahead:open", function()
+        {
+            flag = 0;
+        });
+        
+        // Not really sure what this does
+        // Shows / hides the "X" in the search textbox appropriately
+        $(".typeahead").bind("typeahead:cursorchange", function()
+        {
+            $("#searchclear").toggle(Boolean($(this).val()));
+        });
+        
+        
+        // Manually prevents the suggestion menu from closing if there are results displayed
+        // Default option is to automatically close the suggestion menu once the search textbox loses focus
+        // which is undesirable in mobile devices as dismissing the on-screen keyboard will make the suggestion menu close
+        $(".typeahead").bind("typeahead:close", function()
+        {  
+            // Checks if there is something typed inside the textbox
+            // If so then do not close the suggestion menu
+            if ($(".tt-input").val())
+            {
+                $(".tt-menu").show();
+                $("#searchclear").toggle(Boolean($(this).val()));   // Also show / hide the "X" in the search textbox appropriately
+            }
+            
+            // Hides the list if there is something typed but there are no results generated (somehow && doesn't work)
+            // The flag for this is when ".tt-empty" is visible
+            if ($(".tt-empty").is(":visible"))
+            {
+                flag = 1;
+                $(".tt-menu").hide();
+            }                    
+            
+            // (Default action is to close the menu anyway so else is not needed)
+            
+        });
+        
+        
+        // Hides the "X" in the search bar on page load
+        $("#searchclear").toggle(Boolean($("#searchinput").val()));
+                        
+        // Shows the "X" in the search bar once anything is typed inside
+        $(".tt-input").keyup(function()
+        {
+            $(".typeahead").css("padding-right","2em");
+            $("#searchclear").toggle(Boolean($(this).val()));
+            
+            // But conversely hide the "X" if the search bar is emptied using the backspace key (or equivalent)
+            if ($(".tt-input").val() == "")
+            {
+                $(".typeahead").css("padding-right","15px");
+            }
+        });
+        
+        // Clear the search bar contents and close both the suggestions and results box once the "X" in the search bar is clicked
+        $("#searchclear").click(function()
+        {
+            flag = 1;
+            $(".typeahead").typeahead("val","");
+            $('.tt-menu').hide();
+            $("#bloodhound input").val('');
+            $(".tt-input").val('').focus();
+            $(".typeahead").css("padding-right","15px");
+            $("#result").addClass("hidden");
+            $(this).hide();
+        });
+        
+        
+        // Manually close the suggestion menu and show the results box once a suggestion is selected
+        $(".typeahead").bind("typeahead:select", function(event, suggestion) {
+            
+            // Defocuses the search textbox
+            $(".tt-input").blur();
+            
+            // Show / hide the "X" in the search textbox appropriately
+            $("#searchclear").toggle(Boolean($(this).val()));
+            
+            // Closes the list, bypassing the check above by setting a flag
+            flag = 1;
+            $(".tt-menu").hide();
+            
+            // Shows the results box
+            $("#result").removeClass("hidden");
+            
+            
+            // Following code is to generate the values in the results box based on pre-defined elements in the HTML
+            // Ternary operators are used because not all entries possess all elements
+            
+            // Penal code chapter number (Roman numeral)
+            // (e.g. Chapter XVI)
+            $("#result #chapter").html(suggestion.chapter ? ("Penal Code Chapter " + suggestion.chapter + ": ") : "");
+            
+            // Category of offence (tied to chapter)
+            // (e.g. Chapter XVI is "Offences against the human body")
+            $("#result #category").html(suggestion.category ? suggestion.category : "");
+            
+            // Sub-category of offence
+            // (e.g. under Chapter XVI, there is a sub-category of "Offences against life")
+            $("#result #subtitle").html(suggestion.subtitle ? ("<br /><em>" + suggestion.subtitle + "</em>") : "");
+            
+            // Section number of offence
+            // (e.g. 302)
+            $("#result #section").html(suggestion.section ? ("&#167; " + suggestion.section + "&nbsp;") : "");
+            
+            // Name of offence itself as listed in the First Schedule of the Criminal Procedure Code (Cap 68)
+            // (e.g. Murder)                        
+            $("#result #offence").html(suggestion.offence);
+            
+            // Arrestability of offence
+            // Value for each data entry is either "Yes", "No", or a "Depends" special condition copied verbatim from the First Schedule of Cap. 68 for predicate offences
+            // The arrestablefull() function specified later in the script takes in this value and styles the element accordingly
+            $("#result #arrestable").html("<strong>Arrestability: </strong> <br />" + arrestablefull(suggestion.arrestable));
+            
+            // Bailability of offence
+            // Value for each data entry is either "Yes", "No", or a "Depends" special condition copied verbatim from the First Schedule of Cap. 68 for predicate offences
+            // Just copies the value directly as further styling is not required
+            $("#result #bailable").html("<strong>Bailable:</strong> " + suggestion.bailable);
+            
+            // Maximum punishment of offence; copied verbatim from the First Schedule of Cap. 68
+            $("#result #punishment").html("<strong>Maximum punishment:</strong> " + suggestion.punishment);
+            
+            
+            // If offence has a section number, it is also listed in the Penal Code (Cap. 224)
+            // So display a button to view the offence directly in the Penal Code on AGC's website
+            if(suggestion.section)
+            {                        
+                $("#result #agclink a").html("View Penal Code offence listing");
+                
+                // Anchor link of each offence in the AGC's full document listing of Cap. 224 happens to be hardcoded
+                // Regex below removes brackets and their contents in the section number since they are not supported in the listing
+                // so e.g. 304A(b) becomes simply 304A
+                
+                section = suggestion.section.replace(/ *\([^)]*\) */g, "")
+                
+                $("#result #agclink a").attr("href", "https://sso.agc.gov.sg/Act/PC1871?ProvIds=pr" + section + "-" + "#pr" + section + "-");
+                
+                $("#result #agclink a").removeClass("hidden");
+            }
+            
+            // Else hide the button entirely
+            else
+            {
+                $("#result #agclink a").attr("href", "#");
+                $("#result #agclink a").html("");
+                $("#result #agclink a").addClass("hidden");
+            }
+                                
+        });
+        
+        
+        // Function to style a label according to the input value:
+        /*
+         *     "Yes"          : Green box with "A"
+         *     "No"           : Red box with "N"
+         *     Everything else: Mastercard
+         *                      (actually Yellow box with "D")
+         */
+        function labelcode(value)
+        {
+            switch(value)
+            {
+                case "Yes":
+                    return "<span class='label label-success arrest_label'>A</span>";
+                    break;
+                case "No":
+                    return "<span class='label label-danger arrest_label'>N</span>";
+                    break;
+                default:
+                    return "<span class='label label-warning arrest_label'>?</span>";
+            }
+        }
+        
+        // Function to style the arrestable offences box specifically
+        // Makes use of the labelcode() function specified above to style the label code
+        function arrestablefull(value)
+        {
+            switch(value)
+            {
+                case "Yes":
+                    return "<div class='text-success bg-success'>" + labelcode(value) + " May arrest without warrant</div>";
+                    break;
+                case "No":
+                    return "<div class='text-danger bg-danger'>" + labelcode(value) + " Shall not arrest without warrant</div>";
+                    break;
+                default:
+                    return "<div class='text-warning bg-warning'>" + labelcode(value) + " " + value + "</div>";
+            }
+        }
+        
+        
+        // Hides the link to re-show the disclaimer when site loads
+        $("#disclaimer_link").hide();
+        
+        // Code to show / hide the disclaimer and the link to re-show the disclaimer accordingly        
+            $("#disclaimer_link").click(function(){
+                $("#disclaimer").toggle();
+                disclaimer_toggle_check()   
+            });
+            
+            $("#disclaimer_btn").click(function(){
+                $("#disclaimer").toggle();
+                disclaimer_toggle_check()    
+            });
+            
+            function disclaimer_toggle_check()
+            {
+                if($("#disclaimer").is(":visible"))
+                    $("#disclaimer_link").hide();
+                else
+                    $("#disclaimer_link").show();
+            }
+        // End disclaimer code
+        
+    });
+    
+    
+    /*
+        Allows the use of logic in Handlebars ("iff" is just shorthand for a function separate from the default "if")
+        
+        Use like this (escape quotes using \ if nested):
+        
+            {{#iff a '==' b}}     // if comparing a single variable against a fixed value, use {{#iff a '==' 'value'}} instead
+                <code goes here>
+            {{else}}
+                <code goes here>
+            {{/iff}}
+    */
+    Handlebars.registerHelper("iff", function (v1, operator, v2, options)
+    {
+        switch (operator)
+        {
+            case "==":
+                return (v1 == v2) ? options.fn(this) : options.inverse(this);
+            case "===":
+                return (v1 === v2) ? options.fn(this) : options.inverse(this);
+            case "!=":
+                return (v1 != v2) ? options.fn(this) : options.inverse(this);
+            case "!==":
+                return (v1 !== v2) ? options.fn(this) : options.inverse(this);
+            case "<":
+                return (v1 < v2) ? options.fn(this) : options.inverse(this);
+            case "<=":
+                return (v1 <= v2) ? options.fn(this) : options.inverse(this);
+            case ">":
+                return (v1 > v2) ? options.fn(this) : options.inverse(this);
+            case ">=":
+                return (v1 >= v2) ? options.fn(this) : options.inverse(this);
+            case "&&":
+                return (v1 && v2) ? options.fn(this) : options.inverse(this);
+            case "||":
+                return (v1 || v2) ? options.fn(this) : options.inverse(this);
+            default:
+                return options.inverse(this);
+        }
+    });
+                    
+    </script>
+    
+    <!-- CSS styles -->
+    <link href="static/styles.css" rel="stylesheet">
+    
+    
+    <!-- Custom page styles, if any -->
+    <style type="text/css">
+        
+        
+        
+    </style>
+
+</head>
+
+
+<body>
+    
+    <div class="container">
+        
+        <!-- Header (page title) -->
+        <div class="row">
+            <h2 class="text-center header">
+                Penal Code Quick Reference
+                <br />
+                <small style="display:block; margin-top: 0.5em;">NOTE: Proof-of-concept only. Not for operational use.</small>
+            </h2>
+        </div>
+        <!-- End header -->
+        
+        
+        <!-- Search bar and "X" -->
+        <!-- (suggestions menu will be created automatically by Bloodhound) -->
+        <div class="row">
+            <div id="bloodhound" class="btn-group">
+                <input class="typeahead form-control input-lg" type="text" placeholder="Search by name or section number..." size="100" autocomplete="off" />
+                <span id="searchclear" class="glyphicon glyphicon-remove"></span>
+            </div>
+        </div>
+        <!-- End search bar and "X" -->
+        
+        
+        <!-- Results box (hidden at first) -->
+        <div class="row">
+            <div id="result" class="hidden">
+                                     
+                <div>
+                    <small id="chapter"></small>
+                    <small id="category"></small>
+                    <small id="subtitle" class="text-muted"></small>
+                </div>
+            
+                <div>
+                    <h2>
+                        <span id="section"></span>
+                        <span id="offence"></span>
+                    </h2>                    
+                </div>
+                
+                <div class="suppinfo">
+                    <div id="arrestable"></div>
+                </div>
+                
+                <div class="suppinfo">
+                    <div id="bailable"></div>
+                </div>
+                
+                <div class="suppinfo">
+                    <div id="punishment"></div>
+                </div>
+                
+                <div>
+                    <div id="agclink"><a class="btn btn-block btn-lg btn-primary hidden" href="#" target="_blank"></a></div>
+                </div>
+                
+                <br />
+                
+            </div>
+        </div>
+        <!-- End results box -->
+        
+        
+        <!-- Footer -->
+        <!-- (Contents and layout will slightly differ depending on screen size to make things look neater) -->
+        <div class="row">
+            <div class="text-center text-muted footer">
+                Source: <a href="https://sso.agc.gov.sg/Act/CPC2010?ProvIds=Sc1-#Sc1-" target="_blank">First Schedule of the Criminal Procedure Code<span class="hidden-xs"> (Cap. 68)</span></a>,
+                <span class="hidden-md hidden-lg"><br /></span>
+                available on the <a href="http://sso.agc.gov.sg" target="_blank">Attorney-General's Chambers website</a>.
+                <br />
+                Legislation was last amended on 2016-06-01.
+            </div>
+        </div>
+        
+        <div class="row text-center" style="margin-top: 2em; font-size: 120%">
+            <small><a id="disclaimer_link" href="#">Show disclaimer</a></small>
+            <div id="disclaimer" class="text-muted footer alert alert-warning alert-dismissible text-justify" role="alert">
+                <strong><big>DISCLAIMER</big></strong>
+                
+                <br /><br />
+                
+                All information contained in or accessible through this webpage (the "Site Information") is provided for general informational purposes only, and should not be construed as legal advice or used as a substitute for legal counsel. Users shall not act or refrain from acting on the basis of the Site Information, without seeking proper legal or other professional advice.
+                
+                <br /><br />
+                
+                The Site Information and this webpage in its entirety are strictly intended as a proof-of-concept only, and shall not be used for operational purposes.
+                
+                <br /><br />
+                
+                Users access and utilise the Site Information solely at their own risk. While every effort has been made to ensure the accuracy of the Site Information, neither this webpage's creator(s) nor the sources of the Site Information shall be responsible or liable for any loss, damage, injury, death, or any other consequences that may directly or indirectly result in any action or inaction taken in relation to, or as a result of, the Site Information.
+                
+                <br /><br />
+                
+                No part of this webpage, its source code, or the Site Information shall be reproduced without the express prior written permission of this webpage's creator(s).
+                
+                <br /><br />
+                
+                This webpage and its creator(s) are not affiliated with, nor claim any affiliation with, the Attorney-General's Chambers of the Republic of Singapore.
+                
+                <br /><br />
+                
+                <div class="text-center center-block" style="width: 20%"><a class="btn btn-success btn-lg btn-block" id="disclaimer_btn">OK</a></div>          
+            </div>
+        </div>
+        <!-- End footer -->
+           
+    </div>
+    
+    <br /> 
+    <br />
+
+</body>
+
 </html>
