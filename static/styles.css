@@ -150,6 +150,7 @@ html, body
 
 }
 
+
 #result .suppinfo
 {
     margin-top: 20px;
@@ -199,7 +200,7 @@ html, body
   
   .typeahead
   {
-      font-size: 1.8em;
+      font-size: 1.5em;
   }
   
   .tt-suggestion

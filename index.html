@@ -71,7 +71,7 @@
          *     Yellow box with "D": Depends (i.e. arrestability depends on predicate offence for e.g. criminal conspiracy)
          */
         // Style logic is done using a Handlebar hack (see Handlebars.registerHelper() at the bottom of the script)
-        var suggestion_template = '<div class="row"><div class="col-xs-2 col-sm-1 vc section_number">{{section}}</div><div class="col-xs-8 col-sm-10 vc">{{offence}}</div><div class="col-xs-2 col-sm-1 vc">{{#iff arrestable "==" "Yes"}}<span class="label label-success pull-right">A</span>{{else}}{{#iff arrestable "==" "No"}}<span class="label label-danger pull-right">N</span>{{else}}<span class="label label-warning pull-right">?</span>{{/iff}}{{/iff}}</span></div></div>';
+        var suggestion_template = '<div class="row"><div class="col-xs-2 col-sm-1 vc section_number">{{section}}</div><div class="col-xs-8 col-sm-10 vc">{{offence}}</div><div class="col-xs-2 col-sm-1 vc">{{#iff arrestable "==" "May arrest without warrant"}}<span class="label label-success pull-right">A</span>{{else}}{{#iff arrestable "==" "Shall not arrest without warrant"}}<span class="label label-danger pull-right">N</span>{{else}}<span class="label label-warning pull-right">?</span>{{/iff}}{{/iff}}</span></div></div>';
         
         
         // Initialises the search engine itself using the two data sources and suggestion template above
@@ -199,18 +199,6 @@
             // Following code is to generate the values in the results box based on pre-defined elements in the HTML
             // Ternary operators are used because not all entries possess all elements
             
-            // Penal code chapter number (Roman numeral)
-            // (e.g. Chapter XVI)
-            $("#result #chapter").html(suggestion.chapter ? ("Penal Code Chapter " + suggestion.chapter + ": ") : "");
-            
-            // Category of offence (tied to chapter)
-            // (e.g. Chapter XVI is "Offences against the human body")
-            $("#result #category").html(suggestion.category ? suggestion.category : "");
-            
-            // Sub-category of offence
-            // (e.g. under Chapter XVI, there is a sub-category of "Offences against life")
-            $("#result #subtitle").html(suggestion.subtitle ? ("<br /><em>" + suggestion.subtitle + "</em>") : "");
-            
             // Section number of offence
             // (e.g. 302)
             $("#result #section").html(suggestion.section ? ("&#167; " + suggestion.section + "&nbsp;") : "");
@@ -263,19 +251,19 @@
         
         // Function to style a label according to the input value:
         /*
-         *     "Yes"          : Green box with "A"
-         *     "No"           : Red box with "N"
-         *     Everything else: Mastercard
-         *                      (actually Yellow box with "D")
+         *     Arrestable       : Green box with "A"
+         *     Non-arrestable   : Red box with "N"
+         *     Everything else  : Mastercard
+         *                        (actually Yellow box with "?")
          */
         function labelcode(value)
         {
             switch(value)
             {
-                case "Yes":
+                case "May arrest without warrant":
                     return "<span class='label label-success arrest_label'>A</span>";
                     break;
-                case "No":
+                case "Shall not arrest without warrant":
                     return "<span class='label label-danger arrest_label'>N</span>";
                     break;
                 default:
@@ -289,10 +277,10 @@
         {
             switch(value)
             {
-                case "Yes":
+                case "May arrest without warrant":
                     return "<div class='text-success bg-success'>" + labelcode(value) + " May arrest without warrant</div>";
                     break;
-                case "No":
+                case "Shall not arrest without warrant":
                     return "<div class='text-danger bg-danger'>" + labelcode(value) + " Shall not arrest without warrant</div>";
                     break;
                 default:
@@ -449,14 +437,7 @@
         <!-- Results box (hidden at first) -->
         <div class="row">
             <div id="result" class="hidden">
-                                     
-                <div>
-                    <small id="chapter"></small>
-                    <small id="category"></small>
-                    <small id="subtitle" class="text-muted"></small>
-                </div>
-            
-                <div>
+                <div style="margin-top: -0.5em">
                     <h3>
                         <span id="section"></span>
                         <span id="offence"></span>
@@ -494,13 +475,13 @@
                 <span class="hidden-md hidden-lg"><br /></span>
                 available on the <a href="http://sso.agc.gov.sg" target="_blank">Attorney-General's Chambers website</a>.
                 <br />
-                Legislation was last amended on 2016-06-01.
+                Legislation was last amended on 2018-05-16.
                 <br /><br />
-                Currently, <strong>only Penal Code (Cap 224) offences are searchable</strong>. Stay tuned for offences from other statutes and acts!
+                Currently, <strong>only Penal Code (Cap 224) offences are searchable</strong>. Stay tuned for other statutes!
             </div>
         </div>
         
-        <div class="row text-center" style="margin-top: 2em; font-size: 14px">
+        <div class="row text-center" style="margin-top: 1em; font-size: 15px">
             <small><a id="disclaimer_link" href="#">Show disclaimer</a></small>
             <div id="disclaimer" class="text-muted footer alert alert-warning alert-dismissible text-justify" role="alert">
                 <strong><big>DISCLAIMER</big></strong>
@@ -508,7 +489,7 @@
                 <br /><br />
                 
                 All information contained within this site (the "Site Information") is strictly intended as a proof-of-concept only.
-                <br />
+                <br /><br />
                 <strong>If in doubt, users are strongly encouraged to double-check with <u><a href="https://sso.agc.gov.sg/Act/CPC2010?ProvIds=Sc1-#Sc1-" target="_blank" style="color: rgb(128,100,32)">AGC's website</a></u> first.</strong>
                 <br /><br />
                 
