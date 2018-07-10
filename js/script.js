@@ -238,6 +238,7 @@ $(document).ready(function()
                     // so e.g. 304A(b) becomes simply 304A
                     var agclink = suggestion["section"].replace(/ *\([^)]*\) */g, "");
                     $("#agclink").attr("href", "https://sso.agc.gov.sg/Act/PC1871?ProvIds=pr" + agclink + "-" + "#pr" + agclink + "-");
+                    break;
 
                 default: // fallback
                     $("#agclink").attr("href", "https://sso.agc.gov.sg");
