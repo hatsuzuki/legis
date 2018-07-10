@@ -1,0 +1,268 @@
+html, body
+{
+    background-color: rgb(220,240,255);
+}
+
+
+/* Search box */
+.typeahead
+{
+    width: 100%;
+    height: 60px;
+    padding: 10px 15px;
+    font-size: 1.7em;
+    /* line-height: 30px; */
+
+    border-radius: 4px;
+            
+    outline: none;
+    
+    text-overflow: ellipsis;
+
+    background-color: #fff;
+}
+
+.typeahead:active, .typeahead:focus
+{
+    /* outline: none; */
+    /* border: inherit; */
+    box-shadow: 0px 4px 5px rgba(0,0,0,0.1);
+}
+
+
+/* Suggestion box */
+.tt-menu
+{
+    margin: auto;
+    margin-top: -2px;
+    width: 100%;
+
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+
+/* xIndividual suggestion rows */
+.tt-suggestion, .tt-empty
+{
+    width: 100%;
+    margin: auto;
+    background-color: #fff;
+    padding: 10px 0;
+    font-size: 1.4em;
+    line-height: 1.5em;
+    border-top: 1px solid #ccc;
+}
+
+
+/* Currently highlighted suggestion row */
+.tt-suggestion.tt-cursor
+{
+  color: #fff;
+  background-color: rgb(0,141,200);
+}
+
+
+/* Arrestability badge in suggestion rows */
+.arrestable-badge-small
+{
+    margin: auto;
+    font-size: 80%;
+    height: 25px;
+    line-height: 25px;
+    width: 30px;
+    border-radius: 4px;
+}
+
+
+/* "X" clear button in the search bar */
+#searchclear
+{
+    font-size: 150%;
+    position: absolute;
+    text-align: center;
+
+    height: 60px;
+    line-height: 60px; /* set line-height = height for vertical centering */
+    right: 0;
+
+    z-index:999;
+
+    margin-right: 1em;
+}
+
+
+/* Results box */
+#result
+{
+    width: 100%;
+    padding: 10px 15px;
+    
+    font-size: 1.5em;
+    
+    background-color: #fff;
+
+    border-radius: 4px;
+            
+    border: 1px solid #ccc;
+
+    overflow: hidden;
+
+}
+
+
+/* Arrestability box in results */
+#arrestable
+{
+    border-radius: 5px;
+    display: table;
+}
+
+#arrestable-badge-container
+{
+    display: table-cell;
+    vertical-align: middle;
+    width: 50px;
+}
+
+#arrestable-badge
+{
+    width: 35px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+    /* float: left; */
+}
+
+#arrestable-desc
+{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 0.9em;
+}
+
+
+/* Different colours for arrestability box */
+.div-arrestable
+{
+    color: rgb(75,116,67);
+    background-color: rgb(226,239,218);
+}
+
+.div-nonarrestable
+{
+    color: rgb(156,74,70);
+    background-color: rgb(250,223,222);
+}
+
+.div-depends
+{
+    color: rgb(133,109,76);
+    background-color: rgb(251,248,229);
+}
+
+
+
+/* Disclaimer box */
+#disclaimer
+{
+    border: 1px solid rgba(128,100,32,0.3);
+}
+
+#disclaimer-dismiss
+{
+    margin: auto;
+    width: 50%;
+    max-width: 200px;
+}
+
+
+/* Styles for small screen sizes (mobile phone) */
+@media (max-width: 767px)
+{
+    .typeahead
+    {
+        font-size: 20px;
+        height: 50px;
+    }
+
+    #searchclear
+    {
+        font-size: 1em;
+        height: 50px;
+        line-height: 50px;
+    }
+
+    .tt-menu, .tt-suggestion
+    {
+        font-size: 18px;
+    }
+
+    #result h2
+    { font-size: 1.1em; }
+
+    #result h5
+    { font-size: 0.7em; }
+
+    #arrestable-desc
+    { font-size: 0.8em; }
+
+    #arrestable-badge
+    {
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .suppinfo
+    { font-size: 0.7em; }
+
+}
+
+
+/* Styles for extremely small screen sizes (iPhone 5) */
+@media (max-width: 320px)
+{
+    .header
+    { margin-bottom: 5px !important; }
+
+    .header h4
+    { font-size: 1.3em; }
+
+    .header .d-xs
+    { display: inline; }
+
+    .tt-menu, .tt-suggestion
+    { font-size: 16px; }
+
+    .arrestable-badge-small
+    { width: 25px; }
+
+    .footer
+    { font-size: 80%; }
+
+    .footer button
+    { font-size: 1.2em; }
+
+}
+
+
+
+/* Helper classes */
+
+.text-justify
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.d-xs
+{ display: none; }
+
+/* Fix for unexpected right scrolling in some occasions */
+pre
+{
+    display: none !important;
+}

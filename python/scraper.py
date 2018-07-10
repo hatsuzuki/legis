@@ -109,8 +109,11 @@ for i in offences:
 
 # write to JSON file
 f = open(FILE_PATH + "cpc.json", "w")
-f.write(json.dumps(offences_json))
+f.write(json.dumps(offences_json, indent=4, separators=(",", ": ")))
 f.close()
 
+
+# print status
 print()
 print("done: %s entries processed" % len(offences))
+print()
