@@ -160,8 +160,8 @@ $(document).ready(function()
     
     
     // Manually close the suggestion menu and show the results box once a suggestion is selected
-    $(".typeahead").on("typeahead:select", function(event, suggestion) {
-        
+    $(".typeahead").on("typeahead:select", function(event, suggestion)
+    {    
         // Defocus the search textbox
         $(".typeahead").blur();
         
