@@ -135,8 +135,11 @@ $(document).ready(function()
     // Fallback function to also show the clear button once the results menu opens
     $(".typeahead").on("typeahead:open", function()
     {
-        $("#searchclear").removeClass("d-none");
-        $(this).css("padding-right", "2em");
+        if ($(this).val() !== "")
+        {
+            $("#searchclear").removeClass("d-none");
+            $(this).css("padding-right", "2em");
+        }
     });
 
 
