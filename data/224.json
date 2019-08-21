@@ -1016,7 +1016,7 @@
         "offence": "Giving or fabricating false evidence in a judicial proceeding",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1026,7 +1026,7 @@
         "offence": "Giving or fabricating false evidence in any other case",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, and fine"
     },
     {
@@ -1066,7 +1066,7 @@
         "offence": "Corruptly using or attempting to use evidence known to be false or fabricated",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "The same as for giving or fabricating false evidence"
     },
     {
@@ -1076,7 +1076,7 @@
         "offence": "Knowingly issuing or signing a false certificate relating to any fact of which that certificate is by law admissible in evidence",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
     },
     {
@@ -1086,7 +1086,7 @@
         "offence": "Using as a true certificate one known to be false in a material point",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
     },
     {
@@ -1096,7 +1096,7 @@
         "offence": "False statement made in any declaration which is by law receivable as evidence",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
     },
     {
@@ -1106,7 +1106,7 @@
         "offence": "Using as true any such declaration known to be false",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
     },
     {
@@ -1136,7 +1136,7 @@
         "offence": "If punishable with imprisonment for less than 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
     },
     {
@@ -1146,7 +1146,7 @@
         "offence": "Intentional omission to give information of an offence by a person legally bound to inform",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 6 months, or fine, or both"
     },
     {
@@ -1156,7 +1156,7 @@
         "offence": "Giving false information respecting an offence committed",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1166,7 +1166,7 @@
         "offence": "Secreting or destroying any document or electronic record to prevent its production as evidence",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1176,7 +1176,7 @@
         "offence": "Obstructing, preventing, perverting or defeating course of justice",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -1186,7 +1186,7 @@
         "offence": "Bribery of witnesses",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -1196,7 +1196,7 @@
         "offence": "False personation for the purpose of any act or proceeding in a suit or criminal prosecution, or for becoming bail or security",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -1206,7 +1206,7 @@
         "offence": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture or in satisfaction of a fine under sentence, or in execution of a decree",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1216,7 +1216,7 @@
         "offence": "Claiming property without right, or practising deception touching any right to it, to prevent its being taken as a forfeiture, or in satisfaction of a fine under sentence, or in execution of a decree",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1226,7 +1226,7 @@
         "offence": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed after it has been satisfied",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1236,7 +1236,7 @@
         "offence": "False claim in a court of justice",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, and fine"
     },
     {
@@ -1246,7 +1246,7 @@
         "offence": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed after it has been satisfied",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1256,7 +1256,7 @@
         "offence": "False charge of offence made with intent to injure",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1266,7 +1266,7 @@
         "offence": "If offence charged is punishable with death, or imprisonment for 7 years or upwards",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1276,7 +1276,7 @@
         "offence": "Harbouring an offender, if the offence is capital",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
@@ -1286,7 +1286,7 @@
         "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1296,7 +1296,7 @@
         "offence": "If punishable with imprisonment for one year and not for 20 years",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
     },
     {
@@ -1306,7 +1306,7 @@
         "offence": "Taking gift, etc., to screen an offender from punishment, if the offence is capital",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
@@ -1316,7 +1316,7 @@
         "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1326,7 +1326,7 @@
         "offence": "If punishable with imprisonment for less than 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
     },
     {
@@ -1336,7 +1336,7 @@
         "offence": "Offering gift or restoration of property in consideration of screening offender, if the offence is capital",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
@@ -1346,7 +1346,7 @@
         "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1356,7 +1356,7 @@
         "offence": "If punishable with imprisonment for less than 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
     },
     {
@@ -1366,7 +1366,7 @@
         "offence": "Taking gift to help to recover movable property of which a person has been deprived by an offence, without causing apprehension of offender",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1376,7 +1376,7 @@
         "offence": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence is capital",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
@@ -1386,7 +1386,7 @@
         "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1396,7 +1396,7 @@
         "offence": "If punishable with imprisonment for one year and not for 20 years",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
     },
     {
@@ -1406,7 +1406,7 @@
         "offence": "Harbouring robbers or gang-robbers",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1416,7 +1416,7 @@
         "offence": "Public servant disobeying a direction of law with intent to save person from punishment, or property from forfeiture",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1426,7 +1426,7 @@
         "offence": "Public servant framing an incorrect record or writing with intent to save person from punishment, or property from forfeiture",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -1436,7 +1436,7 @@
         "offence": "Public servant in a judicial proceeding corruptly making or pronouncing an order, a report, a verdict or a decision which he knows to be contrary to law",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -1446,7 +1446,7 @@
         "offence": "Commitment for trial or confinement by a person having authority, who knows that he is acting contrary to law",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -1456,7 +1456,7 @@
         "offence": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend an offender, if the offence is capital",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
@@ -1466,7 +1466,7 @@
         "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -1476,7 +1476,7 @@
         "offence": "If punishable with imprisonment for less than 20 years",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or both"
     },
     {
@@ -1506,7 +1506,7 @@
         "offence": "If under sentence of imprisonment for less than 20 years, or lawfully committed to custody",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -1516,7 +1516,7 @@
         "offence": "Escape from confinement negligently suffered by a public servant",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1526,7 +1526,7 @@
         "offence": "Resistance or obstruction by a person to his lawful apprehension",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1536,7 +1536,7 @@
         "offence": "Resistance or obstruction to the lawful apprehension of another person, or rescuing him from lawful custody",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or both"
     },
     {
@@ -1586,7 +1586,7 @@
         "offence": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend any person in a case not provided for by section\u00a0221, 222 or 223",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -1596,7 +1596,7 @@
         "offence": "Negligent omission to do same",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -1606,7 +1606,7 @@
         "offence": "Resistance or obstruction by a person to the lawful apprehension of himself or any other person in a case not otherwise provided for",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for one year, or fine, or both"
     },
     {
@@ -1646,7 +1646,7 @@
         "offence": "Intentional insult or interruption to a public servant sitting in any stage of a judicial proceeding",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for one year, or fine*, or both"
     },
     {
@@ -1656,7 +1656,7 @@
         "offence": "Personation of an assessor",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -3746,7 +3746,7 @@
         "offence": "Cheating and thereby dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
     },
     {
