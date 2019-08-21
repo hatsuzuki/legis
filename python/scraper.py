@@ -19,7 +19,7 @@ import json
 PAGE_URL = "https://sso.agc.gov.sg/Act/CPC2010?ProvIds=Sc1-#Sc1-"
 MAIN_TABLE_ID = "Sc1-s1-s22-ta-"
 CONTENT_CELL_CLASS = "fs"
-FILE_PATH = "python/"
+FILE_PATH = ""
 
 
 # main result lists
@@ -30,11 +30,11 @@ offences_json = []
 # read scraped site contents from text file python/page.txt
 # if file not found, re-scrape from PAGE_URL and save into python/page.txt
 try:
-    page = open("python/page.txt", "r").read()
+    page = open("page.txt", "r").read()
 
 except FileNotFoundError:
     page = requests.get(PAGE_URL).text
-    f = open(FILE_PATH + "page.txt", "w")
+    f = open(FILE_PATH + "page.txt", "w+")
     f.write(page)
     f.close()
 
