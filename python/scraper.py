@@ -46,6 +46,9 @@ soup = BeautifulSoup(page, "html.parser")
 # find the specific element containing the content that we want in the page
 table = soup.find("td", {"id":MAIN_TABLE_ID}).find("table").find("tbody")
 
+# flag to highlight edge case: offences not in penal code
+# (last 4 rows of table) that will not be included for consistency
+other_offences_flag = 0
 
 # iterate through each element (i.e. row) in table,
 # grab the contents of each cell in the row,
@@ -63,6 +66,12 @@ for row in table:
     # so we have to merge them back into one element
     if len(row_result) == 9:
         row_result[0:3] = ["".join(row_result[0:3])]
+
+    # highlight edge case where row length == 6 (only present in last 4)
+    # rows of the table --- generic provisions for offences not in Penal Code
+    if len(row_result) == 6 and other_offences_flag == 0:
+        print("\nOffences not in Penal Code (omitted):")
+        other_offences_flag = 1
 
     # a valid row should have length of exactly 7
     # if length != 7, it will be removed
@@ -114,6 +123,4 @@ f.close()
 
 
 # print status
-print()
-print("done: %s entries processed" % len(offences))
-print()
+print("\n\ndone: %s entries processed\n\n" % len(offences))

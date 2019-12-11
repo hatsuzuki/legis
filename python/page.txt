@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script src="//assets.adobedtm.com/a63ef04a8a06d4763abe9b28a8d967e7e749d199/satelliteLib-db3891214175cc48594c242657d262be8297f3d8.js"></script>
+<script src="//assets.wogaa.sg/scripts/wogaa.js"></script>
 <script src="/CMS/scripts/google_analytics.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,12 +36,12 @@
     <link rel="shortcut icon" href="/s_favicon.ico" />
     <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
 
-    <link href="/CMS/Content/css/bundle?v=-oGQNM0RWqxCcv3mpUizCXbAA-1DJsCEdEBOjE6Zanw1" rel="stylesheet"/>
+    <link href="/CMS/Content/css/bundle?v=lLGR3BmtC-86Tmnbd8Py9XLUPMrKe7T6MkouJoF0yko1" rel="stylesheet"/>
 
 
     <link href="/CMS/Content/css/bootstrap-datepicker?v=NncgYdgOkhQeMRMVooo6sInf9G-pTnBQZ3OQcvjW3NM1" rel="stylesheet"/>
 
-    <link href="/Content/legis?v=OLrLuyD5O30T9O-4oVoEa2xXXFnifzSijmGw8W3YRfg1" rel="stylesheet"/>
+    <link href="/Content/legis?v=eYRo849U_JOXnjmk4sRiYexlQUZN9FAUud1nIURreek1" rel="stylesheet"/>
 
 
     
@@ -74,7 +74,9 @@
                 <div><a href="https://sso.agc.gov.sg/Help/FAQ" title="FAQ" style="color: #94001a">FAQs</a> | <a href="https://sso.agc.gov.sg/Feedback" title="Feedback" style="color: #94001a">Contact Us/Feedback</a> | <a href="https://sso.agc.gov.sg/Sitemap" title="How this site is arranged" style="color: #94001a">Site Map</a>
                 </div>
                 <div class="row">
-                    <div class="col-md-2">
+                    <div class="col-md-10">
+                    </div>
+                    <div class="col-md-2 no-side-padding">
                         <div class="input-group">
                             <span class="input-group-btn">
                                 <button type="button" class="btn btn-default" id="decFS">
@@ -87,34 +89,6 @@
                                 </button>
                             </span>
                         </div>
-                    </div>
-                    <div class="col-md-9 col-md-offset-1 no-side-padding">
-                        <form method="get" action="https://www.google.com/cse" target="_blank">
-                            <div class="input-group">                
-                                <div class="has-feedback has-clear-button">
-                                  <input type="text" class="form-control" placeholder="Search" id="SiteSearchText" name="q" title="Site Search">
-                                  <span class="form-control-feedback clear-button" aria-hidden="true">
-                                    <i class="fa fa-close"></i>
-                                  </span>
-                                </div>
-                                <span class="input-group-btn">
-                                    <button type="submit" class="btn btn-default" aria-label="Search Site">
-                                        <span class="fa fa-search">
-                                        </span>
-                                    </button>
-                                </span>
-                                <span class="input-group-select sgms-options">
-                                    <select class="form-control" name="cx" title="Search Within">
-                                        <option value="013994675213973956921:vdefhuv4hdy">
-                                            Within AGC
-                                        </option>
-                                        <option value="013994675213973956921:0rsugoxsmoo">
-                                            Within All Government
-                                        </option>
-                                    </select>
-                                </span>
-                            </div>
-                        </form>
                     </div>
                 </div>
             </div>
@@ -261,8 +235,11 @@ QUICK LINKS                                                                </div
                                                                     <a href="https://sso.agc.gov.sg/Help/FAQ">
                                                                         FAQs
                                                                     </a>
-                                                                    <a href="https://sso.agc.gov.sg/Help/Online-Guide">
-                                                                        Online Guide
+                                                                    <a href="https://sso.agc.gov.sg/Help/SSO-Guide">
+                                                                        SSO Guide
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Help/Video-Guides">
+                                                                        Video Guides
                                                                     </a>
                                                         </div>
 
@@ -371,7 +348,7 @@ QUICK LINKS                                                                </div
                         Status:<br />&nbsp;
                     </div>
                     <div class="status-value">
-                        Current version<br />as at 21 Aug 2019
+                        Current version<br />as at 11 Dec 2019
                     </div>
                 </div>
             </div>
@@ -417,7 +394,7 @@ QUICK LINKS                                                                </div
                     <div class="legis-title">
     
     <span>Criminal Procedure Code</span>
-        <a href="/Act/CPC2010?ViewType=Pdf&amp;_=20190816125711" title="Download PDF (1.4 MB)" aria-label="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+        <a href="/Act/CPC2010?ViewType=Pdf&amp;_=20191204231126" title="Download PDF (1.4 MB)" aria-label="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
             <span class="fa fa-file-pdf-o"></span>
         </a>
 </div>
@@ -427,7 +404,7 @@ QUICK LINKS                                                                </div
         Status:<br />&nbsp;
     </div>
     <div class="status-value">
-        Current version<br />as at 21 Aug 2019
+        Current version<br />as at 11 Dec 2019
         <span class="fa fa-info-circle show-status-info"></span>
         <div id="statusInfo" style="display: none"><div class="status-info">Please check the legislation timeline to ensure that you are viewing the correct legislation version. See also <a href="https://sso.agc.gov.sg/Help/FAQ#FAQ_21" class="non-ajax">FAQ B3</a>.</div></div>
     </div>
@@ -472,7 +449,7 @@ QUICK LINKS                                                                </div
                                     <li><a href="/Act/CPC2010" class="add-to-collection" data-legisTitle="Criminal Procedure Code">Add to My Collections</a></li>
                                                                     <li><a href="/Act/CPC2010?ViewType=Rss">Amendments RSS Feed</a></li>
                             <li><a href="/Act/CPC2010?ViewType=Print" data-bind="click: OnPrintClick" id="printLink">Print</a></li>
-                                <li><a href="/Help/Online-Guide/Category/4" class="help">Help</a></li>
+                                <li><a href="/Help/SSO-Guide/Category/4" class="help">Help</a></li>
                         </ul>
                     </div>
                 </div>
@@ -523,10 +500,10 @@ QUICK LINKS                                                                </div
         </div>
         <div class="title"><span class="right-arrow">&nbsp;</span></div>
     </li>
-            <li class="mobile selected" data-id="91ec44dc-eaec-4e60-a6b7-a949aa3499d4">
+            <li class="mobile selected" data-id="40d456d5-636c-4c0e-b3ec-97f922e5d5ea">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010?ValidDate=20190621&amp;ViewType=Pdf&amp;_=20190816125711" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010?ValidDate=20190621&amp;ViewType=Pdf&amp;_=20191204231126" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010?ValidDate=20190621" rel="">
@@ -545,23 +522,23 @@ QUICK LINKS                                                                </div
                                     Amended by
                                 </span>
                                 <br />
-                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=bfffefa9-7e43-44df-af4b-480a366357b1&amp;SourceValidDate=20190621&amp;SourceTransactionDate=20120831&amp;SourcePublishDate=20190326&amp;SourceDocStatus=published&amp;HistoryType=amend" target="_blank">Act 14 of 2019</a>
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=bfffefa9-7e43-44df-af4b-480a366357b1&amp;SourceValidDate=20190326&amp;SourceTransactionDate=20190326&amp;SourcePublishDate=20190326&amp;SourceDocStatus=published&amp;HistoryType=amend" target="_blank">Act 14 of 2019</a>
 
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="0b9f02b3-b422-4039-a5fa-b5211134f608">
+            <li class="mobile " data-id="9a768f32-be99-486e-b81f-c5d0fb862b1e">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101&amp;ViewType=Pdf&amp;_=20190816130009" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101&amp;ViewType=Pdf&amp;_=20191204231044" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
-                        <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101" rel="nofollow">
+                        <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101" rel="nofollow">
                             01 Jan 2019
                         </a>
                     </span>
                 </div>
-                <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101" class="timeline-popover" title="Published Date" data-date="04 Apr 2018" aria-label="Published Date" rel="nofollow">
+                <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101" class="timeline-popover" title="Published Date" data-date="04 Apr 2018" aria-label="Published Date" rel="nofollow">
                     <div class="status informal">
                                             </div>
                 </a>
@@ -576,10 +553,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="693df6d1-88f5-427d-893e-955d557c68e6">
+            <li class="mobile " data-id="6d846e50-dd40-4fd9-b7c2-956d6b84f126">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218" rel="nofollow">
@@ -602,10 +579,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="693df6d1-88f5-427d-893e-955d557c68e6">
+            <li class="mobile " data-id="6d846e50-dd40-4fd9-b7c2-956d6b84f126">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218" rel="nofollow">
@@ -628,10 +605,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="7cdb22b5-731f-4704-adb0-40ce5b9255b1">
+            <li class="mobile " data-id="83c74555-af0b-47e1-bcf9-72d6d6a01f93">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031" rel="nofollow">
@@ -654,10 +631,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="7cdb22b5-731f-4704-adb0-40ce5b9255b1">
+            <li class="mobile " data-id="83c74555-af0b-47e1-bcf9-72d6d6a01f93">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031" rel="nofollow">
@@ -680,10 +657,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="a40d36f7-3100-4f3c-a62c-3c8266d04e4a">
+            <li class="mobile " data-id="561fd77c-08fb-4e91-8349-6644422a523f">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917&amp;ViewType=Pdf&amp;_=20191204230545" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917" rel="nofollow">
@@ -706,10 +683,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="db4717da-c0a5-49f9-8a99-72295c8f7e08">
+            <li class="mobile " data-id="20696a86-7e9a-4763-8513-ae879da987ba">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831&amp;ViewType=Pdf&amp;_=20181222030041" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831" rel="nofollow">
@@ -734,10 +711,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="93021b4f-3e41-4e17-80a6-fdae3818b02b">
+            <li class="mobile " data-id="0fdb6652-fea8-4b8b-9541-ca3f8526b041">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516" rel="nofollow">
@@ -762,10 +739,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="f0262f7b-c6f6-4959-a8bf-f7bade1aab19">
+            <li class="mobile " data-id="b95a05d4-c471-4681-9535-977b79cc1f69">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001" rel="nofollow">
@@ -790,10 +767,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="1a9b7714-d41a-4d4d-9b9c-e5e75f67c56e">
+            <li class="mobile " data-id="382e8949-d86e-40c1-b3c6-fe7d1cf64760">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801" rel="nofollow">
@@ -816,10 +793,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="81f3272e-aa23-404c-b7a9-e6748a21faa3">
+            <li class="mobile " data-id="4dacf6aa-8290-43c0-9312-417594d98f29">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601&amp;ViewType=Pdf&amp;_=20191204230709" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601" rel="nofollow">
@@ -842,10 +819,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="c85a6035-fd92-4feb-9d95-a037394be42b">
+            <li class="mobile " data-id="7ea71a4e-0edf-456c-8cc7-322343ab9e26">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601&amp;ViewType=Pdf&amp;_=20181222030012" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601" rel="nofollow">
@@ -870,10 +847,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="2d3faf5b-c5e4-45dd-9422-666fda788172">
+            <li class="mobile " data-id="26693a84-589e-40cb-982a-92894079cc89">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401&amp;ViewType=Pdf&amp;_=20181222030159" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401&amp;ViewType=Pdf&amp;_=20191204225451" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401" rel="nofollow">
@@ -898,7 +875,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="a296cab9-a59e-488f-8842-4244e8996983">
+            <li class="mobile " data-id="d7e0e06d-85fc-4017-84ae-36a6f9628cd3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150101?DocDate=20120831&amp;ValidDate=20150101" rel="nofollow">
@@ -921,7 +898,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="a296cab9-a59e-488f-8842-4244e8996983">
+            <li class="mobile " data-id="d7e0e06d-85fc-4017-84ae-36a6f9628cd3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150101?DocDate=20120831&amp;ValidDate=20150101" rel="nofollow">
@@ -944,7 +921,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="f2b20130-8e9f-468e-aaeb-a659d8a4026a">
+            <li class="mobile " data-id="9650ca5c-4dbb-4e17-b277-1eea6d4cc651">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20141115?DocDate=20120831&amp;ValidDate=20141115" rel="nofollow">
@@ -969,10 +946,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="05f6fcf0-294d-411b-9acd-8ce4e92791bb">
+            <li class="mobile " data-id="e9b18dc4-1504-4426-9bc8-05b9a050598b">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001&amp;ViewType=Pdf&amp;_=20190328193419" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001&amp;ViewType=Pdf&amp;_=20191204231044" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001" rel="nofollow">
@@ -997,7 +974,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="495506f1-5d86-43b5-bd86-45a55f105878">
+            <li class="mobile " data-id="df42c4c6-bf73-4ab7-b077-1532aedebeaa">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140701?DocDate=20120831&amp;ValidDate=20140701" rel="nofollow">
@@ -1020,7 +997,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="59709efc-e480-468d-8168-5b367ad13081">
+            <li class="mobile " data-id="39bf10f9-b850-499a-a1b4-170c58084a60">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140310?DocDate=20120831&amp;ValidDate=20140310" rel="nofollow">
@@ -1043,7 +1020,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="f50b301c-3573-4763-8eec-f558169241c4">
+            <li class="mobile " data-id="d589951b-20ea-4a4e-8f14-ea799542c04e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140307?DocDate=20120831&amp;ValidDate=20140307" rel="nofollow">
@@ -1066,7 +1043,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="f78d686c-c3ba-4c20-b316-987b40b4e0e3">
+            <li class="mobile " data-id="bdf111ce-a18f-4603-8d98-f764d7b8936f">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130328?DocDate=20120831&amp;ValidDate=20130328" rel="nofollow">
@@ -1089,7 +1066,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="4d5600ce-e950-4408-9a54-4281b95ed31e">
+            <li class="mobile " data-id="1d8a4bf1-b17b-47ab-9f22-8a823e5c5cdb">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130313?DocDate=20120831&amp;ValidDate=20130313" rel="nofollow">
@@ -1112,7 +1089,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="49adb44b-05f9-4fa8-90f3-e6e6b21ade7f">
+            <li class="mobile " data-id="bdbc60af-566e-4d36-b6dc-97a8514d029d">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130101?DocDate=20120831&amp;ValidDate=20130101" rel="nofollow">
@@ -1135,7 +1112,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="49adb44b-05f9-4fa8-90f3-e6e6b21ade7f">
+            <li class="mobile " data-id="bdbc60af-566e-4d36-b6dc-97a8514d029d">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130101?DocDate=20120831&amp;ValidDate=20130101" rel="nofollow">
@@ -1158,7 +1135,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="d2c4369a-5473-473a-a194-59dd2e5c878b">
+            <li class="mobile " data-id="7e6980c5-9024-40ee-a7d0-3961a35e4f21">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20120831?DocDate=20120831&amp;ValidDate=20120831" rel="nofollow">
@@ -1179,10 +1156,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="b3d885bc-75ed-4e9c-a5e0-49e0532d4596">
+            <li class="mobile " data-id="a3d1dcc9-a1e0-4b24-a2a3-aa2dbff4805f">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801&amp;ViewType=Pdf&amp;_=20181222022254" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801" rel="nofollow">
@@ -1205,10 +1182,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="335076ee-cdf6-4ff6-a2df-add6659ef2c2">
+            <li class="mobile " data-id="e1e317b6-0c0e-4c63-af2b-2c04a1f78485">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301" rel="nofollow">
@@ -1231,10 +1208,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="2920be7b-6874-4c4b-892c-bdbde68b7932">
+            <li class="mobile " data-id="c4186983-ee89-43f3-918f-d74391372711">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220" rel="nofollow">
@@ -1257,10 +1234,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="42fa8a26-573b-4768-9dd9-b1d8d595bd2b">
+            <li class="mobile " data-id="3023ac8c-fc15-4f35-b706-958dc9390faa">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720&amp;ViewType=Pdf&amp;_=20191204164131" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720" rel="nofollow">
@@ -1283,10 +1260,10 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="d3bb9838-83f7-4491-b265-17d75c85b343">
+            <li class="mobile " data-id="ef3189a5-9c82-407c-a81e-b7e52251f6cd">
                 <div class="timestamp">
                     <span>
-                            <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102&amp;ViewType=Pdf&amp;_=20191204164108" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                         <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102" rel="nofollow">
@@ -1307,7 +1284,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="3377608d-75c7-4802-bf67-06e8597b6744">
+            <li class="mobile " data-id="af21d5e9-eb51-433b-912e-a23a6c92ac0a">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20080201?DocDate=20100625&amp;ValidDate=20080201" rel="nofollow">
@@ -1330,7 +1307,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="60c7a8da-1e06-4e38-a812-97df8361f9ee">
+            <li class="mobile " data-id="51041e6f-4e53-403b-8ea4-667af058282e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20070301?DocDate=19870330&amp;ValidDate=20070301" rel="nofollow">
@@ -1353,7 +1330,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="4e5427dc-6abd-4fa0-a1e8-3e07edf3f4b7">
+            <li class="mobile " data-id="ac6a2c68-60f8-4e05-966a-68bd87136a50">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20060101?DocDate=19870330&amp;ValidDate=20060101" rel="nofollow">
@@ -1376,7 +1353,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="d37ebcac-b659-447c-8a31-8275921586b2">
+            <li class="mobile " data-id="bfd9925a-f751-4f00-8b80-a9db042649d3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20040701?DocDate=19870330&amp;ValidDate=20040701" rel="nofollow">
@@ -1399,7 +1376,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="92cdbeea-5dd5-4976-a979-8964d412d45c">
+            <li class="mobile " data-id="6c37d3c8-0907-4ef4-82a5-38e0bfbd87bf">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20040308?DocDate=19870330&amp;ValidDate=20040308" rel="nofollow">
@@ -1422,7 +1399,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="7d09bf20-969d-43d4-ab62-23acee957ec4">
+            <li class="mobile " data-id="e2560c9e-f320-48bb-b038-271c9c3d5699">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20021001?DocDate=19870330&amp;ValidDate=20021001" rel="nofollow">
@@ -1445,7 +1422,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="a6a0c891-9262-4ec3-929a-5acd003fbd9f">
+            <li class="mobile " data-id="d0dcd873-ead0-4a6a-9aff-8d7b1ef0104e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20011001?DocDate=19870330&amp;ValidDate=20011001" rel="nofollow">
@@ -1468,7 +1445,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="cae709c9-1cf0-431e-bfeb-239ba4686e10">
+            <li class="mobile " data-id="ae2aebe1-2822-4ac8-9c95-e6a856c79562">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20010401?DocDate=19870330&amp;ValidDate=20010401" rel="nofollow">
@@ -1493,7 +1470,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="51eb2b5d-17b7-4ef8-a3fc-29604dc425fd">
+            <li class="mobile " data-id="2c9166ba-6759-43c5-a5bc-84f97e9d3760">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20010101?DocDate=19870330&amp;ValidDate=20010101" rel="nofollow">
@@ -1518,7 +1495,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="0de2b3cf-24d7-48f3-bdc5-c7482b8763e9">
+            <li class="mobile " data-id="443757a9-9815-4d1c-85ee-f8d6ad0dfd46">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" rel="nofollow">
@@ -1526,7 +1503,7 @@ QUICK LINKS                                                                </div
                         </a>
                     </span>
                 </div>
-                <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" class="timeline-popover" title="Published Date" data-date="15 Jan 1999" aria-label="Published Date" rel="nofollow">
+                <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" class="timeline-popover" title="Published Date" data-date="21 Dec 1998" aria-label="Published Date" rel="nofollow">
                     <div class="status informal">
                                             </div>
                 </a>
@@ -1536,14 +1513,12 @@ QUICK LINKS                                                                </div
                                     Amended by
                                 </span>
                                 <br />
-                                <span>
-                                    Act 46 of 1998
-                                </span>
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=eda8ae51-9095-4ada-b5e4-0407c03ca714&amp;SourceValidDate=19990115&amp;SourceTransactionDate=19981221&amp;SourcePublishDate=19981221&amp;SourceDocStatus=inforce&amp;HistoryType=amend" target="_blank">Act 46 of 1998</a>
 
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="4c556e26-392b-4818-8a44-0f290d919b19">
+            <li class="mobile " data-id="2a39c6b4-c1e8-4409-9953-aed7b3cfccd2">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19980410?DocDate=19870330&amp;ValidDate=19980410" rel="nofollow">
@@ -1568,7 +1543,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="92657ce3-b03a-40f8-bfaf-15e1b21ba032">
+            <li class="mobile " data-id="ee8e35cd-82c6-40f8-8843-64665ef67e19">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19971001?DocDate=19870330&amp;ValidDate=19971001" rel="nofollow">
@@ -1591,7 +1566,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="925d16b3-fd63-419f-b657-68ecc0c8ba99">
+            <li class="mobile " data-id="ddf94137-505b-4266-ab49-d81360a0fecf">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19961101?DocDate=19870330&amp;ValidDate=19961101" rel="nofollow">
@@ -1614,7 +1589,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="dfc1abd6-0f53-4591-8fdd-a301b1a0efa1">
+            <li class="mobile " data-id="5660c580-9241-40c8-b67f-d253ce7c7e62">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19960102?DocDate=19870330&amp;ValidDate=19960102" rel="nofollow">
@@ -1637,7 +1612,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="0b2089d2-6e17-4a78-8956-b01bf217f3fd">
+            <li class="mobile " data-id="3a7540bd-6c60-4989-b0b6-83a71b07e1ab">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19940408?DocDate=19870330&amp;ValidDate=19940408" rel="nofollow">
@@ -1660,7 +1635,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="d5d456ba-d06a-4609-b787-e9318aaa404a">
+            <li class="mobile " data-id="ab8d041a-a105-4089-9695-e56ab3968d8c">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19930701?DocDate=19870330&amp;ValidDate=19930701" rel="nofollow">
@@ -1683,7 +1658,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="e5f2b546-db1a-4951-a993-aa0dbba9eeb1">
+            <li class="mobile " data-id="7ceb62ea-dfec-414d-8405-d1e0c3c30df9">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19920418?DocDate=19870330&amp;ValidDate=19920418" rel="nofollow">
@@ -1706,7 +1681,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="mobile " data-id="5c52849d-888a-445a-a265-789a46e0639d">
+            <li class="mobile " data-id="32502a48-11b8-4ddc-b195-103af65c7494">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19870330?DocDate=19870330&amp;ValidDate=19870330" rel="nofollow">
@@ -2789,16 +2764,16 @@ QUICK LINKS                                                                </div
                             </a>
                         </li>
                         <li class="">
-                            <input type="checkbox" value="pr107-XX-pr107-" name="item"  id="tocItem131" title="107" />&nbsp;
-                            <a href="#pr107-XX-pr107-" data-part="P1VI-">
+                            <input type="checkbox" value="pr107-" name="item"  id="tocItem131" title="107" />&nbsp;
+                            <a href="#pr107-" data-part="P1VI-">
                                 <span>
                                     107 Procedure for forfeiture of bond without sureties
                                 </span>
                             </a>
                         </li>
                         <li class="">
-                            <input type="checkbox" value="pr107A-XX-pr107A-" name="item"  id="tocItem132" title="107A" />&nbsp;
-                            <a href="#pr107A-XX-pr107A-" data-part="P1VI-">
+                            <input type="checkbox" value="pr107A-" name="item"  id="tocItem132" title="107A" />&nbsp;
+                            <a href="#pr107A-" data-part="P1VI-">
                                 <span>
                                     107A Procedure for forfeiture of bond with sureties
                                 </span>
@@ -5870,7 +5845,7 @@ QUICK LINKS                                                                </div
         <div data-bind="visible: !Show.Sidebar()" class="top-left-panel-2" style="display: none">
             <div class="legis-title">
     <span>Criminal Procedure Code</span>
-        <a href="/Act/CPC2010?ViewType=Pdf&amp;_=20190816125711" title="Download PDF (1.4 MB)" aria-label="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+        <a href="/Act/CPC2010?ViewType=Pdf&amp;_=20191204231126" title="Download PDF (1.4 MB)" aria-label="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
             <span class="fa fa-file-pdf-o"></span>
         </a>
 </div>
@@ -5880,7 +5855,7 @@ QUICK LINKS                                                                </div
         Status:
     </div>
     <div class="status-value">
-        Current version as at 21 Aug 2019
+        Current version as at 11 Dec 2019
     </div>
 </div>
 
@@ -5934,7 +5909,7 @@ QUICK LINKS                                                                </div
                                             </a>
                                         </li>
                                                             <li>
-                                    <a href="/Help/Online-Guide/Category/4" aria-label="Help" title="Help" class="help">
+                                    <a href="/Help/SSO-Guide/Category/4" aria-label="Help" title="Help" class="help">
                                         <span class="fa fa-question-circle"></span>
                                     </a>
                                 </li>
@@ -5951,7 +5926,7 @@ QUICK LINKS                                                                </div
                         </ul>
                         <div class="timeline" id="docTimeline" style="display: none" data-bind="visible: Show.DesktopDocTimeline">
                             <ul>
-            <li class="" data-id="5c52849d-888a-445a-a265-789a46e0639d">
+            <li class="" data-id="32502a48-11b8-4ddc-b195-103af65c7494">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19870330?DocDate=19870330&amp;ValidDate=19870330" rel="nofollow">
@@ -5972,7 +5947,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="e5f2b546-db1a-4951-a993-aa0dbba9eeb1">
+            <li class="" data-id="7ceb62ea-dfec-414d-8405-d1e0c3c30df9">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19920418?DocDate=19870330&amp;ValidDate=19920418" rel="nofollow">
@@ -5995,7 +5970,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="d5d456ba-d06a-4609-b787-e9318aaa404a">
+            <li class="" data-id="ab8d041a-a105-4089-9695-e56ab3968d8c">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19930701?DocDate=19870330&amp;ValidDate=19930701" rel="nofollow">
@@ -6018,7 +5993,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="0b2089d2-6e17-4a78-8956-b01bf217f3fd">
+            <li class="" data-id="3a7540bd-6c60-4989-b0b6-83a71b07e1ab">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19940408?DocDate=19870330&amp;ValidDate=19940408" rel="nofollow">
@@ -6041,7 +6016,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="dfc1abd6-0f53-4591-8fdd-a301b1a0efa1">
+            <li class="" data-id="5660c580-9241-40c8-b67f-d253ce7c7e62">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19960102?DocDate=19870330&amp;ValidDate=19960102" rel="nofollow">
@@ -6064,7 +6039,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="925d16b3-fd63-419f-b657-68ecc0c8ba99">
+            <li class="" data-id="ddf94137-505b-4266-ab49-d81360a0fecf">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19961101?DocDate=19870330&amp;ValidDate=19961101" rel="nofollow">
@@ -6087,7 +6062,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="92657ce3-b03a-40f8-bfaf-15e1b21ba032">
+            <li class="" data-id="ee8e35cd-82c6-40f8-8843-64665ef67e19">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19971001?DocDate=19870330&amp;ValidDate=19971001" rel="nofollow">
@@ -6110,7 +6085,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="4c556e26-392b-4818-8a44-0f290d919b19">
+            <li class="" data-id="2a39c6b4-c1e8-4409-9953-aed7b3cfccd2">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19980410?DocDate=19870330&amp;ValidDate=19980410" rel="nofollow">
@@ -6135,7 +6110,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="0de2b3cf-24d7-48f3-bdc5-c7482b8763e9">
+            <li class="" data-id="443757a9-9815-4d1c-85ee-f8d6ad0dfd46">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" rel="nofollow">
@@ -6143,7 +6118,7 @@ QUICK LINKS                                                                </div
                         </a>
                     </span>
                 </div>
-                <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" class="timeline-popover" title="Published Date" data-date="15 Jan 1999" aria-label="Published Date" rel="nofollow">
+                <a href="/Act/CPC1955/Historical/19990115?DocDate=19870330&amp;ValidDate=19990115" class="timeline-popover" title="Published Date" data-date="21 Dec 1998" aria-label="Published Date" rel="nofollow">
                     <div class="status informal">
                                             </div>
                 </a>
@@ -6153,14 +6128,12 @@ QUICK LINKS                                                                </div
                                     Amended by
                                 </span>
                                     <br />
-                                <span>
-                                    Act 46 of 1998
-                                </span>
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=eda8ae51-9095-4ada-b5e4-0407c03ca714&amp;SourceValidDate=19990115&amp;SourceTransactionDate=19981221&amp;SourcePublishDate=19981221&amp;SourceDocStatus=inforce&amp;HistoryType=amend" target="_blank">Act 46 of 1998</a>
 
                     </div>
                 </div>
             </li>
-            <li class="" data-id="51eb2b5d-17b7-4ef8-a3fc-29604dc425fd">
+            <li class="" data-id="2c9166ba-6759-43c5-a5bc-84f97e9d3760">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20010101?DocDate=19870330&amp;ValidDate=20010101" rel="nofollow">
@@ -6185,7 +6158,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="cae709c9-1cf0-431e-bfeb-239ba4686e10">
+            <li class="" data-id="ae2aebe1-2822-4ac8-9c95-e6a856c79562">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20010401?DocDate=19870330&amp;ValidDate=20010401" rel="nofollow">
@@ -6210,7 +6183,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="a6a0c891-9262-4ec3-929a-5acd003fbd9f">
+            <li class="" data-id="d0dcd873-ead0-4a6a-9aff-8d7b1ef0104e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20011001?DocDate=19870330&amp;ValidDate=20011001" rel="nofollow">
@@ -6233,7 +6206,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="7d09bf20-969d-43d4-ab62-23acee957ec4">
+            <li class="" data-id="e2560c9e-f320-48bb-b038-271c9c3d5699">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20021001?DocDate=19870330&amp;ValidDate=20021001" rel="nofollow">
@@ -6256,7 +6229,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="92cdbeea-5dd5-4976-a979-8964d412d45c">
+            <li class="" data-id="6c37d3c8-0907-4ef4-82a5-38e0bfbd87bf">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20040308?DocDate=19870330&amp;ValidDate=20040308" rel="nofollow">
@@ -6279,7 +6252,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="d37ebcac-b659-447c-8a31-8275921586b2">
+            <li class="" data-id="bfd9925a-f751-4f00-8b80-a9db042649d3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20040701?DocDate=19870330&amp;ValidDate=20040701" rel="nofollow">
@@ -6302,7 +6275,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="4e5427dc-6abd-4fa0-a1e8-3e07edf3f4b7">
+            <li class="" data-id="ac6a2c68-60f8-4e05-966a-68bd87136a50">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20060101?DocDate=19870330&amp;ValidDate=20060101" rel="nofollow">
@@ -6325,7 +6298,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="60c7a8da-1e06-4e38-a812-97df8361f9ee">
+            <li class="" data-id="51041e6f-4e53-403b-8ea4-667af058282e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20070301?DocDate=19870330&amp;ValidDate=20070301" rel="nofollow">
@@ -6348,7 +6321,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="3377608d-75c7-4802-bf67-06e8597b6744">
+            <li class="" data-id="af21d5e9-eb51-433b-912e-a23a6c92ac0a">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC1955/Historical/20080201?DocDate=20100625&amp;ValidDate=20080201" rel="nofollow">
@@ -6371,13 +6344,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="d3bb9838-83f7-4491-b265-17d75c85b343">
+            <li class="" data-id="ef3189a5-9c82-407c-a81e-b7e52251f6cd">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102" rel="nofollow">
                             02 Jan 2011
                         </a>
-                            <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20110102?DocDate=20100625&amp;ValidDate=20110102&amp;ViewType=Pdf&amp;_=20191204164108" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6395,13 +6368,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="42fa8a26-573b-4768-9dd9-b1d8d595bd2b">
+            <li class="" data-id="3023ac8c-fc15-4f35-b706-958dc9390faa">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720" rel="nofollow">
                             20 Jul 2011
                         </a>
-                            <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20110720?DocDate=20111220&amp;ValidDate=20110720&amp;ViewType=Pdf&amp;_=20191204164131" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6421,13 +6394,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="2920be7b-6874-4c4b-892c-bdbde68b7932">
+            <li class="" data-id="c4186983-ee89-43f3-918f-d74391372711">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220" rel="nofollow">
                             20 Dec 2011
                         </a>
-                            <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20111220?DocDate=20120228&amp;ValidDate=20111220&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6447,13 +6420,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="335076ee-cdf6-4ff6-a2df-add6659ef2c2">
+            <li class="" data-id="e1e317b6-0c0e-4c63-af2b-2c04a1f78485">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301" rel="nofollow">
                             01 Mar 2012
                         </a>
-                            <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301&amp;ViewType=Pdf&amp;_=20190403173438" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20120301?DocDate=20120416&amp;ValidDate=20120301&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6473,13 +6446,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="b3d885bc-75ed-4e9c-a5e0-49e0532d4596">
+            <li class="" data-id="a3d1dcc9-a1e0-4b24-a2a3-aa2dbff4805f">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801" rel="nofollow">
                             01 Aug 2012
                         </a>
-                            <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801&amp;ViewType=Pdf&amp;_=20181222022254" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20120801?DocDate=20120831&amp;ValidDate=20120801&amp;ViewType=Pdf&amp;_=20191204165238" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6499,7 +6472,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="d2c4369a-5473-473a-a194-59dd2e5c878b">
+            <li class="" data-id="7e6980c5-9024-40ee-a7d0-3961a35e4f21">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20120831?DocDate=20120831&amp;ValidDate=20120831" rel="nofollow">
@@ -6520,7 +6493,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="49adb44b-05f9-4fa8-90f3-e6e6b21ade7f">
+            <li class="" data-id="bdbc60af-566e-4d36-b6dc-97a8514d029d">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130101?DocDate=20120831&amp;ValidDate=20130101" rel="nofollow">
@@ -6543,7 +6516,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="49adb44b-05f9-4fa8-90f3-e6e6b21ade7f">
+            <li class="" data-id="bdbc60af-566e-4d36-b6dc-97a8514d029d">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130101?DocDate=20120831&amp;ValidDate=20130101" rel="nofollow">
@@ -6566,7 +6539,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="4d5600ce-e950-4408-9a54-4281b95ed31e">
+            <li class="" data-id="1d8a4bf1-b17b-47ab-9f22-8a823e5c5cdb">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130313?DocDate=20120831&amp;ValidDate=20130313" rel="nofollow">
@@ -6589,7 +6562,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="f78d686c-c3ba-4c20-b316-987b40b4e0e3">
+            <li class="" data-id="bdf111ce-a18f-4603-8d98-f764d7b8936f">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20130328?DocDate=20120831&amp;ValidDate=20130328" rel="nofollow">
@@ -6612,7 +6585,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="f50b301c-3573-4763-8eec-f558169241c4">
+            <li class="" data-id="d589951b-20ea-4a4e-8f14-ea799542c04e">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140307?DocDate=20120831&amp;ValidDate=20140307" rel="nofollow">
@@ -6635,7 +6608,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="59709efc-e480-468d-8168-5b367ad13081">
+            <li class="" data-id="39bf10f9-b850-499a-a1b4-170c58084a60">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140310?DocDate=20120831&amp;ValidDate=20140310" rel="nofollow">
@@ -6658,7 +6631,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="495506f1-5d86-43b5-bd86-45a55f105878">
+            <li class="" data-id="df42c4c6-bf73-4ab7-b077-1532aedebeaa">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20140701?DocDate=20120831&amp;ValidDate=20140701" rel="nofollow">
@@ -6681,13 +6654,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="05f6fcf0-294d-411b-9acd-8ce4e92791bb">
+            <li class="" data-id="e9b18dc4-1504-4426-9bc8-05b9a050598b">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001" rel="nofollow">
                             01 Oct 2014
                         </a>
-                            <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001&amp;ViewType=Pdf&amp;_=20190328193419" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20141001?DocDate=20120831&amp;ValidDate=20141001&amp;ViewType=Pdf&amp;_=20191204231044" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6709,7 +6682,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="f2b20130-8e9f-468e-aaeb-a659d8a4026a">
+            <li class="" data-id="9650ca5c-4dbb-4e17-b277-1eea6d4cc651">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20141115?DocDate=20120831&amp;ValidDate=20141115" rel="nofollow">
@@ -6734,7 +6707,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="a296cab9-a59e-488f-8842-4244e8996983">
+            <li class="" data-id="d7e0e06d-85fc-4017-84ae-36a6f9628cd3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150101?DocDate=20120831&amp;ValidDate=20150101" rel="nofollow">
@@ -6757,7 +6730,7 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="a296cab9-a59e-488f-8842-4244e8996983">
+            <li class="" data-id="d7e0e06d-85fc-4017-84ae-36a6f9628cd3">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150101?DocDate=20120831&amp;ValidDate=20150101" rel="nofollow">
@@ -6780,13 +6753,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="2d3faf5b-c5e4-45dd-9422-666fda788172">
+            <li class="" data-id="26693a84-589e-40cb-982a-92894079cc89">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401" rel="nofollow">
                             01 Apr 2015
                         </a>
-                            <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401&amp;ViewType=Pdf&amp;_=20181222030159" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20150401?DocDate=20120831&amp;ValidDate=20150401&amp;ViewType=Pdf&amp;_=20191204225451" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6808,13 +6781,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="c85a6035-fd92-4feb-9d95-a037394be42b">
+            <li class="" data-id="7ea71a4e-0edf-456c-8cc7-322343ab9e26">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601" rel="nofollow">
                             01 Jun 2015
                         </a>
-                            <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601&amp;ViewType=Pdf&amp;_=20181222030012" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20150601?DocDate=20120831&amp;ValidDate=20150601&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6836,13 +6809,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="81f3272e-aa23-404c-b7a9-e6748a21faa3">
+            <li class="" data-id="4dacf6aa-8290-43c0-9312-417594d98f29">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601" rel="nofollow">
                             01 Jun 2016
                         </a>
-                            <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20160601?DocDate=20120831&amp;ValidDate=20160601&amp;ViewType=Pdf&amp;_=20191204230709" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6862,13 +6835,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="1a9b7714-d41a-4d4d-9b9c-e5e75f67c56e">
+            <li class="" data-id="382e8949-d86e-40c1-b3c6-fe7d1cf64760">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801" rel="nofollow">
                             01 Aug 2017
                         </a>
-                            <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20170801?DocDate=20120831&amp;ValidDate=20170801&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6888,13 +6861,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="f0262f7b-c6f6-4959-a8bf-f7bade1aab19">
+            <li class="" data-id="b95a05d4-c471-4681-9535-977b79cc1f69">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001" rel="nofollow">
                             01 Oct 2017
                         </a>
-                            <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20171001?DocDate=20120831&amp;ValidDate=20171001&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6916,13 +6889,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="93021b4f-3e41-4e17-80a6-fdae3818b02b">
+            <li class="" data-id="0fdb6652-fea8-4b8b-9541-ca3f8526b041">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516" rel="nofollow">
                             16 May 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180516?DocDate=20120831&amp;ValidDate=20180516&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6944,13 +6917,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="db4717da-c0a5-49f9-8a99-72295c8f7e08">
+            <li class="" data-id="20696a86-7e9a-4763-8513-ae879da987ba">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831" rel="nofollow">
                             31 Aug 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831&amp;ViewType=Pdf&amp;_=20181222030041" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180831?DocDate=20120831&amp;ValidDate=20180831&amp;ViewType=Pdf&amp;_=20191204230935" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6972,13 +6945,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="a40d36f7-3100-4f3c-a62c-3c8266d04e4a">
+            <li class="" data-id="561fd77c-08fb-4e91-8349-6644422a523f">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917" rel="nofollow">
                             17 Sep 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20180917?DocDate=20120831&amp;ValidDate=20180917&amp;ViewType=Pdf&amp;_=20191204230545" aria-label="Download PDF (1.3 MB)" title="Download PDF (1.3 MB)" data-size=" (1.3 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -6998,13 +6971,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="7cdb22b5-731f-4704-adb0-40ce5b9255b1">
+            <li class="" data-id="83c74555-af0b-47e1-bcf9-72d6d6a01f93">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031" rel="nofollow">
                             31 Oct 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -7024,13 +6997,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="7cdb22b5-731f-4704-adb0-40ce5b9255b1">
+            <li class="" data-id="83c74555-af0b-47e1-bcf9-72d6d6a01f93">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031" rel="nofollow">
                             31 Oct 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20181222024725" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181031?DocDate=20120831&amp;ValidDate=20181031&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -7050,13 +7023,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="693df6d1-88f5-427d-893e-955d557c68e6">
+            <li class="" data-id="6d846e50-dd40-4fd9-b7c2-956d6b84f126">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218" rel="nofollow">
                             18 Dec 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -7076,13 +7049,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="693df6d1-88f5-427d-893e-955d557c68e6">
+            <li class="" data-id="6d846e50-dd40-4fd9-b7c2-956d6b84f126">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218" rel="nofollow">
                             18 Dec 2018
                         </a>
-                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20181222030314" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20181218?DocDate=20120831&amp;ValidDate=20181218&amp;ViewType=Pdf&amp;_=20191204225431" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -7102,18 +7075,18 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="" data-id="0b9f02b3-b422-4039-a5fa-b5211134f608">
+            <li class="" data-id="9a768f32-be99-486e-b81f-c5d0fb862b1e">
                 <div class="timestamp">
                     <span>
-                        <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101" rel="nofollow">
+                        <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101" rel="nofollow">
                             01 Jan 2019
                         </a>
-                            <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101&amp;ViewType=Pdf&amp;_=20190816130009" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101&amp;ViewType=Pdf&amp;_=20191204231044" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
                 </div>
-                <a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101" class="timeline-popover" title="Published Date" data-date="04 Apr 2018" aria-label="Published Date" rel="nofollow">
+                <a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101" class="timeline-popover" title="Published Date" data-date="04 Apr 2018" aria-label="Published Date" rel="nofollow">
                     <div class="status informal">
                                             </div>
                 </a>
@@ -7128,13 +7101,13 @@ QUICK LINKS                                                                </div
                     </div>
                 </div>
             </li>
-            <li class="selected" data-id="91ec44dc-eaec-4e60-a6b7-a949aa3499d4">
+            <li class="selected" data-id="40d456d5-636c-4c0e-b3ec-97f922e5d5ea">
                 <div class="timestamp">
                     <span>
                         <a href="/Act/CPC2010?ValidDate=20190621" rel="">
                             21 Jun 2019
                         </a>
-                            <a href="/Act/CPC2010?ValidDate=20190621&amp;ViewType=Pdf&amp;_=20190816125711" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
+                            <a href="/Act/CPC2010?ValidDate=20190621&amp;ViewType=Pdf&amp;_=20191204231126" aria-label="Download PDF (1.4 MB)" title="Download PDF (1.4 MB)" data-size=" (1.4 MB)" class="file-download">
                                 <span class="fa fa-file-pdf-o"></span>
                             </a>
                     </span>
@@ -7150,7 +7123,7 @@ QUICK LINKS                                                                </div
                                     Amended by
                                 </span>
                                     <br />
-                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=bfffefa9-7e43-44df-af4b-480a366357b1&amp;SourceValidDate=20190621&amp;SourceTransactionDate=20120831&amp;SourcePublishDate=20190326&amp;SourceDocStatus=published&amp;HistoryType=amend" target="_blank">Act 14 of 2019</a>
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=bfffefa9-7e43-44df-af4b-480a366357b1&amp;SourceValidDate=20190326&amp;SourceTransactionDate=20190326&amp;SourcePublishDate=20190326&amp;SourceDocStatus=published&amp;HistoryType=amend" target="_blank">Act 14 of 2019</a>
 
                     </div>
                 </div>
@@ -7481,9 +7454,9 @@ QUICK LINKS                                                                </div
                                                         <tr>
                                                             <td>
                                                             </td>
-                                                            <td class="text-right"><a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101">1</a></td>
-                                                            <td><a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101">Jan</a></td>
-                                                            <td><a href="/Act/CPC2010/Historical/20190101?DocDate=20190326&amp;ValidDate=20190101">2019</a></td>
+                                                            <td class="text-right"><a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101">1</a></td>
+                                                            <td><a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101">Jan</a></td>
+                                                            <td><a href="/Act/CPC2010/Historical/20190101?DocDate=20120831&amp;ValidDate=20190101">2019</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>
@@ -7593,13 +7566,10 @@ QUICK LINKS                                                                </div
 		</a>
 	</li>
 	<li>
-		<a href="https://www.jusfeedback.asia/Community/se.ashx?s=7FDA9EA723A5704F&amp;Agency=AGC&amp;Svc=Singapore%20Statutes%20Online&amp;eLnk=http://sso.agc.gov.sg&amp;Cat=Citizen" target="_blank">
-			Rate this website<span class="ui-icon ui-icon-extlink"></span>
-		</a>
-	</li>
-	<li>
-		<a href="https://www.reach.gov.sg" target="_blank">
-			Feedback via REACH<span class="ui-icon ui-icon-extlink"></span>
+		<a href="https://tech.gov.sg/report_vulnerability" target="_blank">
+			Report Vulnerability
+			<span class="ui-icon ui-icon-extlink">
+			</span>
 		</a>
 	</li>
 </ul>
@@ -7616,7 +7586,7 @@ QUICK LINKS                                                                </div
 Singapore Statutes Online is provided by the Legislation Division of the Singapore Attorney-General's Chambers.
                         </div>
                         <div class="col-md-5 last-update">
-                            Last updated on 21 Aug 2019
+                            Last updated on 11 Dec 2019
                         </div>
                     </div>
                 </div>
@@ -7637,7 +7607,7 @@ Singapore Statutes Online is provided by the Legislation Division of the Singapo
             </span>
         </a>
     </div>
-    <div class="global-vars" data-json='{"host":"sso.agc.gov.sg","rootPath":"https://sso.agc.gov.sg/","appPath":"/","isFullScreenLayout":"","facebookApiClientId":"1574982902595057","gapiClientId":"411798117816-38evsfla7dnhkmboqc0bj723kogo2d2o","linkedInClientId":"81cjellkmvowq4","getProfileCollectionUrl":"/Profile/GetProfileCollectionList","inForceLabel":"Current","repealedLabel":"Repealed/Spent","revokedLabel":"Revoked/Spent","uncommencedLabel":"Uncommenced","actsLabel":"Acts","slLabel":"Subsidiary Legislation","actsSuppLabel":"Acts Supplement","billsSuppLabel":"Bills Supplement","slSuppLabel":"Subsidiary Legislation Supplement","actsRevLabel":"Revised Editions of Acts","slRevLabel":"Revised Editions of Subsidiary Legislation","isPreviewSite":false,"viewDate":"\/Date(1566374689270)\/","customCategoryMenuList":null,"ajaxToken":"AeH7RLiTnASbiNP/TpiTbRQMee2NjFLPVmMAzbdq71xsrCmUAVAdQ8J100vfq3sBZxB+9UPytVDzDf53qRF1+D4AUQpunmbINM26ZfvLONDIeEtEjWCIY7rBfnw/E3spfoCx51M2Ftcs5g6PbhfPWD4EONaK1nOSNdqbj0mIlVVWPitTVzSa5XdOKsFfctSMJhvPhSqgLm1zVtrgDSYSkg=="}'>
+    <div class="global-vars" data-json='{"host":"sso.agc.gov.sg","rootPath":"https://sso.agc.gov.sg/","appPath":"/","isFullScreenLayout":"","facebookApiClientId":"1574982902595057","gapiClientId":"411798117816-38evsfla7dnhkmboqc0bj723kogo2d2o","linkedInClientId":"81cjellkmvowq4","getProfileCollectionUrl":"/Profile/GetProfileCollectionList","inForceLabel":"Current","repealedLabel":"Repealed/Spent","revokedLabel":"Revoked/Spent","uncommencedLabel":"Uncommenced","actsLabel":"Acts","slLabel":"Subsidiary Legislation","actsSuppLabel":"Acts Supplement","billsSuppLabel":"Bills Supplement","slSuppLabel":"Subsidiary Legislation Supplement","actsRevLabel":"Revised Editions of Acts","slRevLabel":"Revised Editions of Subsidiary Legislation","isPreviewSite":false,"viewDate":"\/Date(1576067594191)\/","customCategoryMenuList":null,"ajaxToken":"IUaNxPJQg3z+UNySzWSqnapePb+u8Ze8EYdPI7sgHqotCwc2Ks4EQu2SvirDZ5XsOG1flTjiSfkn6WAvUiiSenQT+Xi5W5qvktUrca89ydrrxohjppDShaTuH0wJG8/qw+sKxxqHpJR5V+N53h1kzBJJWFp95QzxqVgXXvlA3DTUSZZCZImYCHWWs4OcsCZRRkedKAEdZymtwdVqCDiLCQ=="}'>
     </div>
 <script src="/bundles/jquery2?v=RsE7ZjMp5jID8-NaWv5f0Skri6LKwvrHDrlNO-hyQ3U1"></script>
     <script src="/bundles/bootstrap?v=S9-VFjJll7-h6B6vedKZxuNRBdqXLY3XTPKv3OQRv1w1"></script>
@@ -7651,11 +7621,10 @@ Singapore Statutes Online is provided by the Legislation Division of the Singapo
     
     <script src="/bundles/bootstrap-datepicker?v=vCCaPSh4ugwpyNkCJOiUeX0BorShO-344aPyai1dtQQ1"></script>
 
-    <div class="global-vars" data-json='{"tocSysId":"91ec44dc-eaec-4e60-a6b7-a949aa3499d4","rootFragSysId":"f48e2f8b-bfbf-44b3-9210-f8abf776a484","fragSysId":"","legisTitle":"Criminal Procedure Code","provTitle":"","citation":"(CHAPTER 68)","isProvisionView":0,"fragmentPath":"Sc1-","docTimelineIdx":48,"provTimelineIdx":-1,"provTimelineLen":0,"timelineItems":[{"Item1":"\/Date(544032000000)\/","Item2":"/Act/CPC1955/Historical/19870330?DocDate=19870330\u0026ValidDate=19870330","Item3":"5c52849d-888a-445a-a265-789a46e0639d"},{"Item1":"\/Date(703526400000)\/","Item2":"/Act/CPC1955/Historical/19920418?DocDate=19870330\u0026ValidDate=19920418","Item3":"e5f2b546-db1a-4951-a993-aa0dbba9eeb1"},{"Item1":"\/Date(741456000000)\/","Item2":"/Act/CPC1955/Historical/19930701?DocDate=19870330\u0026ValidDate=19930701","Item3":"d5d456ba-d06a-4609-b787-e9318aaa404a"},{"Item1":"\/Date(765734400000)\/","Item2":"/Act/CPC1955/Historical/19940408?DocDate=19870330\u0026ValidDate=19940408","Item3":"0b2089d2-6e17-4a78-8956-b01bf217f3fd"},{"Item1":"\/Date(820512000000)\/","Item2":"/Act/CPC1955/Historical/19960102?DocDate=19870330\u0026ValidDate=19960102","Item3":"dfc1abd6-0f53-4591-8fdd-a301b1a0efa1"},{"Item1":"\/Date(846777600000)\/","Item2":"/Act/CPC1955/Historical/19961101?DocDate=19870330\u0026ValidDate=19961101","Item3":"925d16b3-fd63-419f-b657-68ecc0c8ba99"},{"Item1":"\/Date(875635200000)\/","Item2":"/Act/CPC1955/Historical/19971001?DocDate=19870330\u0026ValidDate=19971001","Item3":"92657ce3-b03a-40f8-bfaf-15e1b21ba032"},{"Item1":"\/Date(892137600000)\/","Item2":"/Act/CPC1955/Historical/19980410?DocDate=19870330\u0026ValidDate=19980410","Item3":"4c556e26-392b-4818-8a44-0f290d919b19"},{"Item1":"\/Date(916329600000)\/","Item2":"/Act/CPC1955/Historical/19990115?DocDate=19870330\u0026ValidDate=19990115","Item3":"0de2b3cf-24d7-48f3-bdc5-c7482b8763e9"},{"Item1":"\/Date(978278400000)\/","Item2":"/Act/CPC1955/Historical/20010101?DocDate=19870330\u0026ValidDate=20010101","Item3":"51eb2b5d-17b7-4ef8-a3fc-29604dc425fd"},{"Item1":"\/Date(986054400000)\/","Item2":"/Act/CPC1955/Historical/20010401?DocDate=19870330\u0026ValidDate=20010401","Item3":"cae709c9-1cf0-431e-bfeb-239ba4686e10"},{"Item1":"\/Date(1001865600000)\/","Item2":"/Act/CPC1955/Historical/20011001?DocDate=19870330\u0026ValidDate=20011001","Item3":"a6a0c891-9262-4ec3-929a-5acd003fbd9f"},{"Item1":"\/Date(1033401600000)\/","Item2":"/Act/CPC1955/Historical/20021001?DocDate=19870330\u0026ValidDate=20021001","Item3":"7d09bf20-969d-43d4-ab62-23acee957ec4"},{"Item1":"\/Date(1078675200000)\/","Item2":"/Act/CPC1955/Historical/20040308?DocDate=19870330\u0026ValidDate=20040308","Item3":"92cdbeea-5dd5-4976-a979-8964d412d45c"},{"Item1":"\/Date(1088611200000)\/","Item2":"/Act/CPC1955/Historical/20040701?DocDate=19870330\u0026ValidDate=20040701","Item3":"d37ebcac-b659-447c-8a31-8275921586b2"},{"Item1":"\/Date(1136044800000)\/","Item2":"/Act/CPC1955/Historical/20060101?DocDate=19870330\u0026ValidDate=20060101","Item3":"4e5427dc-6abd-4fa0-a1e8-3e07edf3f4b7"},{"Item1":"\/Date(1172678400000)\/","Item2":"/Act/CPC1955/Historical/20070301?DocDate=19870330\u0026ValidDate=20070301","Item3":"60c7a8da-1e06-4e38-a812-97df8361f9ee"},{"Item1":"\/Date(1201795200000)\/","Item2":"/Act/CPC1955/Historical/20080201?DocDate=20100625\u0026ValidDate=20080201","Item3":"3377608d-75c7-4802-bf67-06e8597b6744"},{"Item1":"\/Date(1293897600000)\/","Item2":"/Act/CPC2010/Historical/20110102?DocDate=20100625\u0026ValidDate=20110102","Item3":"d3bb9838-83f7-4491-b265-17d75c85b343"},{"Item1":"\/Date(1311091200000)\/","Item2":"/Act/CPC2010/Historical/20110720?DocDate=20111220\u0026ValidDate=20110720","Item3":"42fa8a26-573b-4768-9dd9-b1d8d595bd2b"},{"Item1":"\/Date(1324310400000)\/","Item2":"/Act/CPC2010/Historical/20111220?DocDate=20120228\u0026ValidDate=20111220","Item3":"2920be7b-6874-4c4b-892c-bdbde68b7932"},{"Item1":"\/Date(1330531200000)\/","Item2":"/Act/CPC2010/Historical/20120301?DocDate=20120416\u0026ValidDate=20120301","Item3":"335076ee-cdf6-4ff6-a2df-add6659ef2c2"},{"Item1":"\/Date(1343750400000)\/","Item2":"/Act/CPC2010/Historical/20120801?DocDate=20120831\u0026ValidDate=20120801","Item3":"b3d885bc-75ed-4e9c-a5e0-49e0532d4596"},{"Item1":"\/Date(1346342400000)\/","Item2":"/Act/CPC2010/Historical/20120831?DocDate=20120831\u0026ValidDate=20120831","Item3":"d2c4369a-5473-473a-a194-59dd2e5c878b"},{"Item1":"\/Date(1356969600000)\/","Item2":"/Act/CPC2010/Historical/20130101?DocDate=20120831\u0026ValidDate=20130101","Item3":"49adb44b-05f9-4fa8-90f3-e6e6b21ade7f"},{"Item1":"\/Date(1363104000000)\/","Item2":"/Act/CPC2010/Historical/20130313?DocDate=20120831\u0026ValidDate=20130313","Item3":"4d5600ce-e950-4408-9a54-4281b95ed31e"},{"Item1":"\/Date(1364400000000)\/","Item2":"/Act/CPC2010/Historical/20130328?DocDate=20120831\u0026ValidDate=20130328","Item3":"f78d686c-c3ba-4c20-b316-987b40b4e0e3"},{"Item1":"\/Date(1394121600000)\/","Item2":"/Act/CPC2010/Historical/20140307?DocDate=20120831\u0026ValidDate=20140307","Item3":"f50b301c-3573-4763-8eec-f558169241c4"},{"Item1":"\/Date(1394380800000)\/","Item2":"/Act/CPC2010/Historical/20140310?DocDate=20120831\u0026ValidDate=20140310","Item3":"59709efc-e480-468d-8168-5b367ad13081"},{"Item1":"\/Date(1404144000000)\/","Item2":"/Act/CPC2010/Historical/20140701?DocDate=20120831\u0026ValidDate=20140701","Item3":"495506f1-5d86-43b5-bd86-45a55f105878"},{"Item1":"\/Date(1412092800000)\/","Item2":"/Act/CPC2010/Historical/20141001?DocDate=20120831\u0026ValidDate=20141001","Item3":"05f6fcf0-294d-411b-9acd-8ce4e92791bb"},{"Item1":"\/Date(1415980800000)\/","Item2":"/Act/CPC2010/Historical/20141115?DocDate=20120831\u0026ValidDate=20141115","Item3":"f2b20130-8e9f-468e-aaeb-a659d8a4026a"},{"Item1":"\/Date(1420041600000)\/","Item2":"/Act/CPC2010/Historical/20150101?DocDate=20120831\u0026ValidDate=20150101","Item3":"a296cab9-a59e-488f-8842-4244e8996983"},{"Item1":"\/Date(1427817600000)\/","Item2":"/Act/CPC2010/Historical/20150401?DocDate=20120831\u0026ValidDate=20150401","Item3":"2d3faf5b-c5e4-45dd-9422-666fda788172"},{"Item1":"\/Date(1433088000000)\/","Item2":"/Act/CPC2010/Historical/20150601?DocDate=20120831\u0026ValidDate=20150601","Item3":"c85a6035-fd92-4feb-9d95-a037394be42b"},{"Item1":"\/Date(1464710400000)\/","Item2":"/Act/CPC2010/Historical/20160601?DocDate=20120831\u0026ValidDate=20160601","Item3":"81f3272e-aa23-404c-b7a9-e6748a21faa3"},{"Item1":"\/Date(1501516800000)\/","Item2":"/Act/CPC2010/Historical/20170801?DocDate=20120831\u0026ValidDate=20170801","Item3":"1a9b7714-d41a-4d4d-9b9c-e5e75f67c56e"},{"Item1":"\/Date(1506787200000)\/","Item2":"/Act/CPC2010/Historical/20171001?DocDate=20120831\u0026ValidDate=20171001","Item3":"f0262f7b-c6f6-4959-a8bf-f7bade1aab19"},{"Item1":"\/Date(1526400000000)\/","Item2":"/Act/CPC2010/Historical/20180516?DocDate=20120831\u0026ValidDate=20180516","Item3":"93021b4f-3e41-4e17-80a6-fdae3818b02b"},{"Item1":"\/Date(1535644800000)\/","Item2":"/Act/CPC2010/Historical/20180831?DocDate=20120831\u0026ValidDate=20180831","Item3":"db4717da-c0a5-49f9-8a99-72295c8f7e08"},{"Item1":"\/Date(1537113600000)\/","Item2":"/Act/CPC2010/Historical/20180917?DocDate=20120831\u0026ValidDate=20180917","Item3":"a40d36f7-3100-4f3c-a62c-3c8266d04e4a"},{"Item1":"\/Date(1540915200000)\/","Item2":"/Act/CPC2010/Historical/20181031?DocDate=20120831\u0026ValidDate=20181031","Item3":"7cdb22b5-731f-4704-adb0-40ce5b9255b1"},{"Item1":"\/Date(1545062400000)\/","Item2":"/Act/CPC2010/Historical/20181218?DocDate=20120831\u0026ValidDate=20181218","Item3":"693df6d1-88f5-427d-893e-955d557c68e6"},{"Item1":"\/Date(1546272000000)\/","Item2":"/Act/CPC2010/Historical/20190101?DocDate=20190326\u0026ValidDate=20190101","Item3":"0b9f02b3-b422-4039-a5fa-b5211134f608"},{"Item1":"\/Date(1561046400000)\/","Item2":"/Act/CPC2010?ValidDate=20190621","Item3":"91ec44dc-eaec-4e60-a6b7-a949aa3499d4"}],"validStartDate":"\/Date(1561046400000)\/","disableScrollTracking":"0","lazyLoadFilter":{"TocSysId":"91ec44dc-eaec-4e60-a6b7-a949aa3499d4","SeriesId":null,"ValidTime":null,"TransactionTime":null,"ViewType":"","V":"28","Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"lazyLoadContentUrl":"/Details/GetLazyLoadContent","currViewUrl":"/Act/CPC2010","currViewFilter":{"DocType":"Act","DocNo":"CPC2010","QueryDate1":null,"DocStatus":"Current","ValidDate":null,"ValidDt":null,"TransactionDate":null,"DocDate":null,"ViewType":"","CompareDate":null,"ShowDiff":"","PrintType":"","ProvIds":"Sc1-","PageIndex":0,"PageSize":0,"SortBy":"","SortOrder":"","Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"showSideBar":true,"getAddToCollectionPanelUrl":"/Profile/GetAddToCollectionPanel","viewMode":1,"fragments":null,"exitSearchUrl":"/Act/CPC2010","searchWithinPhrase":"","currUrl":"https://sso.agc.gov.sg/Act/CPC2010?ProvIds=Sc1-"}'></div>
+    <div class="global-vars" data-json='{"tocSysId":"40d456d5-636c-4c0e-b3ec-97f922e5d5ea","rootFragSysId":"9036ad21-0df5-4a4d-8a02-4842a7bcb1ce","fragSysId":"","legisTitle":"Criminal Procedure Code","provTitle":"","citation":"(CHAPTER 68)","isProvisionView":0,"fragmentPath":"Sc1-","docTimelineIdx":48,"provTimelineIdx":-1,"provTimelineLen":0,"timelineItems":[{"Item1":"\/Date(544032000000)\/","Item2":"/Act/CPC1955/Historical/19870330?DocDate=19870330\u0026ValidDate=19870330","Item3":"32502a48-11b8-4ddc-b195-103af65c7494"},{"Item1":"\/Date(703526400000)\/","Item2":"/Act/CPC1955/Historical/19920418?DocDate=19870330\u0026ValidDate=19920418","Item3":"7ceb62ea-dfec-414d-8405-d1e0c3c30df9"},{"Item1":"\/Date(741456000000)\/","Item2":"/Act/CPC1955/Historical/19930701?DocDate=19870330\u0026ValidDate=19930701","Item3":"ab8d041a-a105-4089-9695-e56ab3968d8c"},{"Item1":"\/Date(765734400000)\/","Item2":"/Act/CPC1955/Historical/19940408?DocDate=19870330\u0026ValidDate=19940408","Item3":"3a7540bd-6c60-4989-b0b6-83a71b07e1ab"},{"Item1":"\/Date(820512000000)\/","Item2":"/Act/CPC1955/Historical/19960102?DocDate=19870330\u0026ValidDate=19960102","Item3":"5660c580-9241-40c8-b67f-d253ce7c7e62"},{"Item1":"\/Date(846777600000)\/","Item2":"/Act/CPC1955/Historical/19961101?DocDate=19870330\u0026ValidDate=19961101","Item3":"ddf94137-505b-4266-ab49-d81360a0fecf"},{"Item1":"\/Date(875635200000)\/","Item2":"/Act/CPC1955/Historical/19971001?DocDate=19870330\u0026ValidDate=19971001","Item3":"ee8e35cd-82c6-40f8-8843-64665ef67e19"},{"Item1":"\/Date(892137600000)\/","Item2":"/Act/CPC1955/Historical/19980410?DocDate=19870330\u0026ValidDate=19980410","Item3":"2a39c6b4-c1e8-4409-9953-aed7b3cfccd2"},{"Item1":"\/Date(916329600000)\/","Item2":"/Act/CPC1955/Historical/19990115?DocDate=19870330\u0026ValidDate=19990115","Item3":"443757a9-9815-4d1c-85ee-f8d6ad0dfd46"},{"Item1":"\/Date(978278400000)\/","Item2":"/Act/CPC1955/Historical/20010101?DocDate=19870330\u0026ValidDate=20010101","Item3":"2c9166ba-6759-43c5-a5bc-84f97e9d3760"},{"Item1":"\/Date(986054400000)\/","Item2":"/Act/CPC1955/Historical/20010401?DocDate=19870330\u0026ValidDate=20010401","Item3":"ae2aebe1-2822-4ac8-9c95-e6a856c79562"},{"Item1":"\/Date(1001865600000)\/","Item2":"/Act/CPC1955/Historical/20011001?DocDate=19870330\u0026ValidDate=20011001","Item3":"d0dcd873-ead0-4a6a-9aff-8d7b1ef0104e"},{"Item1":"\/Date(1033401600000)\/","Item2":"/Act/CPC1955/Historical/20021001?DocDate=19870330\u0026ValidDate=20021001","Item3":"e2560c9e-f320-48bb-b038-271c9c3d5699"},{"Item1":"\/Date(1078675200000)\/","Item2":"/Act/CPC1955/Historical/20040308?DocDate=19870330\u0026ValidDate=20040308","Item3":"6c37d3c8-0907-4ef4-82a5-38e0bfbd87bf"},{"Item1":"\/Date(1088611200000)\/","Item2":"/Act/CPC1955/Historical/20040701?DocDate=19870330\u0026ValidDate=20040701","Item3":"bfd9925a-f751-4f00-8b80-a9db042649d3"},{"Item1":"\/Date(1136044800000)\/","Item2":"/Act/CPC1955/Historical/20060101?DocDate=19870330\u0026ValidDate=20060101","Item3":"ac6a2c68-60f8-4e05-966a-68bd87136a50"},{"Item1":"\/Date(1172678400000)\/","Item2":"/Act/CPC1955/Historical/20070301?DocDate=19870330\u0026ValidDate=20070301","Item3":"51041e6f-4e53-403b-8ea4-667af058282e"},{"Item1":"\/Date(1201795200000)\/","Item2":"/Act/CPC1955/Historical/20080201?DocDate=20100625\u0026ValidDate=20080201","Item3":"af21d5e9-eb51-433b-912e-a23a6c92ac0a"},{"Item1":"\/Date(1293897600000)\/","Item2":"/Act/CPC2010/Historical/20110102?DocDate=20100625\u0026ValidDate=20110102","Item3":"ef3189a5-9c82-407c-a81e-b7e52251f6cd"},{"Item1":"\/Date(1311091200000)\/","Item2":"/Act/CPC2010/Historical/20110720?DocDate=20111220\u0026ValidDate=20110720","Item3":"3023ac8c-fc15-4f35-b706-958dc9390faa"},{"Item1":"\/Date(1324310400000)\/","Item2":"/Act/CPC2010/Historical/20111220?DocDate=20120228\u0026ValidDate=20111220","Item3":"c4186983-ee89-43f3-918f-d74391372711"},{"Item1":"\/Date(1330531200000)\/","Item2":"/Act/CPC2010/Historical/20120301?DocDate=20120416\u0026ValidDate=20120301","Item3":"e1e317b6-0c0e-4c63-af2b-2c04a1f78485"},{"Item1":"\/Date(1343750400000)\/","Item2":"/Act/CPC2010/Historical/20120801?DocDate=20120831\u0026ValidDate=20120801","Item3":"a3d1dcc9-a1e0-4b24-a2a3-aa2dbff4805f"},{"Item1":"\/Date(1346342400000)\/","Item2":"/Act/CPC2010/Historical/20120831?DocDate=20120831\u0026ValidDate=20120831","Item3":"7e6980c5-9024-40ee-a7d0-3961a35e4f21"},{"Item1":"\/Date(1356969600000)\/","Item2":"/Act/CPC2010/Historical/20130101?DocDate=20120831\u0026ValidDate=20130101","Item3":"bdbc60af-566e-4d36-b6dc-97a8514d029d"},{"Item1":"\/Date(1363104000000)\/","Item2":"/Act/CPC2010/Historical/20130313?DocDate=20120831\u0026ValidDate=20130313","Item3":"1d8a4bf1-b17b-47ab-9f22-8a823e5c5cdb"},{"Item1":"\/Date(1364400000000)\/","Item2":"/Act/CPC2010/Historical/20130328?DocDate=20120831\u0026ValidDate=20130328","Item3":"bdf111ce-a18f-4603-8d98-f764d7b8936f"},{"Item1":"\/Date(1394121600000)\/","Item2":"/Act/CPC2010/Historical/20140307?DocDate=20120831\u0026ValidDate=20140307","Item3":"d589951b-20ea-4a4e-8f14-ea799542c04e"},{"Item1":"\/Date(1394380800000)\/","Item2":"/Act/CPC2010/Historical/20140310?DocDate=20120831\u0026ValidDate=20140310","Item3":"39bf10f9-b850-499a-a1b4-170c58084a60"},{"Item1":"\/Date(1404144000000)\/","Item2":"/Act/CPC2010/Historical/20140701?DocDate=20120831\u0026ValidDate=20140701","Item3":"df42c4c6-bf73-4ab7-b077-1532aedebeaa"},{"Item1":"\/Date(1412092800000)\/","Item2":"/Act/CPC2010/Historical/20141001?DocDate=20120831\u0026ValidDate=20141001","Item3":"e9b18dc4-1504-4426-9bc8-05b9a050598b"},{"Item1":"\/Date(1415980800000)\/","Item2":"/Act/CPC2010/Historical/20141115?DocDate=20120831\u0026ValidDate=20141115","Item3":"9650ca5c-4dbb-4e17-b277-1eea6d4cc651"},{"Item1":"\/Date(1420041600000)\/","Item2":"/Act/CPC2010/Historical/20150101?DocDate=20120831\u0026ValidDate=20150101","Item3":"d7e0e06d-85fc-4017-84ae-36a6f9628cd3"},{"Item1":"\/Date(1427817600000)\/","Item2":"/Act/CPC2010/Historical/20150401?DocDate=20120831\u0026ValidDate=20150401","Item3":"26693a84-589e-40cb-982a-92894079cc89"},{"Item1":"\/Date(1433088000000)\/","Item2":"/Act/CPC2010/Historical/20150601?DocDate=20120831\u0026ValidDate=20150601","Item3":"7ea71a4e-0edf-456c-8cc7-322343ab9e26"},{"Item1":"\/Date(1464710400000)\/","Item2":"/Act/CPC2010/Historical/20160601?DocDate=20120831\u0026ValidDate=20160601","Item3":"4dacf6aa-8290-43c0-9312-417594d98f29"},{"Item1":"\/Date(1501516800000)\/","Item2":"/Act/CPC2010/Historical/20170801?DocDate=20120831\u0026ValidDate=20170801","Item3":"382e8949-d86e-40c1-b3c6-fe7d1cf64760"},{"Item1":"\/Date(1506787200000)\/","Item2":"/Act/CPC2010/Historical/20171001?DocDate=20120831\u0026ValidDate=20171001","Item3":"b95a05d4-c471-4681-9535-977b79cc1f69"},{"Item1":"\/Date(1526400000000)\/","Item2":"/Act/CPC2010/Historical/20180516?DocDate=20120831\u0026ValidDate=20180516","Item3":"0fdb6652-fea8-4b8b-9541-ca3f8526b041"},{"Item1":"\/Date(1535644800000)\/","Item2":"/Act/CPC2010/Historical/20180831?DocDate=20120831\u0026ValidDate=20180831","Item3":"20696a86-7e9a-4763-8513-ae879da987ba"},{"Item1":"\/Date(1537113600000)\/","Item2":"/Act/CPC2010/Historical/20180917?DocDate=20120831\u0026ValidDate=20180917","Item3":"561fd77c-08fb-4e91-8349-6644422a523f"},{"Item1":"\/Date(1540915200000)\/","Item2":"/Act/CPC2010/Historical/20181031?DocDate=20120831\u0026ValidDate=20181031","Item3":"83c74555-af0b-47e1-bcf9-72d6d6a01f93"},{"Item1":"\/Date(1545062400000)\/","Item2":"/Act/CPC2010/Historical/20181218?DocDate=20120831\u0026ValidDate=20181218","Item3":"6d846e50-dd40-4fd9-b7c2-956d6b84f126"},{"Item1":"\/Date(1546272000000)\/","Item2":"/Act/CPC2010/Historical/20190101?DocDate=20120831\u0026ValidDate=20190101","Item3":"9a768f32-be99-486e-b81f-c5d0fb862b1e"},{"Item1":"\/Date(1561046400000)\/","Item2":"/Act/CPC2010?ValidDate=20190621","Item3":"40d456d5-636c-4c0e-b3ec-97f922e5d5ea"}],"validStartDate":"\/Date(1561046400000)\/","disableScrollTracking":"0","lazyLoadFilter":{"TocSysId":"40d456d5-636c-4c0e-b3ec-97f922e5d5ea","SeriesId":null,"ValidTime":null,"TransactionTime":null,"ViewType":"","V":"29","Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"lazyLoadContentUrl":"/Details/GetLazyLoadContent","currViewUrl":"/Act/CPC2010","currViewFilter":{"DocType":"Act","DocNo":"CPC2010","QueryDate1":null,"DocStatus":"Current","ValidDate":null,"ValidDt":null,"TransactionDate":null,"DocDate":null,"ViewType":"","CompareDate":null,"ShowDiff":"","PrintType":"","ProvIds":"Sc1-","PageIndex":0,"PageSize":0,"SortBy":"","SortOrder":"","Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"showSideBar":true,"getAddToCollectionPanelUrl":"/Profile/GetAddToCollectionPanel","viewMode":1,"fragments":null,"exitSearchUrl":"/Act/CPC2010","searchWithinPhrase":"","currUrl":"https://sso.agc.gov.sg/Act/CPC2010?ProvIds=Sc1-"}'></div>
     
     <script src="/bundles/legis?v=MQOkdnT_iMzC_qe9uSGdOHKCz_6-WLwoXQuBw7sR7uQ1"></script>
 
 
-<script src="/CMS/scripts/page-bottom.js"></script>
 </body>
 </html>
