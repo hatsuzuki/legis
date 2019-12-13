@@ -67,8 +67,8 @@ for row in table:
     if len(row_result) == 9:
         row_result[0:3] = ["".join(row_result[0:3])]
 
-    # highlight edge case where row length == 6 (only present in last 4)
-    # rows of the table --- generic provisions for offences not in Penal Code
+    # highlight edge case where row length == 6 (only present in last 4
+    # rows of the table --- generic provisions for offences not in Penal Code)
     if len(row_result) == 6 and other_offences_flag == 0:
         print("\nOffences not in Penal Code (omitted):")
         other_offences_flag = 1
@@ -88,7 +88,8 @@ offences = [i for i in offences[2:] if len(i) == 7]
 
 
 # iterate through entire table to remove dittos
-# if cell content == "Ditto", replace it with contents of the cell in the previous row
+# if cell content == "Ditto", replace it with contents
+# of the cell in the previous row
 for row_index in range(len(offences)):
 
     for cell_index in range(len(offences[row_index])):
