@@ -2,6 +2,36 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
+        "section": "73",
+        "offence": "Enhanced penalties for offences alleged to have been committed against domestic workers",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "74A",
+        "offence": "Enhanced penalties for offences alleged to have been committed against vulnerable persons",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence "
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "74B",
+        "offence": "Enhanced penalties for offences alleged to have been committed against child below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence "
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
         "section": "109",
         "offence": "Abetment of any offence, if the act abetted is committed in consequence, and where no express provision is made for its punishment",
         "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
@@ -57,7 +87,7 @@
         "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
         "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
+        "punishment": "Imprisonment for 15 years, and fine, or caning"
     },
     {
         "statute": "224",
@@ -67,7 +97,7 @@
         "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
         "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 14 years, and fine"
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
     },
     {
         "statute": "224",
@@ -77,17 +107,7 @@
         "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
         "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
         "bailable": "According as to whether the offence abetted is bailable or not",
-        "punishment": "Imprisonment extending to a quarter of the longest term provided for the offence, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "116",
-        "offence": "If the abettor or the person abetted is a public servant whose duty it is to prevent the offence",
-        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
-        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
-        "bailable": "According as to whether the offence abetted is bailable or not",
-        "punishment": "Imprisonment extending to half of the longest term provided for the offence, or fine, or both"
+        "punishment": "The same punishment as for the offence abetted, provided that any mandatory minimum sentence or sentence fixed by law does not apply"
     },
     {
         "statute": "224",
@@ -184,10 +204,10 @@
         "statute_name": "Penal Code",
         "section": "120B",
         "offence": "Criminal conspiracy",
-        "arrestable": "May arrest without warrant if arrest for the offence which is the object of the conspiracy may be made without warrant, but not otherwise",
-        "warrant": "According as to whether warrant or summons may issue for the offence which is the object of the conspiracy",
-        "bailable": "According as to whether the offence which is the object of the conspiracy is bailable or not",
-        "punishment": "The same punishment as if the offence which is the object of the conspiracy was abetted"
+        "arrestable": "May arrest without warrant if arrest for the offence which is the subject of the conspiracy may be made without warrant, but not otherwise",
+        "warrant": "According as to whether warrant or summons may issue for the offence which is the subject of the conspiracy",
+        "bailable": "According as to whether the offence which is the subject of the conspiracy is bailable or not",
+        "punishment": "The same punishment as if the offence which is the subject of the conspiracy was abetted"
     },
     {
         "statute": "224",
@@ -197,7 +217,7 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Death, or imprisonment for life, and fine"
+        "punishment": "Death, or imprisonment for life"
     },
     {
         "statute": "224",
@@ -207,7 +227,7 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Death, or imprisonment for life, and fine"
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
     },
     {
         "statute": "224",
@@ -217,7 +237,7 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for life, and fine"
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
     },
     {
         "statute": "224",
@@ -907,7 +927,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -1053,11 +1073,21 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "195",
-        "offence": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or imprisonment for 7 years or upwards",
+        "offence": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for 7 years or upwards",
         "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for the offence"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "195",
+        "offence": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life ",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not ",
+        "warrant": "Warrant",
+        "bailable": "Not bailable ",
+        "punishment": "Imprisonment for 20\u00a0years"
     },
     {
         "statute": "224",
@@ -1228,16 +1258,6 @@
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "209",
-        "offence": "False claim in a court of justice",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 2 years, and fine"
     },
     {
         "statute": "224",
@@ -1662,262 +1682,12 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "231",
-        "offence": "Counterfeiting, or performing any part of the process of counterfeiting coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "232",
-        "offence": "Counterfeiting, or performing any part of the process of counterfeiting current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "233",
-        "offence": "Making, buying or selling instrument for the purpose of counterfeiting coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "234",
-        "offence": "Making, buying or selling instrument for the purpose of counterfeiting current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "235",
-        "offence": "Possession of instrument or material for the purpose of using the same for counterfeiting coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "235",
-        "offence": "If current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "236",
-        "offence": "Abetting in Singapore the counterfeiting out of Singapore of coin or current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "The punishment provided for abetting the counterfeiting of such coin or current coin within Singapore"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "237",
-        "offence": "Import or export of counterfeit coin, knowing the same to be counterfeit",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "238",
-        "offence": "Import or export of counterfeits of current coin, knowing the same to be counterfeit",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "239",
-        "offence": "Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "240",
-        "offence": "The same with respect to current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "241",
-        "offence": "Knowingly delivering to another any counterfeit coin as genuine which, when first possessed, the deliverer did not know to be counterfeit",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 2 years, or fine*, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "241A",
-        "offence": "Delivery to another of current coin as genuine which, when first possessed, the deliverer did not know to be counterfeit",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "242",
-        "offence": "Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "243",
-        "offence": "Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "246",
-        "offence": "Fraudulently diminishing the weight or altering the composition of any coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "247",
-        "offence": "Fraudulently diminishing the weight or altering the composition of current coin",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "248",
-        "offence": "Altering appearance of any coin with intent that it shall pass as a coin of a different description",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "249",
-        "offence": "Altering appearance of current coin with intent that it shall pass as a coin of a different description",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "250",
-        "offence": "Delivery to another of coin possessed with the knowledge that it is altered",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "251",
-        "offence": "Delivery of current coin possessed with the knowledge that it is altered",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "252",
-        "offence": "Possession of altered coin by a person who knew it to be altered when he became possessed thereof",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "253",
-        "offence": "Possession of current coin by a person who knew it to be altered when he became possessed thereof",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "254",
-        "offence": "Delivery to another of coin as genuine which, when first possessed, the deliverer did not know to be altered",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 2 years, or fine*"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "254A",
-        "offence": "Delivery to another of current coin as genuine which, when first possessed, the deliverer did not know to be altered",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
         "section": "255",
         "offence": "Counterfeiting a Government stamp",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 10\u00a0years, and fine"
     },
     {
         "statute": "224",
@@ -2002,51 +1772,11 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "264",
-        "offence": "Fraudulent use of false instrument for weighing",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "265",
-        "offence": "Fraudulent use of false weight or measure",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "266",
-        "offence": "Being in possession of false weights or measures for fraudulent use",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "267",
-        "offence": "Making or selling false weights or measures for fraudulent use",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
         "section": "267B",
         "offence": "Committing affray",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Not bailable",
+        "bailable": "Bailable",
         "punishment": "Imprisonment for one year, or fine*, or both"
     },
     {
@@ -2058,6 +1788,36 @@
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "268A",
+        "offence": "Communicating false information of harmful thing",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "268B",
+        "offence": "Placing or sending thing with intent to cause fear of harm",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "268C",
+        "offence": "Placing or sending thing causing fear of harm",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6\u00a0months, or fine*, or both"
     },
     {
         "statute": "224",
@@ -2097,7 +1857,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 6 months, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2107,7 +1867,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 6 months, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2117,7 +1877,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 6 months, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2127,7 +1887,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 6 months, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2137,7 +1897,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 6 months, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2147,7 +1907,7 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2157,7 +1917,7 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2212,72 +1972,252 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "284",
-        "offence": "Dealing with any poisonous substance so as to endanger human life, etc.",
+        "section": "284(1)(a)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to be likely to cause hurt or injury to any other person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "285",
-        "offence": "Dealing with fire or any combustible matter so as to endanger human life, etc.",
+        "section": "284(1)(b)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to endanger human life",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "286",
-        "offence": "Dealing with any explosive substance so as to endanger human life, etc.",
+        "section": "284(1)(c)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause hurt to any other person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "287",
-        "offence": "Dealing with any machinery so as to endanger human life, etc.",
+        "section": "284(1)(d)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause grievous hurt to any other person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 6\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "288",
-        "offence": "Omitting to take order to guard against probable danger to human life by the fall of any building being pulled down or repaired",
+        "section": "284(1)(e)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause death of any other person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "289",
-        "offence": "Omitting to take order with any animal in person\u2019s possession, so as to guard against danger to human life, or to grievous hurt, from that animal",
+        "section": "285(1)(a)",
+        "offence": "Causing or contributing to the risk of dangerous fire where the fire is likely to cause hurt or injury to any other person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "290",
+        "section": "285(1)(b)",
+        "offence": "Where the fire endangers human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "285(1)(c)",
+        "offence": "Where the fire damages property or diminishes value or utility thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 18\u00a0months, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "285(1)(d)",
+        "offence": "Where the fire causes hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "285(1)(e)",
+        "offence": "Where the fire causes grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "285(1)(f)",
+        "offence": "Where the fire causes death to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "287(1)(a)",
+        "offence": "Rash or negligent conduct with machinery so as to be likely to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "287(1)(b)",
+        "offence": "Rash or negligent conduct with machinery so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "287(1)(c)",
+        "offence": "Rash or negligent conduct with machinery so as to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "287(1)(d)",
+        "offence": "Rash or negligent conduct with machinery so as to cause grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "287(1)(e)",
+        "offence": "Rash or negligent conduct with machinery so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "288(1)(a)",
+        "offence": "Negligence in pulling down or repairing buildings so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "288(1)(b)",
+        "offence": "Negligence in pulling down or repairing buildings so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "289(1)(a)",
+        "offence": "Negligent conduct with respect to any animal so as to be likely to cause grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "289(1)(b)",
+        "offence": "Negligent conduct with respect to any animal so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "289(1)(c)",
+        "offence": "Negligent conduct with respect to any animal so as to cause grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "289(1)(d)",
+        "offence": "Negligent conduct with respect to any animal so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "290(a)",
         "offence": "Committing a public nuisance",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Fine*"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "290(b)",
+        "offence": "Where the offender knew that the public nuisance will cause or will probably cause any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3\u00a0months, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "290(c)",
+        "offence": "Committing a public nuisance on second or subsequent conviction",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3\u00a0months, or fine*, or both"
     },
     {
         "statute": "224",
@@ -2292,12 +2232,32 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "292",
+        "section": "292(1)",
         "offence": "Sale, etc., of obscene books, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "292(1A)",
+        "offence": "Sale, etc., of obscene objects depicting minor below 16\u00a0years of age ",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "292A",
+        "offence": "Possession, distribution, etc., of child sex-doll",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2313,7 +2273,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "294",
-        "offence": "Doing obscene act or reciting obscene song in a public place",
+        "offence": "Doing obscene act or reciting obscene words in a public place",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
@@ -2326,7 +2286,7 @@
         "offence": "Destroying, damaging, or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or both"
     },
     {
@@ -2336,7 +2296,7 @@
         "offence": "Causing a disturbance to an assembly engaged in religious worship",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -2346,7 +2306,7 @@
         "offence": "Trespassing in place of worship or sepulture, disturbing funeral, with intention to wound the feelings or to insult the religion of any person, or offering indignity to a human corpse",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -2356,7 +2316,7 @@
         "offence": "Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causing any matter however represented to be seen or heard by that person, with intention to wound his religious or racial feelings",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -2366,7 +2326,7 @@
         "offence": "Promoting enmity between different groups on grounds of religion or race, and doing acts prejudicial to maintenance of harmony",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
@@ -2397,7 +2357,7 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, or fine, or caning, or any combination of such punishments"
+        "punishment": "Imprisonment for 15\u00a0years, or fine, or caning, or any combination of such punishments"
     },
     {
         "statute": "224",
@@ -2422,18 +2382,58 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "305",
-        "offence": "Abetment of suicide committed by a child, or insane or delirious person or, an idiot, or a person intoxicated",
+        "section": "304B",
+        "offence": "Causing death of child below 14\u00a0years of age, domestic worker or vulnerable person by sustained abuse",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Death, or imprisonment for life, or imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 20\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "304C",
+        "offence": "Causing or allowing death of child below 14\u00a0years of age, domestic worker or vulnerable person in same household",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "305(1)(a)",
+        "offence": "Abetment of suicide of minor, or person who lacks capacity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life, or imprisonment for 20\u00a0years, and fine"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "305(1)(b)",
+        "offence": "Abetment of attempted suicide committed by minor, or person who lacks capacity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15\u00a0years, and fine"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "305(1)(c)",
+        "offence": "Abetment of attempted suicide of minor, or person who lacks capacity where hurt is caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "306",
-        "offence": "Abetting the commission of suicide",
+        "offence": "Abetting the commission of suicide or attempted suicide",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -2492,12 +2492,22 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "309",
-        "offence": "Attempt to commit suicide",
+        "section": "308A",
+        "offence": "Causing death in furtherance of group\u2019s object",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
+        "punishment": "Imprisonment for life, or imprisonment for 20\u00a0years, and caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "308B",
+        "offence": "Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years"
     },
     {
         "statute": "224",
@@ -2516,17 +2526,17 @@
         "offence": "Causing miscarriage",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "312",
-        "offence": "If the woman is quick with child",
+        "offence": "If the woman\u2019s pregnancy is more than 16\u00a0weeks",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -2586,7 +2596,7 @@
         "offence": "Exposure of a child under 12 years of age by parent or person having care of such child, with intention of wholly abandoning the child",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
@@ -2607,7 +2617,17 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "323A",
+        "offence": "Voluntarily causing hurt which causes grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5\u00a0years, or fine*, or both"
     },
     {
         "statute": "224",
@@ -2616,7 +2636,7 @@
         "offence": "Voluntarily causing hurt by dangerous weapons or means",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or caning, or any combination of such punishments"
     },
     {
@@ -2626,7 +2646,7 @@
         "offence": "Voluntarily causing grievous hurt",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine, or caning"
     },
     {
@@ -2653,7 +2673,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "328",
-        "offence": "Administering stupefying drug with intent to cause hurt, etc.",
+        "offence": "Administering poison, etc., with intent to cause hurt, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -2676,7 +2696,7 @@
         "offence": "Voluntarily causing hurt to extort confession or information, or to compel restoration of property, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine, or caning"
     },
     {
@@ -2696,8 +2716,8 @@
         "offence": "Voluntarily causing hurt to deter public servant from his duty",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 7 years, or fine, or caning, or any combination of such punishments"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or caning"
     },
     {
         "statute": "224",
@@ -2717,7 +2737,17 @@
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for 3 months, or fine*, or both"
+        "punishment": "Imprisonment for 6\u00a0months, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "334A",
+        "offence": "Voluntarily causing hurt on provocation which causes grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine*, or both"
     },
     {
         "statute": "224",
@@ -2728,6 +2758,36 @@
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 6 years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "335A(5)(a)",
+        "offence": "Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "335A(5)(b)",
+        "offence": "Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is not caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 4\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "335B",
+        "offence": "Act which endangers human life, etc., with knowledge or belief that it is likely to cause death",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2806,28 +2866,8 @@
         "offence": "Wrongfully confining any person",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "343",
-        "offence": "Wrongfully confining any person for 3 or more days",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "344",
-        "offence": "Wrongfully confining any person for 10 or more days",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -2836,7 +2876,7 @@
         "offence": "Keeping any person in wrongful confinement, knowing that a writ has been issued for his liberation",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, in addition to imprisonment under any other section"
     },
     {
@@ -2846,7 +2886,7 @@
         "offence": "Wrongful confinement in secret",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, in addition to imprisonment under any other section"
     },
     {
@@ -2856,7 +2896,7 @@
         "offence": "Wrongful confinement for the purpose of extorting property, or constraining to an illegal act, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, and fine"
     },
     {
@@ -2866,7 +2906,7 @@
         "offence": "Wrongful confinement for the purpose of extorting confession or information, or of compelling restoration of property, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, and fine"
     },
     {
@@ -2906,7 +2946,7 @@
         "offence": "If committed against any person under 14 years of age",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or caning, or any combination of such punishments"
     },
     {
@@ -3042,21 +3082,11 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "369",
-        "offence": "Kidnapping or abducting a child with intent to take property from the person of such child",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine, or caning"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
         "section": "370",
         "offence": "Buying or disposing of any person as a slave",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -3133,17 +3163,27 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "375(3)(b)",
-        "offence": "Rape of woman under 14 years of age without her consent",
+        "offence": "Rape of person below 14\u00a0years of age without person\u2019s consent",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 20 years, and caning"
+        "punishment": "Imprisonment for 20\u00a0years, and caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "375(3)(c)",
+        "offence": "Exploitative rape of person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, and caning"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376(3)",
-        "offence": "Sexual assault by penetration",
+        "offence": "Sexual assault involving penetration",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3153,7 +3193,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376(4)(a)",
-        "offence": "If in order to commit or to facilitate the commission of sexual assault by penetration, voluntarily causes hurt or puts a person in fear of death or hurt",
+        "offence": "If in order to commit or to facilitate the commission of sexual assault involving penetration, voluntarily causes hurt or puts a person in fear of death or hurt",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3163,7 +3203,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376(4)(b)",
-        "offence": "Sexual assault by penetration of person under 14 years of age without his or her consent",
+        "offence": "Sexual assault involving penetration of person under 14 years of age without his or her consent",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3172,12 +3212,32 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376A(2)",
-        "offence": "Sexual penetration of minor under 16 years of age",
+        "section": "376(4)(c)",
+        "offence": "Exploitative sexual assault involving penetration of person below 14\u00a0years of age",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, or fine, or both"
+        "punishment": "Imprisonment for 20\u00a0years, and caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376A(2)(a)",
+        "offence": "Exploitative sexual penetration of minor of or above 14 but below 16\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376A(2)(b)",
+        "offence": "Sexual penetration of minor of or above 14 but below 16\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -3192,48 +3252,58 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376B(1)",
-        "offence": "Commercial sex with minor under 18 years of age",
+        "section": "376AA",
+        "offence": "Exploitative sexual penetration of minor of or above 16 but below 18\u00a0years of age",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376B(1)",
+        "offence": "Commercial sex or sexual touching involving minor under 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376B(2)",
-        "offence": "Communicating with a person for purpose of commercial sex with minor under 18 years of age",
+        "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376C(2)",
-        "offence": "Commercial sex with minor under 18 years of age outside Singapore",
+        "offence": "Commercial sex or sexual touching involving minor under 18 years of age outside Singapore",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376C(2)",
-        "offence": "Communicating with a person for purpose of commercial sex with minor under 18 years of age outside Singapore",
+        "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age outside Singapore",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376D(3)",
-        "offence": "Tour outside Singapore for commercial sex with minor under 18 years of age",
+        "offence": "Tour outside Singapore for commercial sex or sexual touching involving minor under 18 years of age",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3242,22 +3312,132 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376E(4)",
-        "offence": "Sexual grooming of minor under 16 years of age",
+        "section": "376E(4)(a)",
+        "offence": "Sexual grooming of minor below 14\u00a0years of age",
         "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 3 years, or fine, or both"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 4\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376E(4)(b)",
+        "offence": "Sexual grooming of minor of or above 14 but below 16\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EA(4)",
+        "offence": "Exploitative sexual grooming of minor of or above 16 but below 18\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EB(3)(a)",
+        "offence": "Sexual communication with minor below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EB(3)(b)",
+        "offence": "Sexual communication with minor of or above 14 but below 16\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EC(3)",
+        "offence": "Exploitative sexual communication with minor of or above 16 but below 18\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376ED(1)",
+        "offence": "Engaging in sexual activity in presence of minor below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both "
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376ED(1)",
+        "offence": "Engaging in sexual activity in presence of minor of or above 14 but below 16\u00a0years of age ",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376ED(2)",
+        "offence": "Causing minor below 14\u00a0years of age to observe sexual image",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376ED(2)",
+        "offence": "Causing minor of or above 14 but below 16\u00a0years of age to observe sexual image",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EE(1)",
+        "offence": "Engaging in sexual activity in presence of minor of or above 16 but below 18\u00a0years of age with exploitative relationship",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "376EE(2)",
+        "offence": "Causing minor of or above 16 but below 18\u00a0years of age to observe sexual image with exploitative relationship",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "376F(2)",
         "offence": "Procurement of sexual activity with a person with mental disability",
-        "arrestable": "Shall not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, or fine, or both"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -3267,37 +3447,37 @@
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, or fine, or both"
+        "punishment": "Imprisonment for 20\u00a0years, and fine, or caning"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376G(3)",
-        "offence": "Incest by a man",
+        "section": "376G",
+        "offence": "Incest",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years"
+        "punishment": "Imprisonment for 5\u00a0years"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376G(4)",
-        "offence": "Incest by a man with a woman under 14 years of age",
+        "section": "376H(2)(a)",
+        "offence": "Procurement of sexual activity by deception or false representation if penetration is involved",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 14 years"
+        "punishment": "Imprisonment for 10\u00a0years, or fine, or caning"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "376G(5)",
-        "offence": "Incest by a woman",
+        "section": "376H(2)(b)",
+        "offence": "Procurement of sexual activity by deception or false representation in any other case",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years"
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -3358,6 +3538,196 @@
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BA",
+        "offence": "Uttering any word or making any gesture intended to insult the modesty of a person, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BB(7)",
+        "offence": "Voyeurism",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BB(8)",
+        "offence": "If committed against any person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BC(3)",
+        "offence": "Distribution of voyeuristic image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, or fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BC(4)",
+        "offence": "If committed against any person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BD(2)",
+        "offence": "Possession of or gaining access to voyeuristic or intimate image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BD(3)",
+        "offence": "If committed against any person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BE(3)",
+        "offence": "Distributing or threatening to distribute intimate image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, or fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BE(4)",
+        "offence": "If committed against any person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BF(3)",
+        "offence": "Sexual exposure",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one\u00a0year, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BF(4)",
+        "offence": "If committed against any person below 14\u00a0years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BG(2)",
+        "offence": "Using or involving child in production of child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BH(2)",
+        "offence": "Producing child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BI(2)",
+        "offence": "Distributing or selling child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BJ(3)",
+        "offence": "Advertising or seeking child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BK(2)",
+        "offence": "Possession of or gaining access to child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BL(2)",
+        "offence": "Exploitation by abusive material of minor of or above 16 but below 18 years of age by using, causing or procuring minor in production of abusive material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BL(3)",
+        "offence": "Exploitation by producing abusive material of minor",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, and fine, or caning"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "377BL(4)",
+        "offence": "Exploitation by distributing or sale of abusive material of minor",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, and fine, or caning"
     },
     {
         "statute": "224",
@@ -3563,7 +3933,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "401",
-        "offence": "Belonging to a wandering gang of persons associated for the purpose of habitually committing theft",
+        "offence": "Belonging to a gang of persons associated for the purpose of habitually committing theft",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3623,7 +3993,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "407",
-        "offence": "Criminal breach of trust by a carrier, wharfinger, etc.",
+        "offence": "Criminal breach of trust of property entrusted for purposes of transportation or storage",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3633,7 +4003,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "408",
-        "offence": "Criminal breach of trust by a clerk or servant",
+        "offence": "Criminal breach of trust by employees",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3643,17 +4013,17 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "409",
-        "offence": "Criminal breach of trust by public servant, or by banker, merchant or agent, etc.",
+        "offence": "Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+        "punishment": "Imprisonment for 20 years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "411(1)",
-        "offence": "Dishonestly receiving or retaining stolen property, knowing it to be stolen",
+        "offence": "Receiving or retaining stolen property, knowing it to be stolen",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -3673,11 +4043,11 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "412",
-        "offence": "Dishonestly receiving or retaining stolen property, knowing that it was obtained by gang-robbery",
+        "offence": "Receiving property stolen in the commission of gang-robbery",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 20\u00a0years, and fine"
     },
     {
         "statute": "224",
@@ -3712,6 +4082,16 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
+        "section": "416A(5)",
+        "offence": "Illegally obtained personal information",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3\u00a0years, or fine*, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
         "section": "417",
         "offence": "Cheating",
         "arrestable": "May arrest without warrant",
@@ -3736,7 +4116,7 @@
         "offence": "Cheating by personation",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 5 years, or fine, or both"
     },
     {
@@ -3748,6 +4128,16 @@
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "420A",
+        "offence": "Obtaining services dishonestly or fraudulently",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -3792,22 +4182,42 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
+        "section": "424A(3)",
+        "offence": "Fraud by false representation, non\u2011disclosure or abuse of position not connected with contracts for goods or services",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "424B(3)",
+        "offence": "Fraud by false representation, non\u2011disclosure or abuse of position\u00a0\u2014 where otherwise",
+        "arrestable": "Shall not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, or fine, or both"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
         "section": "426",
         "offence": "Mischief",
         "arrestable": "Shall not arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "427",
-        "offence": "Mischief, and thereby causing damage to the amount of $500 or upwards",
-        "arrestable": "Shall not arrest without warrant",
+        "offence": "Mischief, and thereby causing disruption to key service, etc.",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, or fine, or both"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
@@ -3822,81 +4232,11 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "430",
-        "offence": "Mischief by causing diminution of supply of water for agricultural or industrial purposes, etc.",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "430A",
-        "offence": "Mischief affecting railway engine, train, etc.",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "431",
-        "offence": "Mischief by injury to public road, bridge, navigable river or channel, and rendering it impassable or less safe for travelling or conveying property",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "431A",
-        "offence": "Mischief by injury to telegraph cable, wire, etc.",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "432",
-        "offence": "Mischief by causing inundation or obstruction to public drainage, attended with damage",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "433",
-        "offence": "Mischief by destroying or moving, or rendering less useful a lighthouse or sea-mark",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 7 years, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "434",
-        "offence": "Mischief by destroying or moving, etc., a landmark fixed by public authority",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
         "section": "435",
         "offence": "Mischief by fire or explosive substance",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
     },
     {
@@ -3963,147 +4303,67 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "448",
-        "offence": "House-trespass",
+        "offence": " House-breaking",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine*, or both"
+        "punishment": "Imprisonment for 3\u00a0years, or fine, or both"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "449",
-        "offence": "House-trespass in order to commit an offence punishable with death",
+        "offence": " House-breaking in order to commit an offence punishable with death",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for life, or imprisonment for 15\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "450",
-        "offence": "House-trespass in order to commit an offence punishable with imprisonment for life",
+        "offence": " House-breaking in order to commit an offence punishable with imprisonment for life",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 15\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "451",
-        "offence": "House-trespass in order to commit an offence punishable with imprisonment",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 2 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "451",
-        "offence": "If the offence is theft",
+        "offence": " House-breaking in order to commit an offence punishable with imprisonment",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
+        "punishment": "Imprisonment for 10\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "452",
-        "offence": "House-trespass, after preparation made for causing hurt, assault, etc.",
+        "offence": " House-breaking, after preparation made for causing hurt, assault, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
+        "punishment": "Imprisonment for 10\u00a0years, and fine, or caning"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "453",
-        "offence": "Lurking house-trespass or house-breaking",
+        "offence": "Possession of house-breaking implements or offensive weapons",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 2 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "454",
-        "offence": "Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "454",
-        "offence": "If the offence is theft",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "455",
-        "offence": "Lurking house-trespass or house-breaking after preparation made for causing hurt, assault, etc.",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and caning"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "456",
-        "offence": "Lurking house-trespass or house-breaking by night",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "457",
-        "offence": "Lurking house-trespass or house-breaking by night in order to commit an offence punishable with imprisonment",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "457",
-        "offence": "If the offence is theft",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 14 years, and fine"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "458",
-        "offence": "Lurking house-trespass or house-breaking by night, after preparation made for causing hurt, etc.",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 14 years, and caning"
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2\u00a0years, or fine, or both and forfeiture of any instrument or article found in the possession of that person"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "458A",
-        "offence": "Committing an offence under section\u00a0454 or 457 subsequent to having been convicted of an offence under section\u00a0454, 455, 457 or 458",
+        "offence": "Committing an offence under section\u00a0449, 450, 451 or 452 subsequent to having been convicted of an offence under section\u00a0449, 450, 451 or 452",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4113,7 +4373,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "459",
-        "offence": "Grievous hurt caused whilst committing lurking house- trespass or house-breaking",
+        "offence": "Grievous hurt caused whilst committing house-breaking",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4123,7 +4383,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "460",
-        "offence": "Death or grievous hurt caused by one of several persons jointly concerned in house-breaking by night, etc.",
+        "offence": "Death or grievous hurt caused by one of several persons jointly concerned in house-breaking",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4313,7 +4573,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "489A",
-        "offence": "Forging or counterfeiting currency notes or bank notes",
+        "offence": "Forging or counterfeiting currency or bank notes",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4323,7 +4583,7 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "489B",
-        "offence": "Using as genuine forged or counterfeit currency notes or bank notes",
+        "offence": "Using as genuine forged or counterfeit currency or bank notes",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4333,17 +4593,17 @@
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "489C",
-        "offence": "Possession of forged or counterfeit currency notes or bank notes, with intent",
+        "offence": "Possession of forged or counterfeit currency or bank notes, with intent",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 15 years"
+        "punishment": "Imprisonment for 15 years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
         "section": "489D",
-        "offence": "Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes",
+        "offence": "Making or possessing instruments or materials for forging or counterfeiting currency or bank notes",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -4352,42 +4612,52 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "493",
-        "offence": "A man by deceit causing a woman not lawfully married to him, to believe that she is lawfully married to him, and to cohabit with him in that belief",
-        "arrestable": "Shall not arrest without warrant",
+        "section": "489E",
+        "offence": "Abetting in Singapore counterfeiting of currency out of Singapore",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
+        "punishment": "The punishment provided for abetting the counterfeiting of such currency within Singapore"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "494",
-        "offence": "Marrying again during the lifetime of a husband or wife",
-        "arrestable": "Shall not arrest without warrant",
+        "section": "489F",
+        "offence": "Fraudulently or dishonestly diminishing weight or altering composition of coin",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "495",
-        "offence": "Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted",
-        "arrestable": "Shall not arrest without warrant",
+        "section": "489G",
+        "offence": "Altering appearance of currency with intent that it passes as currency of different description",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 7\u00a0years, and fine"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "496",
-        "offence": "A person with fraudulent intention going through the ceremony of being married, knowing that he is not thereby lawfully married",
-        "arrestable": "Shall not arrest without warrant",
+        "section": "489H",
+        "offence": "Delivering to another of altered currency",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 7 years, and fine"
+        "punishment": "Imprisonment for 10\u00a0years, and fine"
+    },
+    {
+        "statute": "224",
+        "statute_name": "Penal Code",
+        "section": "489I",
+        "offence": "Possession of altered currency",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5\u00a0years, and fine"
     },
     {
         "statute": "224",
@@ -4446,7 +4716,7 @@
         "offence": "Criminal intimidation",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
     },
     {
@@ -4456,7 +4726,7 @@
         "offence": "If threat is to cause death or grievous hurt, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
+        "bailable": "Not bailable",
         "punishment": "Imprisonment for 10 years, or fine, or both"
     },
     {
@@ -4472,41 +4742,21 @@
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "508",
-        "offence": "Act caused by inducing a person to believe that he will be rendered an object of divine displeasure",
-        "arrestable": "Shall not arrest without warrant",
+        "section": "512(1)",
+        "offence": "Attempting (where no express provision is made by the Penal Code or by other written law) to commit offences punishable with death or imprisonment for life",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20\u00a0years, and fine, or caning"
     },
     {
         "statute": "224",
         "statute_name": "Penal Code",
-        "section": "509",
-        "offence": "Uttering any word or making any gesture intended to insult the modesty of a woman, etc.",
-        "arrestable": "Shall not arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Bailable",
-        "punishment": "Imprisonment for one year, or fine, or both"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "511",
-        "offence": "Attempting (where no express provision is made by the Penal Code or by other written law) to commit offences punishable with imprisonment or fine or with a combination of such punishments (other than imprisonment for life), and in such attempt doing any act towards the commission of the offence",
+        "section": "512(2)",
+        "offence": "If the attempted offence is punishable with any punishment or combination of punishments other than death or imprisonment for life",
         "arrestable": "According as to whether the offence is one in respect of which the police may arrest without warrant or not",
         "warrant": "According as to whether the offence is one in respect of which a summons or warrant shall ordinarily issue",
-        "bailable": "According as to whether the offence contemplated by the offender is bailable or not",
-        "punishment": "The punishment provided for the offence, provided that any term of imprisonment shall not exceed one-half of the longest term provided for the offence"
-    },
-    {
-        "statute": "224",
-        "statute_name": "Penal Code",
-        "section": "511",
-        "offence": "If the attempted offence is punishable with imprisonment for life",
-        "arrestable": "According as to whether the offence is one in respect of which the police may arrest without warrant or not",
-        "warrant": "According as to whether the offence is one in respect of which a summons or warrant shall ordinarily issue",
-        "bailable": "According as to whether the offence contemplated by the offender is bailable or not",
-        "punishment": "Imprisonment for 15 years"
+        "bailable": "According as to whether the offence attempted is bailable or not",
+        "punishment": "The punishment provided for the offence, except that the court is not bound to impose any specified minimum sentence or mandatory minimum sentence of imprisonment, or fine or caning"
     }
 ]
