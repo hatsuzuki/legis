@@ -61,9 +61,9 @@ $(document).ready(function()
      */
     var suggestion_template = 
     '<div class="row">' +
-    '   <div class="col-3 col-sm-1 section-number my-auto">{{section}}</div>' + 
-    '   <div class="col-7 col-sm-10 my-auto">{{offence}}</div>' +
-    '   <div class="col-2 col-sm-1 text-center my-auto">' + 
+    '   <div class="col-3 col-md-2 col-xl-1 section-number my-auto">{{section}}</div>' + 
+    '   <div class="col-7 col-md-9 col-xl-10 pl-xl-4 my-auto">{{offence}}</div>' +
+    '   <div class="col-2 col-md-1 col-xl-1 text-center my-auto">' + 
     '       {{#iff arrestable "==" "' + ARRESTABLE + '"}}' +
     '           <div class="arrestable-badge-small bg-success font-weight-bold text-white pull-right">A</div>' + 
     '       {{else}}' + 
