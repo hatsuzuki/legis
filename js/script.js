@@ -17,6 +17,15 @@ var search_by_offence, search_by_section;
 
 $(document).ready(function()
 {   
+    // Check if "don't show disclaimer again" cookie was set previously
+    // If it wasn't, display the disclaimer
+    // (show hidden disclaimer was implemented instead of hiding shown disclaimer to prevent momentary flashing of disclaimer)
+    if (document.cookie != "hideDisclaimer=true")
+    {
+        $("#disclaimer").removeClass("d-none");
+        $("#disclaimer-link").addClass("d-none");
+    }
+
     // Iterate through list of statutes and parses JSON files associated with the list names
     // Then appends them to the main data variable
     for (var i=0; i<statutes.length; i++)
@@ -262,10 +271,20 @@ $(document).ready(function()
         $(this).addClass("d-none");
     });
     
-    $("#disclaimer-dismiss").click(function()
+    $(".disclaimer-dismiss").click(function()
     {
         $("#disclaimer").addClass("d-none");
         $("#disclaimer-link").removeClass("d-none");
+    });
+
+
+    // If "don't show again" button was clicked
+    // set a cookie to remember not to show disclaimer anymore for up to one year
+    $(".disclaimer-dismiss-perm").click(function()
+    {
+        var cookieDate = new Date;
+        cookieDate.setFullYear(cookieDate.getFullYear() + 1);
+        document.cookie = "hideDisclaimer=true; expires=" + cookieDate.toUTCString() + ";";
     });
     
 });
