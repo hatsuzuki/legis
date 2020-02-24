@@ -260,9 +260,6 @@ $(document).ready(function()
         {
             $("#agclink").addClass("d-none");
         }
-
-        // Scroll to top of page
-        $("html, body").animate({ scrollTop: 0 });
                             
     });
     
