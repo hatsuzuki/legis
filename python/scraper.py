@@ -13,6 +13,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import re
 
 
 # constants
@@ -56,7 +57,11 @@ other_offences_flag = 0
 for row in table: 
     row_result = []
 
-    row_data = row.find_all("td", {"class": CONTENT_CELL_CLASS})
+    # skip empty rows that are just blank strings
+    try:
+        row_data = row.find_all("td", class_ = CONTENT_CELL_CLASS)
+    except AttributeError:
+        continue
     
     for cell in row_data:
         row_result.extend(cell.strings)
@@ -66,6 +71,12 @@ for row in table:
     # so we have to merge them back into one element
     if len(row_result) == 9:
         row_result[0:3] = ["".join(row_result[0:3])]
+
+    # highlight and fix edge case where ["Not bailable"] is wrongly formatted
+    # as ["Not", "bailable"]
+    if len(row_result) == 8 and row_result[4] == "Not " and row_result[5] == "bailable":
+        row_result = row_result[:4] + ["Not bailable"] + row_result[6:]
+        print(row_result)
 
     # highlight edge case where row length == 6 (only present in last 4
     # rows of the table --- generic provisions for offences not in Penal Code)
@@ -82,19 +93,19 @@ for row in table:
     offences.append(row_result)
 
 
-# start from offences[2:] to remove header rows
 # filter for len(i) == 7 to remove invalid rows
-offences = [i for i in offences[2:] if len(i) == 7]
+offences = [i for i in offences if len(i) == 7]
 
 
-# iterate through entire table to remove dittos
-# if cell content == "Ditto", replace it with contents
-# of the cell in the previous row
-for row_index in range(len(offences)):
+# no longer required -- dittos have been removed entirely
+# # iterate through entire table to remove dittos
+# # if cell content == "Ditto", replace it with contents
+# # of the cell in the previous row
+# for row_index in range(len(offences)):
 
-    for cell_index in range(len(offences[row_index])):
-        if offences[row_index][cell_index] == "Ditto":
-            offences[row_index][cell_index] = offences[row_index-1][cell_index]
+#     for cell_index in range(len(offences[row_index])):
+#         if offences[row_index][cell_index] == "Ditto":
+#             offences[row_index][cell_index] = offences[row_index-1][cell_index]
 
 
 # convert offences into a properly-labelled dictionary
@@ -104,9 +115,20 @@ for i in offences:
         print(chap)
         continue
 
+    # replace weird characters and trim spaces
+    for n in range(6):
+        i[n] = i[n].replace(u"\u00A0", " ")
+        i[n] = i[n].replace(u"\u2011", "-")
+        i[n] = i[n].replace(u"\u2014", "-")
+        i[n] = i[n].replace(u"\u2019", "'")
+        i[n] = i[n].replace("\n", "")
+        i[n] = i[n].replace("Fine*", "Fine")
+        i[n] = i[n].replace("fine*", "fine")
+        i[n] = i[n].strip()
+        i[n] = re.sub("  +", "", i[n])
+
     r = {
-            "statute"       :   "224",
-            "statute_name"  :   "Penal Code",
+            "statute"       :   "Penal Code 1871",
             "section"       :   i[0],
             "offence"       :   i[1],
             "arrestable"    :   i[2],
@@ -118,7 +140,7 @@ for i in offences:
 
 
 # write to JSON file
-f = open(FILE_PATH + "cpc.json", "w")
+f = open(FILE_PATH + "pc.json", "w")
 f.write(json.dumps(offences_json, indent=4, separators=(",", ": ")))
 f.close()
 

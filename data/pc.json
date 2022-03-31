@@ -1,0 +1,4277 @@
+[
+    {
+        "statute": "Penal Code 1871",
+        "section": "73",
+        "offence": "Enhanced penalties for offences alleged to have been committed against domestic workers",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "74A",
+        "offence": "Enhanced penalties for offences alleged to have been committed against vulnerable persons",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "74B",
+        "offence": "Enhanced penalties for offences alleged to have been committed against child below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not",
+        "punishment": "Up to twice the punishment provided for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "109",
+        "offence": "Abetment of any offence, if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence abetted"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "110",
+        "offence": "Abetment of any offence, if the person abetted does the act with a different intention from that of the abettor",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence abetted"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "111",
+        "offence": "Abetment of any offence, when one act is abetted and a different act is done; subject to the proviso",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence intended to be abetted"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "113",
+        "offence": "Abetment of any offence, when an effect is caused by the act abetted different from that intended by the abettor",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence committed"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "114",
+        "offence": "Abetment of any offence, if the abettor is present when the offence is committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence committed"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "115",
+        "offence": "Abetment of an offence punishable with death or imprisonment for life, if the offence is not committed in consequence of the abetment",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "116",
+        "offence": "Abetment of an offence punishable with imprisonment, if the offence is not committed in consequence of the abetment",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "The same punishment as for the offence abetted, provided that any mandatory minimum sentence or sentence fixed by law does not apply"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "117",
+        "offence": "Abetting the commission of an offence by the public, or by more than 10 persons",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "118",
+        "offence": "Concealing a design to commit an offence punishable with death or imprisonment for life, if the offence is committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "118",
+        "offence": "If the offence is not committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "119",
+        "offence": "A public servant concealing a design to commit an offence which it is his or her duty to prevent, if the offence is committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "Imprisonment extending to half of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "119",
+        "offence": "If the offence is punishable with death or imprisonment for life",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "119",
+        "offence": "If the offence is not committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence abetted is bailable or not",
+        "punishment": "Imprisonment extending to a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "119",
+        "offence": "If the offence is punishable with death or imprisonment for life but is not committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "120",
+        "offence": "Concealing a design to commit an offence punishable with imprisonment, if the offence is committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence is bailable or not",
+        "punishment": "Imprisonment extending to a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "120",
+        "offence": "If the offence is not committed",
+        "arrestable": "May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise",
+        "warrant": "According as to whether a warrant or summons may issue for the offence abetted",
+        "bailable": "According as to whether the offence is bailable or not",
+        "punishment": "Imprisonment extending to one-eighth of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "120B",
+        "offence": "Criminal conspiracy",
+        "arrestable": "May arrest without warrant if arrest for the offence which is the subject of the conspiracy may be made without warrant, but not otherwise",
+        "warrant": "According as to whether warrant or summons may issue for the offence which is the subject of the conspiracy",
+        "bailable": "According as to whether the offence which is the subject of the conspiracy is bailable or not",
+        "punishment": "The same punishment as if the offence which is the subject of the conspiracy was abetted"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "121",
+        "offence": "Waging or attempting to wage war, or abetting the waging of war, against the Government",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "121A",
+        "offence": "Offences against the President's person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "121B",
+        "offence": "Offences against authority",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "121C",
+        "offence": "Abetting offences under section 121A or 121B",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Punishment provided for offences under section 121A or 121B"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "121D",
+        "offence": "Intentional omission to give information of offences against section 121, 121A, 121B or 121C",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "122",
+        "offence": "Collecting arms, etc., with the intention of waging war against the Government",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "123",
+        "offence": "Concealing with intent to facilitate a design to wage war",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "124",
+        "offence": "Assaulting the President, etc., with intent to compel or restrain the exercise of any lawful power",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "125",
+        "offence": "Waging war against any power in alliance or at peace with the Government or abetting the waging of such war",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine, or fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "126",
+        "offence": "Committing depredation on the territories of any power in alliance or at peace with the Government",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, and forfeiture of certain property"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "127",
+        "offence": "Receiving property taken by war or depredation mentioned in sections 125 and 126",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine, and forfeiture of property so received"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "128",
+        "offence": "Public servant voluntarily allowing prisoner of State or war in his or her custody to escape",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "129",
+        "offence": "Public servant negligently suffering prisoner of State or war in his or her custody to escape",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130",
+        "offence": "Aiding escape of, rescuing, or harbouring, such prisoner, or offering any resistance to the recapture of such prisoner",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130B",
+        "offence": "Piracy by law of nations",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130B",
+        "offence": "While committing or attempting to commit piracy, the person commits murder or attempts to commit murder, or does any act which is likely to endanger the life of another person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130C",
+        "offence": "Piratical acts",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130E",
+        "offence": "Genocide where offence consists of the killing of any person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "130E",
+        "offence": "Genocide in any other case",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "131",
+        "offence": "Abetting mutiny, or attempting to seduce an officer, a sailor, a soldier or an airman from his or her allegiance or duty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "132",
+        "offence": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "133",
+        "offence": "Abetment of an assault by an officer, a sailor, a soldier or an airman on his or her superior officer, when in the execution of his or her office",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "134",
+        "offence": "Abetment of such assault, if the assault is committed",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "135",
+        "offence": "Abetment of the desertion of an officer, a sailor, a soldier or an airman",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "136",
+        "offence": "Harbouring an officer, a sailor, a soldier or an airman who has deserted",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "137",
+        "offence": "Deserter concealed on board merchant vessel, through negligence of master or person in charge thereof",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "138",
+        "offence": "Abetment of act of insubordination by an officer, a sailor, a soldier or an airman, if the offence is committed in consequence",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "140",
+        "offence": "Wearing garb or carrying any token used by a sailor, a soldier or an airman with intent that it may be believed that he or she is such",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "143",
+        "offence": "Being member of an unlawful assembly",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "144",
+        "offence": "Joining an unlawful assembly armed with any deadly weapon",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "145",
+        "offence": "Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "147",
+        "offence": "Rioting",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "148",
+        "offence": "Rioting, armed with a deadly weapon",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "149",
+        "offence": "Offence committed by member of an unlawful assembly, other members guilty",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "According as to whether a warrant or summons may issue for the offence",
+        "bailable": "According as to whether the offence is bailable or not",
+        "punishment": "The same as for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "150",
+        "offence": "Hiring, engaging or employing persons to take part in an unlawful assembly",
+        "arrestable": "May arrest without warrant",
+        "warrant": "According to the offence committed by the person hired, engaged or employed",
+        "bailable": "According as to whether the offence is bailable or not",
+        "punishment": "The same as for a member of such assembly, and for any offence committed by any member of such assembly"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "151",
+        "offence": "Knowingly joining or continuing in any assembly of 5 or more persons after it has been commanded to disperse",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "152",
+        "offence": "Assaulting or obstructing public servant when suppressing riot, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 8 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "153",
+        "offence": "Intentionally or rashly giving provocation with intent to cause riot, if rioting is committed",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "153",
+        "offence": "If not committed",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "154",
+        "offence": "Owner or occupier of land not giving information of riot, etc.",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "155",
+        "offence": "Person for whose benefit or on whose behalf a riot takes place not using all lawful means to prevent it",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "156",
+        "offence": "Agent of owner or occupier for whose benefit a riot is committed not using all lawful means to prevent it",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "157",
+        "offence": "Harbouring persons hired for an unlawful assembly",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "158",
+        "offence": "Being hired to take part in an unlawful assembly or riot",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "158",
+        "offence": "Or to go armed",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "161",
+        "offence": "Being or expecting to be a public servant, and taking a gratification other than legal remuneration in respect of an official act",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "162",
+        "offence": "Taking a gratification in order, by corrupt or illegal means, to influence a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "163",
+        "offence": "Taking a gratification for the exercise of personal influence with a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "164",
+        "offence": "Abetment by public servant of the offences defined in sections 162 and 163 with reference to himself or herself",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "165",
+        "offence": "Public servant obtaining any valuable thing, without consideration, from a person concerned in any proceeding or business transacted by the public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "166",
+        "offence": "Public servant disobeying a direction of the law with intent to cause injury to any person",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "167",
+        "offence": "Public servant framing an incorrect document or electronic record with intent to cause injury",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "168",
+        "offence": "Public servant unlawfully engaging in trade",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "169",
+        "offence": "Public servant unlawfully buying or bidding for property",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both, and confiscation of property, if purchased"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "170",
+        "offence": "Personating a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "171",
+        "offence": "Wearing garb or carrying token used by public servant with fraudulent intent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "172",
+        "offence": "Absconding to avoid service of summons or other proceeding from a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "172",
+        "offence": "If summons or notice requires attendance in person, etc., in a court of justice",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "173",
+        "offence": "Preventing the service or the affixing of any summons or notice, or the removal of it when it has been affixed, or preventing a proclamation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "173",
+        "offence": "If summons, etc., requires attendance in person, etc., in a court of justice",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "174",
+        "offence": "Not obeying a legal order to attend at a certain place in person or by agent, or departing therefrom without authority",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "174",
+        "offence": "If the order requires personal attendance, etc., in a court of justice",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "175",
+        "offence": "Intentionally omitting to produce a document or an electronic record to a public servant by a person legally bound to produce or deliver such document or electronic record",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "176",
+        "offence": "Intentionally omitting to give notice or information to a public servant by a person legally bound to give the notice or information",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "176",
+        "offence": "If the notice or information required respects the commission of an offence, etc.",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "177",
+        "offence": "Knowingly furnishing false information to a public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "177",
+        "offence": "If the information required respects the commission of an offence, etc.",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "178",
+        "offence": "Refusing oath when duly required to take an oath by a public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "179",
+        "offence": "Being legally bound to state truth, and refusing to answer questions to a public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "180",
+        "offence": "Refusing to sign a statement made to a public servant when legally required to do so",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "181",
+        "offence": "Knowingly stating to a public servant on oath as true that which is false",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "182",
+        "offence": "Giving false information to a public servant in order to cause him or her to use his or her lawful power to the injury or annoyance of any person",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "183",
+        "offence": "Resistance to the taking of property by the lawful authority of a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "184",
+        "offence": "Obstructing sale of property offered for sale by authority of a public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "185",
+        "offence": "Bidding by a person under a legal incapacity to purchase it, for property at a lawfully authorised sale, or bidding without intending to perform the obligations incurred thereby",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "186",
+        "offence": "Obstructing public servant in discharge of his or her public functions",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "187",
+        "offence": "Omission to assist public servant when bound by law to give such assistance",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "187",
+        "offence": "Wilfully neglecting to aid a public servant who demands aid in the execution of process, the prevention of offences, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "188",
+        "offence": "Disobedience to an order lawfully promulgated by a public servant, if such disobedience causes obstruction, annoyance or injury to persons lawfully employed",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "188",
+        "offence": "If such disobedience causes danger to human life, health or safety, etc.",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "189",
+        "offence": "Threatening a public servant with injury to him or her, or one in whom he or she is interested, to induce him or her to do or forbear to do any official act",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "190",
+        "offence": "Threatening any person to induce the person to refrain from making a legal application for protection from injury",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "193",
+        "offence": "Giving or fabricating false evidence in a judicial proceeding",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "193",
+        "offence": "Giving or fabricating false evidence in any other case",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "194",
+        "offence": "Giving or fabricating false evidence with intent to cause any person to be convicted of a capital offence",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "194",
+        "offence": "If innocent person is thereby convicted and executed",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or as above"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "195",
+        "offence": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for 7 years or upwards",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "195",
+        "offence": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "196",
+        "offence": "Corruptly using or attempting to use evidence known to be false or fabricated",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for giving or fabricating false evidence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "197",
+        "offence": "Knowingly issuing or signing a false certificate relating to any fact of which that certificate is by law admissible in evidence",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for giving false evidence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "198",
+        "offence": "Using as a true certificate one known to be false in a material point",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for giving false evidence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "199",
+        "offence": "False statement made in any declaration which is by law receivable as evidence",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for giving false evidence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "200",
+        "offence": "Using as true any such declaration known to be false",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The same as for giving false evidence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "201",
+        "offence": "Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender, if the offence is capital",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "201",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "201",
+        "offence": "If punishable with imprisonment for less than 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "202",
+        "offence": "Intentional omission to give information of an offence by a person legally bound to inform",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "203",
+        "offence": "Giving false information respecting an offence committed",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "204",
+        "offence": "Secreting or destroying any document or electronic record to prevent its production as evidence",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "204A",
+        "offence": "Obstructing, preventing, perverting or defeating course of justice",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "204B",
+        "offence": "Bribery of witnesses",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "205",
+        "offence": "False personation for the purpose of any act or proceeding in a suit or criminal prosecution, or for becoming bail or security",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "206",
+        "offence": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture or in satisfaction of a fine under sentence, or in execution of a decree",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "207",
+        "offence": "Claiming property without right, or practising deception touching any right to it, to prevent its being taken as a forfeiture, or in satisfaction of a fine under sentence, or in execution of a decree",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "208",
+        "offence": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed after it has been satisfied",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "210",
+        "offence": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed after it has been satisfied",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "211",
+        "offence": "False charge of offence made with intent to injure",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "211",
+        "offence": "If offence charged is punishable with death, or imprisonment for 7 years or upwards",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "212",
+        "offence": "Harbouring an offender, if the offence is capital",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "212",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "212",
+        "offence": "If punishable with imprisonment for one year and not for 20 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "213",
+        "offence": "Taking gift, etc., to screen an offender from punishment, if the offence is capital",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "213",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "213",
+        "offence": "If punishable with imprisonment for less than 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "214",
+        "offence": "Offering gift or restoration of property in consideration of screening offender, if the offence is capital",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "214",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "214",
+        "offence": "If punishable with imprisonment for less than 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "215",
+        "offence": "Taking gift to help to recover movable property of which a person has been deprived by an offence, without causing apprehension of offender",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "216",
+        "offence": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence is capital",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "216",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "216",
+        "offence": "If punishable with imprisonment for one year and not for 20 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for a quarter of the longest term provided for the offence, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "216A",
+        "offence": "Harbouring robbers or gang-robbers",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "217",
+        "offence": "Public servant disobeying a direction of law with intent to save person from punishment, or property from forfeiture",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "218",
+        "offence": "Public servant framing an incorrect record or writing with intent to save person from punishment, or property from forfeiture",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "219",
+        "offence": "Public servant in a judicial proceeding corruptly making or pronouncing an order, a report, a verdict or a decision which he or she knows to be contrary to law",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "220",
+        "offence": "Commitment for trial or confinement by a person having authority, who knows that he or she is acting contrary to law",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "221",
+        "offence": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend an offender, if the offence is capital",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "221",
+        "offence": "If punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "221",
+        "offence": "If punishable with imprisonment for less than 20 years",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "222",
+        "offence": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend person under sentence of a court of justice, if under sentence of death",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "222",
+        "offence": "If under sentence of imprisonment for 20 years or upwards",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "222",
+        "offence": "If under sentence of imprisonment for less than 20 years, or lawfully committed to custody",
+        "arrestable": "According as to whether arrest may be made without warrant for the offence or not",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "223",
+        "offence": "Escape from confinement negligently suffered by a public servant",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "224",
+        "offence": "Resistance or obstruction by a person to his or her lawful apprehension",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225",
+        "offence": "Resistance or obstruction to the lawful apprehension of another person, or rescuing him or her from lawful custody",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225",
+        "offence": "If charged with an offence punishable with imprisonment for life or imprisonment for 20 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225",
+        "offence": "If charged with a capital offence",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225",
+        "offence": "If the person is sentenced to imprisonment for 10 years or upwards",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225",
+        "offence": "If under sentence of death",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225A",
+        "offence": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend any person in a case not provided for by section 221, 222 or 223",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225A",
+        "offence": "Negligent omission to do same",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225B",
+        "offence": "Resistance or obstruction by a person to the lawful apprehension of himself or herself or any other person in a case not otherwise provided for",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "225C",
+        "offence": "Illegal act or omission for which punishment is not provided",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "226",
+        "offence": "Unlawful return from banishment",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for the original term of banishment or expulsion, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "227 (repealed)",
+        "offence": "Violation of condition of remission of punishment",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Punishment of original sentence, or, if part of the punishment has been undergone, the residue"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "228",
+        "offence": "Intentional insult or interruption to a public servant sitting in any stage of a judicial proceeding",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "229",
+        "offence": "Personation of an assessor",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "255",
+        "offence": "Counterfeiting a Government stamp",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "256",
+        "offence": "Having possession of an instrument or material for the purpose of counterfeiting a Government stamp",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "257",
+        "offence": "Making, buying or selling instrument for the purpose of counterfeiting a Government stamp",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "258",
+        "offence": "Sale of counterfeit Government stamp",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "259",
+        "offence": "Having possession of a counterfeit Government stamp",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "260",
+        "offence": "Using as genuine a Government stamp known to be counterfeit",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "261",
+        "offence": "Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it with intent to cause loss to Government",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "262",
+        "offence": "Using a Government stamp known to have been before used",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "263",
+        "offence": "Erasure of mark denoting that stamp has been used",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "267B",
+        "offence": "Committing affray",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "267C",
+        "offence": "Making, printing, etc., document containing incitement to violence, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "268A",
+        "offence": "Communicating false information of harmful thing",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "268B",
+        "offence": "Placing or sending thing with intent to cause fear of harm",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "268C",
+        "offence": "Placing or sending thing causing fear of harm",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "269",
+        "offence": "Negligently doing any act known to be likely to spread infection of any disease dangerous to life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "270",
+        "offence": "Intentionally or rashly doing any act known to or likely to spread infection of any disease dangerous to life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "271",
+        "offence": "Knowingly disobeying any quarantine rule",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "272",
+        "offence": "Adulterating food or drink intended for sale, so as to make the same noxious",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "273",
+        "offence": "Selling any food or drink as food and drink knowing the same to be noxious",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "274",
+        "offence": "Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "275",
+        "offence": "Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "276",
+        "offence": "Knowingly selling or issuing from a dispensary any drug or medical preparation as a different drug or medical preparation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "277",
+        "offence": "Fouling the water of a public spring or reservoir",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "278",
+        "offence": "Making atmosphere noxious to health",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "279",
+        "offence": "Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "280",
+        "offence": "Navigating any vessel so rashly or negligently as to endanger human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "281",
+        "offence": "Exhibition of a false light, mark or buoy",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "282",
+        "offence": "Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his or her life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "283",
+        "offence": "Causing danger, obstruction or injury in any public way or line of navigation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "284(1)(a)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to be likely to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "284(1)(b)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "284(1)(c)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "284(1)(d)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "284(1)(e)",
+        "offence": "Rash or negligent conduct with dangerous or harmful substance so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(a)",
+        "offence": "Causing or contributing to the risk of dangerous fire where the fire is likely to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(b)",
+        "offence": "Where the fire endangers human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(c)",
+        "offence": "Where the fire damages property or diminishes value or utility thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 18 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(d)",
+        "offence": "Where the fire causes hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(e)",
+        "offence": "Where the fire causes grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "285(1)(f)",
+        "offence": "Where the fire causes death to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "287(1)(a)",
+        "offence": "Rash or negligent conduct with machinery so as to be likely to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "287(1)(b)",
+        "offence": "Rash or negligent conduct with machinery so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "287(1)(c)",
+        "offence": "Rash or negligent conduct with machinery so as to cause hurt or injury to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "287(1)(d)",
+        "offence": "Rash or negligent conduct with machinery so as to cause grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "287(1)(e)",
+        "offence": "Rash or negligent conduct with machinery so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "288(1)(a)",
+        "offence": "Negligence in pulling down or repairing buildings so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "288(1)(b)",
+        "offence": "Negligence in pulling down or repairing buildings so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "289(1)(a)",
+        "offence": "Negligent conduct with respect to any animal so as to be likely to cause grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "289(1)(b)",
+        "offence": "Negligent conduct with respect to any animal so as to endanger human life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "289(1)(c)",
+        "offence": "Negligent conduct with respect to any animal so as to cause grievous hurt to any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "289(1)(d)",
+        "offence": "Negligent conduct with respect to any animal so as to cause death of any other person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "290(a)",
+        "offence": "Committing a public nuisance",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "290(b)",
+        "offence": "Where the offender knew that the public nuisance will cause or will probably cause any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "290(c)",
+        "offence": "Committing a public nuisance on second or subsequent conviction",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "291",
+        "offence": "Continuance of nuisance after injunction to discontinue",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "292(1)",
+        "offence": "Sale, etc., of obscene books, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "292(1A)",
+        "offence": "Sale, etc., of obscene objects depicting minor below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "292A",
+        "offence": "Possession, distribution, etc., of child sex-doll",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "293",
+        "offence": "Sale, etc., of obscene objects to persons under the age of 21 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "294",
+        "offence": "Doing obscene act or reciting obscene words in a public place",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "295",
+        "offence": "Destroying, damaging, or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "296",
+        "offence": "Causing a disturbance to an assembly engaged in religious worship",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "297",
+        "offence": "Trespassing in place of worship or sepulture, disturbing funeral, with intention to wound the feelings or to insult the religion of any person, or offering indignity to a human corpse",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "298",
+        "offence": "Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causing any matter however represented to be seen or heard by that person, with intention to wound his or her religious or racial feelings",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "298A",
+        "offence": "Promoting enmity between different groups on grounds of religion or race, and doing acts prejudicial to maintenance of harmony",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "302",
+        "offence": "Murder",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304(a)",
+        "offence": "Culpable homicide not amounting to murder if act by which the death is caused is done with intention of causing death, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304(b)",
+        "offence": "If act is done with knowledge that it is likely to cause death, but without any intention to cause death, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304A(a)",
+        "offence": "Causing death by rash act",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304A(b)",
+        "offence": "Causing death by negligent act",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304B",
+        "offence": "Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "304C",
+        "offence": "Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "305(1)(a)",
+        "offence": "Abetment of suicide of minor, or person who lacks capacity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "305(1)(b)",
+        "offence": "Abetment of attempted suicide committed by minor, or person who lacks capacity",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "305(1)(c)",
+        "offence": "Abetment of attempted suicide of minor, or person who lacks capacity where hurt is caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "306",
+        "offence": "Abetting the commission of suicide or attempted suicide",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "307(1)",
+        "offence": "Attempt to murder",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "307(1)",
+        "offence": "If hurt is caused to any person by such act",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and caning, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "307(2)",
+        "offence": "Attempt by life-convict to murder, if hurt is caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "308",
+        "offence": "Attempt to commit culpable homicide not amounting to murder",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "308",
+        "offence": "If hurt is caused to any person by such act",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "308A",
+        "offence": "Causing death in furtherance of group's object",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "308B",
+        "offence": "Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "311",
+        "offence": "Infanticide",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "312",
+        "offence": "Causing miscarriage",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "312",
+        "offence": "If the woman's pregnancy is more than 16 weeks",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "313",
+        "offence": "Causing miscarriage without woman's consent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "314",
+        "offence": "Death caused by an act done with intent to cause miscarriage",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "314",
+        "offence": "If act done without woman's consent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "315",
+        "offence": "Act done with intent to prevent a child being born alive, or to cause the child to die after his or her birth",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "316",
+        "offence": "Causing death of a quick unborn child by an act amounting to culpable homicide",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "317",
+        "offence": "Exposure of a child under 12 years of age by parent or person having care of such child, with intention of wholly abandoning the child",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "318",
+        "offence": "Concealment of birth by secret disposal of dead body",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "323",
+        "offence": "Voluntarily causing hurt",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "323A",
+        "offence": "Voluntarily causing hurt which causes grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "324",
+        "offence": "Voluntarily causing hurt by dangerous weapons or means",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "325",
+        "offence": "Voluntarily causing grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "326",
+        "offence": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "327",
+        "offence": "Voluntarily causing hurt to extort property or a valuable security, or to constrain to do anything which is illegal or which may facilitate the commission of an offence",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "328",
+        "offence": "Administering poison, etc., with intent to cause hurt, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "329",
+        "offence": "Voluntarily causing grievous hurt to extort property or a valuable security, or to constrain to do anything which is illegal or which may facilitate the commission of an offence",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "330",
+        "offence": "Voluntarily causing hurt to extort confession or information, or to compel restoration of property, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "331",
+        "offence": "Voluntarily causing grievous hurt to extort confession or information, or to compel restoration of property, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "332",
+        "offence": "Voluntarily causing hurt to deter public servant from his or her duty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "333",
+        "offence": "Voluntarily causing grievous hurt to deter public servant from his or her duty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "334",
+        "offence": "Voluntarily causing hurt on grave and sudden provocation, not intending to hurt any other than the person who gave the provocation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "334A",
+        "offence": "Voluntarily causing hurt on provocation which causes grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "335",
+        "offence": "Causing grievous hurt on grave and sudden provocation, not intending to hurt any other than the person who gave the provocation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "335A(5)(a)",
+        "offence": "Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "335A(5)(b)",
+        "offence": "Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is not caused",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "335B",
+        "offence": "Act which endangers human life, etc., with knowledge or belief that it is likely to cause death",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "336(a)",
+        "offence": "Doing any rash act which endangers human life or the personal safety of others",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "336(b)",
+        "offence": "Doing any negligent act which endangers human life or the personal safety of others",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "337(a)",
+        "offence": "Causing hurt by a rash act which endangers human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "337(b)",
+        "offence": "Causing hurt by a negligent act which endangers human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 6 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "338(a)",
+        "offence": "Causing grievous hurt by a rash act which endangers human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "338(b)",
+        "offence": "Causing grievous hurt by a negligent act which endangers human life, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "341",
+        "offence": "Wrongfully restraining any person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "342",
+        "offence": "Wrongfully confining any person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "345",
+        "offence": "Keeping any person in wrongful confinement, knowing that a writ has been issued for his or her liberation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, in addition to imprisonment under any other section"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "346",
+        "offence": "Wrongful confinement in secret",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, in addition to imprisonment under any other section"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "347",
+        "offence": "Wrongful confinement for the purpose of extorting property, or constraining to an illegal act, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "348",
+        "offence": "Wrongful confinement for the purpose of extorting confession or information, or of compelling restoration of property, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "352",
+        "offence": "Assault or use of criminal force otherwise than on grave and sudden provocation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "353",
+        "offence": "Assault or use of criminal force to deter a public servant from discharge of his or her duty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "354(1)",
+        "offence": "Assault or use of criminal force to a person with intent to outrage modesty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "354(2)",
+        "offence": "If committed against any person under 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "354A(1)",
+        "offence": "Voluntarily causing or attempting to cause death, hurt, etc., in committing the offence of outraging modesty",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "354A(2)",
+        "offence": "If committed in a lift in any building or against any person under 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "355",
+        "offence": "Assault or use of criminal force with intent to dishonour a person, otherwise than on grave and sudden provocation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "356",
+        "offence": "Assault or use of criminal force in committing or attempting to commit theft of property worn or carried by a person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "357",
+        "offence": "Assault or use of criminal force in attempting wrongfully to confine a person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "358",
+        "offence": "Assault or use of criminal force on grave and sudden provocation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one month, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "363",
+        "offence": "Kidnapping",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "363A",
+        "offence": "Abduction",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or caning, or any combination of such punishments"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "364",
+        "offence": "Kidnapping or abducting in order to murder",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "365",
+        "offence": "Kidnapping or abducting with intent secretly and wrongfully to confine a person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "366",
+        "offence": "Kidnapping or abducting a woman to compel her marriage or to cause her defilement, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "367",
+        "offence": "Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "368",
+        "offence": "Concealing or keeping in confinement a kidnapped person",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Punishment for kidnapping or abduction"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "370",
+        "offence": "Buying or disposing of any person as a slave",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "371",
+        "offence": "Habitual dealing in slaves",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "372",
+        "offence": "Selling or letting to hire a minor for purposes of prostitution, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "373",
+        "offence": "Buying or obtaining possession of a minor for the same purposes",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "373A",
+        "offence": "Importing woman by fraud with intent, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "374",
+        "offence": "Unlawful compulsory labour",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "375(2)",
+        "offence": "Rape",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "375(3)(a)",
+        "offence": "If in order to commit or to facilitate the commission of an offence of rape, voluntarily causes hurt or puts a person in fear of death or hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "375(3)(b)",
+        "offence": "Rape of person below 14 years of age without person's consent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "375(3)(c)",
+        "offence": "Exploitative rape of person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376(3)",
+        "offence": "Sexual assault involving penetration",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376(4)(a)",
+        "offence": "If in order to commit or to facilitate the commission of sexual assault involving penetration, voluntarily causes hurt or puts a person in fear of death or hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376(4)(b)",
+        "offence": "Sexual assault involving penetration of person under 14 years of age without his or her consent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376(4)(c)",
+        "offence": "Exploitative sexual assault involving penetration of person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376A(2)(a)",
+        "offence": "Exploitative sexual penetration of minor of or above 14 but below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376A(2)(b)",
+        "offence": "Sexual penetration of minor of or above 14 but below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376A(3)",
+        "offence": "Sexual penetration of minor under 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376AA",
+        "offence": "Exploitative sexual penetration of minor of or above 16 but below 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376B(1)",
+        "offence": "Commercial sex or sexual touching involving minor under 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376B(2)",
+        "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376C(2)",
+        "offence": "Commercial sex or sexual touching involving minor under 18 years of age outside Singapore",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376C(2)",
+        "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age outside Singapore",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376D(3)",
+        "offence": "Tour outside Singapore for commercial sex or sexual touching involving minor under 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376E(4)(a)",
+        "offence": "Sexual grooming of minor below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376E(4)(b)",
+        "offence": "Sexual grooming of minor of or above 14 but below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EA(4)",
+        "offence": "Exploitative sexual grooming of minor of or above 16 but below 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EB(3)(a)",
+        "offence": "Sexual communication with minor below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EB(3)(b)",
+        "offence": "Sexual communication with minor of or above 14 but below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EC(3)",
+        "offence": "Exploitative sexual communication with minor of or above 16 but below 18 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376ED(1)",
+        "offence": "Engaging in sexual activity in presence of minor below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376ED(1)",
+        "offence": "Engaging in sexual activity in presence of minor of or above 14 but below 16 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376ED(2)",
+        "offence": "Causing minor below 14 years of age to observe sexual image",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376ED(2)",
+        "offence": "Causing minor of or above 14 but below 16 years of age to observe sexual image",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EE(1)",
+        "offence": "Engaging in sexual activity in presence of minor of or above 16 but below 18 years of age with exploitative relationship",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376EE(2)",
+        "offence": "Causing minor of or above 16 but below 18 years of age to observe sexual image with exploitative relationship",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376F(2)",
+        "offence": "Procurement of sexual activity with a person with mental disability",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376F(3)",
+        "offence": "If penetration is involved",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376G",
+        "offence": "Incest",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376H(2)(a)",
+        "offence": "Procurement of sexual activity by deception or false representation if penetration is involved",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "376H(2)(b)",
+        "offence": "Procurement of sexual activity by deception or false representation in any other case",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377(2)",
+        "offence": "Penile or sexual penetration of a corpse, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377(3)",
+        "offence": "Causing another person to carry out penile or sexual penetration of a corpse without the person's consent, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377A",
+        "offence": "Outrages on decency",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377B(2)",
+        "offence": "Sexual penetration with living animal",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377B(4)",
+        "offence": "Causing another person to sexually penetrate a living animal",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377B(4)",
+        "offence": "Causing another person to be sexually penetrated by a living animal",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BA",
+        "offence": "Uttering any word or making any gesture intended to insult the modesty of a person, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BB(7)",
+        "offence": "Voyeurism",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BB(8)",
+        "offence": "If committed against any person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BC(3)",
+        "offence": "Distribution of voyeuristic image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BC(4)",
+        "offence": "If committed against any person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BD(2)",
+        "offence": "Possession of or gaining access to voyeuristic or intimate image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BD(3)",
+        "offence": "If committed against any person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BE(3)",
+        "offence": "Distributing or threatening to distribute intimate image or recording",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BE(4)",
+        "offence": "If committed against any person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BF(3)",
+        "offence": "Sexual exposure",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for one year, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BF(4)",
+        "offence": "If committed against any person below 14 years of age",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BG(2)",
+        "offence": "Using or involving child in production of child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BH(2)",
+        "offence": "Producing child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BI(2)",
+        "offence": "Distributing or selling child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BJ(3)",
+        "offence": "Advertising or seeking child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BK(2)",
+        "offence": "Possession of or gaining access to child abuse material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BL(2)",
+        "offence": "Exploitation by abusive material of minor of or above 16 but below 18 years of age by using, causing or procuring minor in production of abusive material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BL(3)",
+        "offence": "Exploitation by producing abusive material of minor",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "377BL(4)",
+        "offence": "Exploitation by distributing or sale of abusive material of minor",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "379",
+        "offence": "Theft",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "379A",
+        "offence": "Theft of motor vehicle or any component part thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "380",
+        "offence": "Theft in a building, tent or vessel",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "381",
+        "offence": "Theft by clerk or servant of property in possession of master or employer",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "382",
+        "offence": "Theft after preparation made for causing death or hurt in order to commit theft",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "384",
+        "offence": "Extortion",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "385",
+        "offence": "Putting or attempting to put in fear of harm, in order to commit extortion",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "386",
+        "offence": "Extortion by putting a person in fear of death or grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "387",
+        "offence": "Putting or attempting to put a person in fear of death or grievous hurt, in order to commit extortion",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "388",
+        "offence": "Extortion by threat of accusation of an offence punishable with death, or imprisonment for life, or imprisonment for 10 years",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "389",
+        "offence": "Putting a person in fear of accusation of offence punishable with death, or imprisonment for life, or imprisonment for 10 years, in order to commit extortion",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "392",
+        "offence": "Robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "392",
+        "offence": "If committed after 7 p.m. and before 7 a.m.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 14 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "393",
+        "offence": "Attempt to commit robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "394",
+        "offence": "Person voluntarily causing hurt in committing or attempting to commit robbery, or any other person jointly concerned in such robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "395",
+        "offence": "Gang-robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "396",
+        "offence": "Gang-robbery with murder",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Death, or imprisonment for life, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "397",
+        "offence": "Robbery when armed or with attempt to cause death or grievous hurt",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Caning in addition to the punishment under any other section"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "399",
+        "offence": "Making preparation to commit gang-robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "400",
+        "offence": "Belonging to a gang of persons associated for the purpose of habitually committing gang-robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "401",
+        "offence": "Belonging to a gang of persons associated for the purpose of habitually committing theft",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "402",
+        "offence": "Being one of 5 or more persons assembled for the purpose of committing gang-robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "403",
+        "offence": "Dishonest misappropriation of movable property, or converting it to one's own use",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "404",
+        "offence": "Dishonest misappropriation of property, knowing that it was in the possession of a deceased person at his or her death, and that it has not since been in the possession of any person legally entitled to it",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "404",
+        "offence": "If by clerk or person employed by deceased",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "406",
+        "offence": "Criminal breach of trust",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "407",
+        "offence": "Criminal breach of trust of property entrusted for purposes of transportation or storage",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "408",
+        "offence": "Criminal breach of trust by employees",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "409",
+        "offence": "Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "411(1)",
+        "offence": "Receiving or retaining stolen property, knowing it to be stolen",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "411(2)",
+        "offence": "If the stolen property is a motor vehicle or any component part thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "412",
+        "offence": "Receiving property stolen in the commission of gang-robbery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "413",
+        "offence": "Habitually dealing in stolen property",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "414(1)",
+        "offence": "Assisting in concealment or disposal of stolen property, knowing it to be stolen",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "414(2)",
+        "offence": "If the stolen property is a motor vehicle or any component part thereof",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "416A(5)",
+        "offence": "Illegally obtained personal information",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "417",
+        "offence": "Cheating",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "418",
+        "offence": "Cheating a person whose interest the offender was bound, either by law or by legal contract, to protect",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "419",
+        "offence": "Cheating by personation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "420",
+        "offence": "Cheating and thereby dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "420A",
+        "offence": "Obtaining services dishonestly or fraudulently",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "421",
+        "offence": "Fraudulent removal or concealment of property, etc., to prevent distribution among creditors",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "422",
+        "offence": "Fraudulently preventing from being made available for creditors a debt or demand due to the offender",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "423",
+        "offence": "Fraudulent execution of deed of transfer containing a false statement of consideration",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "424",
+        "offence": "Fraudulent removal or concealment of property of the person or any other person, or assisting in the doing, thereof, or dishonestly releasing any demand or claim to which the person is entitled",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "424A(3)",
+        "offence": "Fraud by false representation, non-disclosure or abuse of position not connected with contracts for goods or services",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "424B(3)",
+        "offence": "Fraud by false representation, non-disclosure or abuse of position - where otherwise",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "426",
+        "offence": "Mischief",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "427",
+        "offence": "Mischief, and thereby causing disruption to key service, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "428",
+        "offence": "Mischief by killing, poisoning, maiming or rendering useless, any animal",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "435",
+        "offence": "Mischief by fire or explosive substance",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "436",
+        "offence": "Mischief by fire or explosive substance with intent to destroy a house, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "437",
+        "offence": "Mischief with intent to destroy or make unsafe a decked vessel or a vessel of 20 tons burden",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "438",
+        "offence": "The mischief described in section 437 when committed by fire or any explosive substance",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "439",
+        "offence": "Running vessel ashore with intent to commit theft, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "440",
+        "offence": "Mischief committed after preparation made for causing death or hurt, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "447",
+        "offence": "Criminal trespass",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 months, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "448",
+        "offence": "House-breaking",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "449",
+        "offence": "House-breaking in order to commit an offence punishable with death",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for life, or imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "450",
+        "offence": "House-breaking in order to commit an offence punishable with imprisonment for life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "451",
+        "offence": "House-breaking in order to commit an offence punishable with imprisonment",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "452",
+        "offence": "House-breaking, after preparation made for causing hurt, assault, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "453",
+        "offence": "Possession of house-breaking implements or offensive weapons",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both and forfeiture of any instrument or article found in the possession of that person"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "458A",
+        "offence": "Committing an offence under section 449, 450, 451 or 452 subsequent to having been convicted of an offence under section 449, 450, 451 or 452",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Caning in addition to the punishment prescribed for the offence"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "459",
+        "offence": "Grievous hurt caused while committing house-breaking",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "460",
+        "offence": "Death or grievous hurt caused by one of several persons jointly concerned in house-breaking",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "461",
+        "offence": "Dishonestly breaking open or unfastening any closed receptacle containing or supposed to contain property",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "462",
+        "offence": "Being entrusted with any closed receptacle containing or supposed to contain any property, and fraudulently opening the same",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "465",
+        "offence": "Forgery",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 4 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "466",
+        "offence": "Forgery of a record of a court of justice or of a register of births, etc., kept by a public servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "467",
+        "offence": "Forgery of a valuable security, will, or authority to make or transfer any valuable security, or to receive any money, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "468",
+        "offence": "Forgery for the purpose of cheating",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "469",
+        "offence": "Forgery for the purpose of harming the reputation of any person, or knowing that it is likely to be used for that purpose",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 5 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "471",
+        "offence": "Using as genuine a forged document or forged electronic record which is known to be forged",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Bailable",
+        "punishment": "Punishment for forgery"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "472",
+        "offence": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable under section 467, or possessing with like intent any such seal, plate, etc., knowing the same to be counterfeit",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "473",
+        "offence": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable otherwise than under section 467, or possessing with like intent any such seal, plate, etc., knowing the same to be counterfeit",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "473A",
+        "offence": "Making or possessing equipment for making false instrument",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "473B",
+        "offence": "Making or possessing equipment for making false instrument with intent to induce prejudice",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "474",
+        "offence": "Having possession of a document or an electronic record knowing it to be forged, with intent to use it as genuine, if the document or electronic record is one of the descriptions mentioned in section 466",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "474",
+        "offence": "If the document is one of the descriptions mentioned in section 467",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "475",
+        "offence": "Counterfeiting a device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "476",
+        "offence": "Counterfeiting a device or mark used for authenticating documents or electronic records other than those described in section 467, or possessing counterfeit marked material",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "477",
+        "offence": "Fraudulently destroying or defacing, or attempting to destroy or deface, or secreting a will, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "477A",
+        "offence": "Falsification of accounts by clerk or servant",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489A",
+        "offence": "Forging or counterfeiting currency or bank notes",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489B",
+        "offence": "Using as genuine forged or counterfeit currency or bank notes",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489C",
+        "offence": "Possession of forged or counterfeit currency or bank notes, with intent",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 15 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489D",
+        "offence": "Making or possessing instruments or materials for forging or counterfeiting currency or bank notes",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489E",
+        "offence": "Abetting in Singapore counterfeiting of currency out of Singapore",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "The punishment provided for abetting the counterfeiting of such currency within Singapore"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489F",
+        "offence": "Fraudulently or dishonestly diminishing weight or altering composition of coin",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489G",
+        "offence": "Altering appearance of currency with intent that it passes as currency of different description",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 7 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489H",
+        "offence": "Delivering to another of altered currency",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "489I",
+        "offence": "Possession of altered currency",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 5 years, and fine"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "500",
+        "offence": "Defamation",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "501",
+        "offence": "Printing or engraving matter knowing it to be defamatory",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "502",
+        "offence": "Sale of printed or engraved substance containing defamatory matter, knowing it to contain such matter",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "504",
+        "offence": "Insult intended to provoke a breach of the peace",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Summons",
+        "bailable": "Bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "505",
+        "offence": "False statement, rumour, etc., circulated with intent to cause mutiny or offence against the public peace",
+        "arrestable": "May not arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 3 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "506",
+        "offence": "Criminal intimidation",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "506",
+        "offence": "If threat is to cause death or grievous hurt, etc.",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, or fine, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "507",
+        "offence": "Criminal intimidation by anonymous communication or having taken precaution to conceal from where the threat comes",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 2 years, in addition to the punishment under section 506"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "512(1)",
+        "offence": "Attempting (where no express provision is made by the Penal Code 1871 or by other written law) to commit offences punishable with death or imprisonment for life",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 20 years, and fine, or caning"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "512(2)",
+        "offence": "If the attempted offence is punishable with any punishment or combination of punishments other than death or imprisonment for life",
+        "arrestable": "According as to whether the offence is one in respect of which the police may arrest without warrant or not",
+        "warrant": "According as to whether the offence is one in respect of which a summons or warrant shall ordinarily issue",
+        "bailable": "According as to whether the offence attempted is bailable or not",
+        "punishment": "The punishment provided for the offence, except that the court is not bound to impose any specified minimum sentence or mandatory minimum sentence of imprisonment, or fine or caning"
+    }
+]

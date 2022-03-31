@@ -1,12 +1,12 @@
 // Global constants
 const ARRESTABLE = "May arrest without warrant";
-const NONARRESTABLE = "Shall not arrest without warrant";
+const NONARRESTABLE = "May not arrest without warrant";
 const BAILABLE = "Bailable";
 const NONBAILABLE = "Not bailable";
 
 // Statutes currently supported by the app
 // Script will look for and parse JSON file with statute name in /data
-const statutes = ["224"];
+const statutes = ["pc"];
 
 // Main array to store everything
 var data = [];
@@ -190,7 +190,6 @@ $(document).ready(function()
         $("#section").html(suggestion["section"]);
         $("#offence").html(suggestion["offence"]);
         $("#statute").html(suggestion["statute"]);
-        $("#statute-name").html(suggestion["statute_name"]);
         $("#arrestable-desc").html(suggestion["arrestable"]);
         $("#punishment").html(suggestion["punishment"]);
 
@@ -245,7 +244,7 @@ $(document).ready(function()
 
             switch (suggestion["statute"])
             {
-                case ("224"): // Penal Code
+                case ("Penal Code 1871"):
                     // Regex removes brackets and their contents in the section number since they are not supported in the listing
                     // so e.g. 304A(b) becomes simply 304A
                     var agclink = suggestion["section"].replace(/ *\([^)]*\) */g, "");
