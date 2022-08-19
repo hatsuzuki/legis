@@ -1100,7 +1100,7 @@
     {
         "statute": "Penal Code 1871",
         "section": "206",
-        "offence": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture or in satisfaction of a fine under sentence, or in execution of a decree",
+        "offence": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture or in satisfaction of a fine under sentence, or in execution of a decree, or under or pursuant to an enforcement order",
         "arrestable": "May not arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -1109,7 +1109,7 @@
     {
         "statute": "Penal Code 1871",
         "section": "207",
-        "offence": "Claiming property without right, or practising deception touching any right to it, to prevent its being taken as a forfeiture, or in satisfaction of a fine under sentence, or in execution of a decree",
+        "offence": "Claiming property without right, or practising deception touching any right to it, to prevent its being taken as a forfeiture, or in satisfaction of a fine under sentence, or in execution of a decree, or under or pursuant to an enforcement order",
         "arrestable": "May not arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -1118,7 +1118,7 @@
     {
         "statute": "Penal Code 1871",
         "section": "208",
-        "offence": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed after it has been satisfied",
+        "offence": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed or enforced after it has been satisfied",
         "arrestable": "May not arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -1127,7 +1127,7 @@
     {
         "statute": "Penal Code 1871",
         "section": "210",
-        "offence": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed after it has been satisfied",
+        "offence": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed or enforced after it has been satisfied",
         "arrestable": "May not arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
