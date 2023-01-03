@@ -1595,7 +1595,7 @@
     {
         "statute": "Penal Code 1871",
         "section": "267C",
-        "offence": "Making, printing, etc., document containing incitement to violence, etc.",
+        "offence": "Uttering words, making document, etc., containing incitement to violence, etc.",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
@@ -2044,45 +2044,18 @@
     },
     {
         "statute": "Penal Code 1871",
-        "section": "295",
-        "offence": "Destroying, damaging, or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 5 years, or fine, or both"
-    },
-    {
-        "statute": "Penal Code 1871",
-        "section": "296",
-        "offence": "Causing a disturbance to an assembly engaged in religious worship",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, or fine, or both"
-    },
-    {
-        "statute": "Penal Code 1871",
-        "section": "297",
-        "offence": "Trespassing in place of worship or sepulture, disturbing funeral, with intention to wound the feelings or to insult the religion of any person, or offering indignity to a human corpse",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Summons",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 3 years, or fine, or both"
-    },
-    {
-        "statute": "Penal Code 1871",
         "section": "298",
-        "offence": "Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causing any matter however represented to be seen or heard by that person, with intention to wound his or her religious or racial feelings",
-        "arrestable": "May not arrest without warrant",
+        "offence": "Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causing any matter however represented to be seen or heard by that person, with intention to wound his racial feelings",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
-        "bailable": "Not bailable",
+        "bailable": "Bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
     },
     {
         "statute": "Penal Code 1871",
         "section": "298A",
         "offence": "Promoting enmity between different groups on grounds of religion or race, and doing acts prejudicial to maintenance of harmony",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
@@ -3139,15 +3112,6 @@
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 20 years, and fine or caning"
-    },
-    {
-        "statute": "Penal Code 1871",
-        "section": "377A",
-        "offence": "Outrages on decency",
-        "arrestable": "May arrest without warrant",
-        "warrant": "Warrant",
-        "bailable": "Not bailable",
-        "punishment": "Imprisonment for 2 years"
     },
     {
         "statute": "Penal Code 1871",
@@ -4224,7 +4188,7 @@
         "statute": "Penal Code 1871",
         "section": "505",
         "offence": "False statement, rumour, etc., circulated with intent to cause mutiny or offence against the public peace",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
