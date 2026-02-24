@@ -131,6 +131,12 @@ for i in offences:
     # skip edge case where section and offence are blank
     if i[0] == "" and i[1] == "":
         continue
+    
+    # very specific edge case where s 226 PC has a very long description after the section number in the section column
+    # move the description from the section column to the offence description column
+    if i[0].startswith("226 "):
+        i[1] += i[0][3:]
+        i[0] = "226"
 
     # create an offence to append in the json
     r = {
