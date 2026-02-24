@@ -125,8 +125,14 @@ for i in offences:
         i[n] = i[n].replace("Fine*", "Fine")
         i[n] = i[n].replace("fine*", "fine")
         i[n] = i[n].strip()
-        i[n] = re.sub("  +", "", i[n])
+        i[n] = re.sub("  +", " ", i[n])
+        i[n] = re.sub(r'\(\s*([^()]+?)\s*\)', r'(\1)', i[n]) # replace ( x ) with (x)
 
+    # skip edge case where section and offence are blank
+    if i[0] == "" and i[1] == "":
+        continue
+
+    # create an offence to append in the json
     r = {
             "statute"       :   "Penal Code 1871",
             "section"       :   i[0],
@@ -136,6 +142,7 @@ for i in offences:
             "bailable"      :   i[4],
             "punishment"    :   i[5]
         }
+ 
     offences_json.append(r)
 
 
