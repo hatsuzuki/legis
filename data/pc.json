@@ -642,7 +642,7 @@
         "statute": "Penal Code 1871",
         "section": "167",
         "offence": "Public servant framing an incorrect document or electronic record with intent to cause injury",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
@@ -777,7 +777,7 @@
         "statute": "Penal Code 1871",
         "section": "177",
         "offence": "If the information required respects the commission of an offence, etc.",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
@@ -813,7 +813,7 @@
         "statute": "Penal Code 1871",
         "section": "181",
         "offence": "Knowingly stating to a public servant on oath as true that which is false",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 3 years, and fine"
@@ -822,7 +822,7 @@
         "statute": "Penal Code 1871",
         "section": "182",
         "offence": "Giving false information to a public servant in order to cause him or her to use his or her lawful power to the injury or annoyance of any person",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -903,7 +903,7 @@
         "statute": "Penal Code 1871",
         "section": "189",
         "offence": "Threatening a public servant with injury to him or her, or one in whom he or she is interested, to induce him or her to do or forbear to do any official act",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -921,7 +921,7 @@
         "statute": "Penal Code 1871",
         "section": "193",
         "offence": "Giving or fabricating false evidence in a judicial proceeding",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, and fine"
@@ -930,7 +930,7 @@
         "statute": "Penal Code 1871",
         "section": "193",
         "offence": "Giving or fabricating false evidence in any other case",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, and fine"
@@ -975,7 +975,7 @@
         "statute": "Penal Code 1871",
         "section": "196",
         "offence": "Corruptly using or attempting to use evidence known to be false or fabricated",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for giving or fabricating false evidence"
@@ -984,7 +984,7 @@
         "statute": "Penal Code 1871",
         "section": "197",
         "offence": "Knowingly issuing or signing a false certificate relating to any fact of which that certificate is by law admissible in evidence",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
@@ -993,7 +993,7 @@
         "statute": "Penal Code 1871",
         "section": "198",
         "offence": "Using as a true certificate one known to be false in a material point",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
@@ -1002,7 +1002,7 @@
         "statute": "Penal Code 1871",
         "section": "199",
         "offence": "False statement made in any declaration which is by law receivable as evidence",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
@@ -1011,7 +1011,7 @@
         "statute": "Penal Code 1871",
         "section": "200",
         "offence": "Using as true any such declaration known to be false",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "The same as for giving false evidence"
@@ -1056,7 +1056,7 @@
         "statute": "Penal Code 1871",
         "section": "203",
         "offence": "Giving false information respecting an offence committed",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -1074,7 +1074,7 @@
         "statute": "Penal Code 1871",
         "section": "204A",
         "offence": "Obstructing, preventing, perverting or defeating course of justice",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
@@ -1083,7 +1083,7 @@
         "statute": "Penal Code 1871",
         "section": "204B",
         "offence": "Bribery of witnesses",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
@@ -1092,7 +1092,7 @@
         "statute": "Penal Code 1871",
         "section": "205",
         "offence": "False personation for the purpose of any act or proceeding in a suit or criminal prosecution, or for becoming bail or security",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
@@ -1290,7 +1290,7 @@
         "statute": "Penal Code 1871",
         "section": "218",
         "offence": "Public servant framing an incorrect record or writing with intent to save person from punishment, or property from forfeiture",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 3 years, or fine, or both"
@@ -1299,7 +1299,7 @@
         "statute": "Penal Code 1871",
         "section": "219",
         "offence": "Public servant in a judicial proceeding corruptly making or pronouncing an order, a report, a verdict or a decision which he or she knows to be contrary to law",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
@@ -1308,7 +1308,7 @@
         "statute": "Penal Code 1871",
         "section": "220",
         "offence": "Commitment for trial or confinement by a person having authority, who knows that he or she is acting contrary to law",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 7 years, or fine, or both"
@@ -1468,7 +1468,7 @@
     },
     {
         "statute": "Penal Code 1871",
-        "section": "226",
+        "section": "226 (as in force immediately before the date of commencement of section 77 of the Immigration (Amendment) Act 2023)",
         "offence": "Unlawful return from banishment",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
@@ -2640,7 +2640,7 @@
         "statute": "Penal Code 1871",
         "section": "355",
         "offence": "Assault or use of criminal force with intent to dishonour a person, otherwise than on grave and sudden provocation",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -2910,7 +2910,7 @@
         "statute": "Penal Code 1871",
         "section": "376B(2)",
         "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -2928,7 +2928,7 @@
         "statute": "Penal Code 1871",
         "section": "376C(2)",
         "offence": "Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age outside Singapore",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Summons",
         "bailable": "Not bailable",
         "punishment": "Imprisonment for 2 years, or fine, or both"
@@ -3522,7 +3522,7 @@
         "statute": "Penal Code 1871",
         "section": "404",
         "offence": "Dishonest misappropriation of property, knowing that it was in the possession of a deceased person at his or her death, and that it has not since been in the possession of any person legally entitled to it",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 3 years, and fine"
@@ -3531,7 +3531,7 @@
         "statute": "Penal Code 1871",
         "section": "404",
         "offence": "If by clerk or person employed by deceased",
-        "arrestable": "May not arrest without warrant",
+        "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Bailable",
         "punishment": "Imprisonment for 7 years, and fine"
@@ -3664,12 +3664,21 @@
     },
     {
         "statute": "Penal Code 1871",
-        "section": "420",
+        "section": "420(1)",
         "offence": "Cheating and thereby dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
         "arrestable": "May arrest without warrant",
         "warrant": "Warrant",
         "bailable": "Not bailable",
-        "punishment": "Imprisonment for 10 years, and fine"
+        "punishment": "Imprisonment for 10 years, and fine, or caning, or both"
+    },
+    {
+        "statute": "Penal Code 1871",
+        "section": "420(2)",
+        "offence": "Cheating by remote communication and thereby dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
+        "arrestable": "May arrest without warrant",
+        "warrant": "Warrant",
+        "bailable": "Not bailable",
+        "punishment": "Imprisonment for 10 years, and caning, and fine"
     },
     {
         "statute": "Penal Code 1871",
